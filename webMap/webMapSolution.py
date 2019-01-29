@@ -2,12 +2,30 @@ import folium
 import pandas as pd
 print(dir(folium))
 
-map = folium.Map(location=[40.897934, -73.885948], zoom_start = 7)
 df = pd.read_csv('Volcanoes.txt')
 
-for lat,lon,name,elev in zip(df['LAT'], df['LON'], df['NAME'], df['ELEV']):
-    folium.Marker(location=[lat, lon], popup=name, icon = folium.Icon(color='green' if elev in range(0,1000) else 'orange' if elev in range(1001,1999) else 'blue' if elev in range(2000,2999) else 'red', icon='cloud')).add_to(map)
 
+latmean = df['LAT'].mean()
+lonmean = df['LON'].mean()
+
+
+map = folium.Map(location=[latmean, lonmean], zoom_start = 7)
+
+
+def color(elev):
+    if elev in range(0,1000):
+        col = 'green'
+    elif elev in range(1000,1999):
+        col = "blue"
+    elif elev in range(2000,2999):
+        col = "orange"
+    else:
+        col = 'red'
+    return col
+
+
+for lat,lon,name,elev in zip(df['LAT'], df['LON'], df['NAME'], df['ELEV']):
+    folium.Marker(location=[lat, lon], popup=name, icon = folium.Icon(color = color(elev), icon = 'cloud')).add_to(map)
 
 
 # folium.Marker(location = [40.897934, -73.885948], popup='I am lost please help...', icon = folium.Icon(icon= 'cloud')).add_to(map)
