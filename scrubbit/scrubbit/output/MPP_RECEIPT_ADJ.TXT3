@@ -1,0 +1,2456 @@
+
+<ARH4T>                                              ACME PARK HOSPITALS                                                PAGE:      1
+DATE: 07/11/19                        FINANCIAL TRANSACTIONS POSTED 07/10/19 - 07/11/19                           TIME:   01:51:15
+                                                  HOSPITAL 23 ( BRANCH A )
+
+DEPARTMENT :    600  NURSING SERVICE
+
+COST CENTER:  16022  MED / SURG A
+
+   PROC TP RV SRC BILLING NO PATIENT NAME              BED   SERV DTE POST DTE OPER  IDOC  BTCH ORD#        UNITS       AMOUNT   CL
+   ---- -- -- --- ---------- ----------------------- ------- -------- -------- ----------  ---- ----        -----      --------  --
+
+  90176 BRANCH A     4TH FLOOR MED/SURG POD A
+        B     RMB PN00100001 ANDERSON, DIANE H       MB4120A 07/10/19 07/11/19 20225       MB4                 1         820.641    M
+        B     RMB PN00100002 TAFT, KELLY L           MB4125A 07/10/19 07/11/19 20216       MB4                 1          98.002    P
+        B     RMB PN00100003 ROOSEVELT, JOE W        MB4131A 07/10/19 07/11/19 20762       MB4                 1         444.110    M
+        B     RMB PN00100004 TRUMAN, ROSE T          MB4118A 07/10/19 07/11/19 20762       MB4                 1         261.562    M
+        B     RMB PN00100005 ANDERSON, CASANDRA O    MB4129A 07/10/19 07/11/19 20225       MB4                 1         928.429    M
+        B     RMB PN00100006 TAFT, DANA Y            MB4128A 07/10/19 07/11/19 20762       MB4                 1         169.133    M
+        B     RMB PN00100007 WASHINGTON, CHERISE M   MB4119A 07/10/19 07/11/19 20762       MB4                 1         912.385    M
+        B     RMB PN00100008 JOHNSON, CHERYL N       MB4123A 07/10/19 07/11/19 20149       MB4                 1         709.616    E
+
+                  TOTAL FOR PROCEDURE    90176       (     8 TRANSACTIONS POSTED,    0 REJECTED)               8      10152.00 *
+
+                  TOTAL FOR COST CENTER  16022       (     8 TRANSACTIONS POSTED,    0 REJECTED)               8      10152.00 **
+<ARH4T>                                              ACME PARK HOSPITALS                                                PAGE:      2
+DATE: 07/11/19                        FINANCIAL TRANSACTIONS POSTED 07/10/19 - 07/11/19                           TIME:   01:51:15
+                                                  HOSPITAL 23 ( BRANCH A )
+
+DEPARTMENT :    600  NURSING SERVICE
+
+COST CENTER:  16095  MOTHER / BABY & GYN
+
+   PROC TP RV SRC BILLING NO PATIENT NAME              BED   SERV DTE POST DTE OPER  IDOC  BTCH ORD#        UNITS       AMOUNT   CL
+   ---- -- -- --- ---------- ----------------------- ------- -------- -------- ----------  ---- ----        -----      --------  --
+
+  74827 TENDERFOOT DEVICE INCISION
+        C     CRN PN00100009 FILMORE, FRED A         NU3NU3A 07/10/19 07/10/19 13054       C904                1         589.367    A
+
+                  TOTAL FOR PROCEDURE    74827       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1         44.00 *
+
+  90182 R&B WELL BABY NURSERY 3RD FLOOR
+        B     RMB PN00100010 HARDING, JOE B          NU3NU2A 07/10/19 07/11/19 13054       NU3                 1         332.366    B
+
+                  TOTAL FOR PROCEDURE    90182       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1       1269.00 *
+
+                  TOTAL FOR COST CENTER  16095       (     2 TRANSACTIONS POSTED,    0 REJECTED)               2       1313.00 **
+<ARH4T>                                              ACME PARK HOSPITALS                                                PAGE:      3
+DATE: 07/11/19                        FINANCIAL TRANSACTIONS POSTED 07/10/19 - 07/11/19                           TIME:   01:51:15
+                                                  HOSPITAL 23 ( BRANCH A )
+
+DEPARTMENT :    600  NURSING SERVICE
+
+COST CENTER:  16190  LABOR & DELIVERY SERVICES
+
+   PROC TP RV SRC BILLING NO PATIENT NAME              BED   SERV DTE POST DTE OPER  IDOC  BTCH ORD#        UNITS       AMOUNT   CL
+   ---- -- -- --- ---------- ----------------------- ------- -------- -------- ----------  ---- ----        -----      --------  --
+
+  30937 FETAL NON STRESS TEST
+        C     CRN PN00100011 LINCOLN, FRED N         LD3TRIA 07/09/19 07/10/19 02744       C904                1         229.126    A
+
+                  TOTAL FOR PROCEDURE    30937       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1        442.00 *
+
+  44458 COLLECTION OF BLOOD/VENIPUNCTURE
+        C     CRN PN00100011 LINCOLN, FRED N         LD3TRIA 07/09/19 07/10/19 02744       C904                1         241.105    A
+
+                  TOTAL FOR PROCEDURE    44458       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1         30.00 *
+
+  67927 L&D MONITORING/OBS SERVICE 1ST HR OP
+        C     CRN PN00100011 LINCOLN, FRED N         LD3TRIA 07/09/19 07/10/19 02744       C904                1         553.392    A
+        C     CRN PN00100012 POLK, FLORA H           LD3TRIA 07/10/19 07/10/19 02744       C904                1         666.059    A
+
+                  TOTAL FOR PROCEDURE    67927       (     2 TRANSACTIONS POSTED,    0 REJECTED)               2       2030.00 *
+
+  67928 L&D MONITORING/OBS SERVICE 2ND HR OP
+        C     CRN PN00100011 LINCOLN, FRED N         LD3TRIA 07/09/19 07/10/19 02744       C904                1         641.212    A
+
+                  TOTAL FOR PROCEDURE    67928       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1        217.00 *
+
+  67929 L&D MONITORING/OBS SERVICE EA ADDL HR OP
+        C     CRN PN00100011 LINCOLN, FRED N         LD3TRIA 07/09/19 07/10/19 02744       C904                2         449.729    A
+
+                  TOTAL FOR PROCEDURE    67929       (     1 TRANSACTIONS POSTED,    0 REJECTED)               2          2.00 *
+
+  90162 BRANCH A     R&B MED SURG L&D
+        B     RMB PN00100013 PIERCE, CASANDRA M      LD3L02A 07/10/19 07/11/19 02744       LD3                 1          49.899    B
+
+                  TOTAL FOR PROCEDURE    90162       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1       1269.00 *
+
+                  TOTAL FOR COST CENTER  16190       (     7 TRANSACTIONS POSTED,    0 REJECTED)               8       3990.00 **
+<ARH4T>                                              ACME PARK HOSPITALS                                                PAGE:      4
+DATE: 07/11/19                        FINANCIAL TRANSACTIONS POSTED 07/10/19 - 07/11/19                           TIME:   01:51:15
+                                                  HOSPITAL 23 ( BRANCH A )
+
+DEPARTMENT :    600  NURSING SERVICE
+
+   PROC TP RV SRC BILLING NO PATIENT NAME              BED   SERV DTE POST DTE OPER  IDOC  BTCH ORD#        UNITS       AMOUNT   CL
+   ---- -- -- --- ---------- ----------------------- ------- -------- -------- ----------  ---- ----        -----      --------  --
+
+                  TOTAL FOR DEPARTMENT     600       (    17 TRANSACTIONS POSTED,    0 REJECTED)              18      15455.00 ***
+
+                  TOTAL REVERSALS FOR DPT  600       (     0 TRANSACTIONS POSTED,    0 REJECTED)               0           .00
+
+
+                                                 TOTALS BY BATCH FOR DEPARTMENT
+
+                               BATCH ID  HASH TOTAL  TRANS POSTED  TRANS REJECTED  UNITS POSTED  AMOUNT POSTED
+                               --------  ----------  ------------  --------------  ------------  -------------
+
+                                 C904       489862             7               0              8      2,765.00
+                                 LD3         90162             1               0              1      1,269.00
+                                 MB4        721408             8               0              8     10,152.00
+                                 NU3         90182             1               0              1      1,269.00
+<ARH4T>                                              ACME PARK HOSPITALS                                                PAGE:      5
+DATE: 07/11/19                        FINANCIAL TRANSACTIONS POSTED 07/10/19 - 07/11/19                           TIME:   01:51:15
+                                                  HOSPITAL 23 ( BRANCH A )
+
+DEPARTMENT :    702  LABORATORY
+
+COST CENTER:      0  ( NO COST CENTER CODED )
+
+   PROC TP RV SRC BILLING NO PATIENT NAME              BED   SERV DTE POST DTE OPER  IDOC  BTCH ORD#        UNITS       AMOUNT   CL
+   ---- -- -- --- ---------- ----------------------- ------- -------- -------- ----------  ---- ----        -----      --------  --
+
+   9100 LAB NO CHARGE PI
+        C     LAB PN00100002 TAFT, KELLY L           MB4125A 07/09/19 07/10/19 13894       ARLC 9673           1         382.392    P
+        C     LAB PN00100003 ROOSEVELT, JOE W        MB4131A 07/09/19 07/10/19 13894       ARLC 0917           1         606.260    M
+        C     LAB PN00100014 ROOSEVELT, CASANDRA V   MB4131A 07/09/19 07/10/19 13894       ARLC 9693           1         920.264    P
+        C     LAB PN00100004 TRUMAN, ROSE T          MB4118A 07/09/19 07/10/19 13894       ARLC 3153           1         375.346    M
+        C     LAB PN00100015 LINCOLN, DIANE P        MB4128A 07/09/19 07/10/19 13894       ARLC 9685           1         987.569    M
+        C     LAB PN00100002 TAFT, KELLY L           MB4125A 07/10/19 07/10/19 13894       ARLC 2835           1         836.191    P
+        C     LAB PN00100002 TAFT, KELLY L           MB4125A 07/10/19 07/10/19 13894       ARLC 2785           1         366.186    P
+        C     LAB PN00100003 ROOSEVELT, JOE W        MB4131A 07/10/19 07/10/19 13894       ARLC 4167           1         266.696    M
+        C     LAB PN00100003 ROOSEVELT, JOE W        MB4131A 07/10/19 07/10/19 13894       ARLC 2347           1         380.861    M
+        C     LAB PN00100014 ROOSEVELT, CASANDRA V   MB4131A 07/10/19 07/10/19 13894       ARLC 2819           1         655.376    P
+        C     LAB PN00100016 ROOSEVELT, GERTIE T     MB4121A 07/10/19 07/10/19 13894       ARLC 2773           1         686.951    P
+        C     LAB PN00100004 TRUMAN, ROSE T          MB4118A 07/10/19 07/10/19 13894       ARLC 2361           1         533.125    M
+        C     LAB PN00100004 TRUMAN, ROSE T          MB4118A 07/10/19 07/10/19 13894       ARLC 2773           1         123.127    M
+        C     LAB PN00100015 LINCOLN, DIANE P        MB4128A 07/10/19 07/10/19 13894       ARLC 2801           1         759.811    M
+
+                  TOTAL FOR PROCEDURE     9100       (    14 TRANSACTIONS POSTED,    0 REJECTED)              14           .00 *
+
+                  TOTAL FOR COST CENTER      0       (    14 TRANSACTIONS POSTED,    0 REJECTED)              14           .00 **
+<ARH4T>                                              ACME PARK HOSPITALS                                                PAGE:      6
+DATE: 07/11/19                        FINANCIAL TRANSACTIONS POSTED 07/10/19 - 07/11/19                           TIME:   01:51:15
+                                                  HOSPITAL 23 ( BRANCH A )
+
+DEPARTMENT :    702  LABORATORY
+
+COST CENTER:  17010  LAB SERVICES
+
+   PROC TP RV SRC BILLING NO PATIENT NAME              BED   SERV DTE POST DTE OPER  IDOC  BTCH ORD#        UNITS       AMOUNT   CL
+   ---- -- -- --- ---------- ----------------------- ------- -------- -------- ----------  ---- ----        -----      --------  --
+
+    398 BLOOD TYPING/ABO
+        C     LAB PN00100013 PIERCE, CASANDRA M      LD3L02A 07/10/19 07/10/19 13894       ARLC 9391           1         142.491    B
+
+                  TOTAL FOR PROCEDURE      398       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1         48.00 *
+
+    441 AB SCRN RBC EA
+        C     LAB PN00100013 PIERCE, CASANDRA M      LD3L02A 07/10/19 07/10/19 13894       ARLC 9393           1         396.269    B
+
+                  TOTAL FOR PROCEDURE      441       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1        139.00 *
+
+    613 URINALYSIS AUTO WO MICRO ROUTINE
+        C     LAB PN00100017 HARRISON, FLORA V               07/09/19 07/10/19 13894       ARLC 2961           1         242.630    M
+        C     LAB PN00100018 THOMAS, BRIAN T                 07/09/19 07/10/19 13894       ARLC 7863           1         934.849    B
+        C     LAB PN00100019 FILMORE, FRED B                 07/10/19 07/10/19 13894       ARLC 4607           1         988.990    E
+        C     LAB PN00100020 HARDING, JAMES N                07/10/19 07/10/19 13894       ARLC 3387           1         134.331    B
+        C     LAB PN00100021 KENNEDY, JAMES S                07/10/19 07/10/19 13894       ARLC 2071           1         397.341    M
+        C     LAB PN00100022 POLK, TOBIE R                   07/10/19 07/10/19 13894       ARLC 1117           1         415.472    E
+        C     LAB PN00100023 POLK, SCOTT G                   07/10/19 07/10/19 13894       ARLC 4937           1         359.967    M
+        C     LAB PN00100024 SHEPARD, SALLY C                07/10/19 07/10/19 13894       ARLC 8419           1         788.462    E
+
+                  TOTAL FOR PROCEDURE      613       (     8 TRANSACTIONS POSTED,    0 REJECTED)               8        248.00 *
+
+    676 BLOOD COUNT HGB
+        C     LAB PN00100013 PIERCE, CASANDRA M      LD3L02A 07/10/19 07/10/19 13894       ARLC 8649           1         512.455    B
+
+                  TOTAL FOR PROCEDURE      676       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1         32.00 *
+
+    682 BLOOD COUNT HEMOGRAM/PLT CBC W AUTO DIFF
+        C     LAB PN00100017 HARRISON, FLORA V               07/09/19 07/10/19 13894       ARLC 5403           1         105.438    M
+        C     LAB PN00100025 JOHNSON, FRED O                 07/09/19 07/10/19 13894       ARLC 4945           1         692.442    P
+        C     LAB PN00100026 POLK, TOBIE K                   07/09/19 07/10/19 13894       ARLC 7907           1         583.820    B
+        C     LAB PN00100018 THOMAS, BRIAN T                 07/09/19 07/10/19 13894       ARLC 1265           1         453.245    B
+        C     LAB PN00100027 HARRISON, CASANDRA V            07/10/19 07/10/19 13894       ARLC 1481           1          45.234    A
+        C     LAB PN00100028 PIERCE, DIANE Y                 07/10/19 07/10/19 13894       ARLC 9995           1         151.012    M
+        C     LAB PN00100019 FILMORE, FRED B                 07/10/19 07/10/19 13894       ARLC 8495           1         584.551    E
+        C     LAB PN00100029 JEFFERSON, SALLY K              07/10/19 07/10/19 13894       ARLC 2521           1         950.805    B
+        C     LAB PN00100030 TAFT, ROSE W                    07/10/19 07/10/19 13894       ARLC 4351           1         650.180    A
+        C     LAB PN00100031 PIERCE, KELLY V                 07/10/19 07/10/19 13894       ARLC 1425           1         489.317    E
+        C     LAB PN00100003 ROOSEVELT, JOE W        MB4131A 07/10/19 07/10/19 13894       ARLC 5013           1         780.920    M
+        C     LAB PN00100032 TAFT, KELLY S                   07/10/19 07/10/19 13894       ARLC 3549           1         300.810    E
+        C     LAB PN00100033 PIERCE, FRED L          MB4130A 07/10/19 07/10/19 13894       ARLC 9349           1         618.548    M
+        C     LAB PN00100034 KENNEDY, GERTIE G               07/10/19 07/10/19 13894       ARLC 0981           1         227.377    E
+        C     LAB PN00100016 ROOSEVELT, GERTIE T     MB4121A 07/10/19 07/10/19 13894       ARLC 9961           1         970.867    P
+        C     LAB PN00100020 HARDING, JAMES N                07/10/19 07/10/19 13894       ARLC 8183           1         260.107    B
+        C     LAB PN00100035 ANDERSON, SUSAN S               07/10/19 07/10/19 13894       ARLC 3853           1         114.639    P
+        C     LAB PN00100036 ROOSEVELT, GERTIE M             07/10/19 07/10/19 13894       ARLC 9243           1         588.494    A
+        C     LAB PN00100037 LINCOLN, BRIAN Q                07/10/19 07/10/19 13894       ARLC 3317           1         581.771    P
+        C     LAB PN00100038 POLK, JAMES Y                   07/10/19 07/10/19 13894       ARLC 0923           1         581.808    P
+<ARH4T>                                              ACME PARK HOSPITALS                                                PAGE:      7
+DATE: 07/11/19                        FINANCIAL TRANSACTIONS POSTED 07/10/19 - 07/11/19                           TIME:   01:51:15
+                                                  HOSPITAL 23 ( BRANCH A )
+
+DEPARTMENT :    702  LABORATORY
+
+COST CENTER:  17010  LAB SERVICES
+
+   PROC TP RV SRC BILLING NO PATIENT NAME              BED   SERV DTE POST DTE OPER  IDOC  BTCH ORD#        UNITS       AMOUNT   CL
+   ---- -- -- --- ---------- ----------------------- ------- -------- -------- ----------  ---- ----        -----      --------  --
+
+    682 BLOOD COUNT HEMOGRAM/PLT CBC W AUTO DIFF
+        C     LAB PN00100006 TAFT, DANA Y            MB4128A 07/10/19 07/10/19 13894       ARLC 7819           1         494.870    M
+        C     LAB PN00100039 PIERCE, JAMES F                 07/10/19 07/10/19 13894       ARLC 1603           1         996.669    T
+        C     LAB PN00100040 HARDING, CHERISE R              07/10/19 07/10/19 13894       ARLC 0597           1         639.703    E
+        C     LAB PN00100021 KENNEDY, JAMES S                07/10/19 07/10/19 13894       ARLC 1331           1         505.120    M
+        C     LAB PN00100022 POLK, TOBIE R                   07/10/19 07/10/19 13894       ARLC 7607           1         972.598    E
+        C     LAB PN00100023 POLK, SCOTT G                   07/10/19 07/10/19 13894       ARLC 4755           1         383.324    M
+        C     LAB PN00100041 PIERCE, GLADYS Y                07/10/19 07/10/19 13894       ARLC 6287           1         816.879    P
+        C     LAB PN00100042 THOMAS, GLADYS J                07/10/19 07/10/19 13894       ARLC 6809           1         217.927    C
+
+                  TOTAL FOR PROCEDURE      682       (    28 TRANSACTIONS POSTED,    0 REJECTED)              28       3024.00 *
+
+    693 PROTHROMBIN TIME
+        C     LAB PN00100034 KENNEDY, GERTIE G               07/10/19 07/10/19 13894       ARLC 5171           1         992.285    E
+        C     LAB PN00100015 LINCOLN, DIANE P        MB4128A 07/10/19 07/10/19 13894       ARLC 7857           1          43.503    M
+        C     LAB PN00100021 KENNEDY, JAMES S                07/10/19 07/10/19 13894       ARLC 1385           1         340.590    M
+        C     LAB PN00100042 THOMAS, GLADYS J                07/10/19 07/10/19 13894       ARLC 3103           1         895.215    C
+
+                  TOTAL FOR PROCEDURE      693       (     4 TRANSACTIONS POSTED,    0 REJECTED)               4        216.00 *
+
+    706 HEMOGLOBIN RBC FETOMATERNAL HEMORRHAGE
+        C     LAB PN00100013 PIERCE, CASANDRA M      LD3L02A 07/10/19 07/10/19 13894       ARLC 6545           1         819.625    B
+
+                  TOTAL FOR PROCEDURE      706       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1        107.00 *
+
+    725 PTT PLASMA/WHOLE BLOOD
+        C     LAB PN00100008 JOHNSON, CHERYL N       MB4123A 07/09/19 07/10/19 13894       ARLC 6309           1         684.869    E
+        C     LAB PN00100008 JOHNSON, CHERYL N       MB4123A 07/09/19 07/10/19 13894       ARLC 7575           1         977.345    E
+        C     LAB PN00100034 KENNEDY, GERTIE G               07/10/19 07/10/19 13894       ARLC 5507           1         527.275    E
+        C     LAB PN00100021 KENNEDY, JAMES S                07/10/19 07/10/19 13894       ARLC 1347           1          55.582    M
+        C     LAB PN00100042 THOMAS, GLADYS J                07/10/19 07/10/19 13894       ARLC 2919           1         330.321    C
+        C     LAB PN00100008 JOHNSON, CHERYL N       MB4123A 07/10/19 07/10/19 13894       ARLC 2853           1         915.291    E
+
+                  TOTAL FOR PROCEDURE      725       (     6 TRANSACTIONS POSTED,    0 REJECTED)               6        498.00 *
+
+    766 SALICYLATE
+        C     LAB PN00100017 HARRISON, FLORA V               07/09/19 07/10/19 13894       ARLC 5567           1         952.883    M
+        C     LAB PN00100042 THOMAS, GLADYS J                07/10/19 07/10/19 13894       ARLC 6817           1         397.422    C
+
+                  TOTAL FOR PROCEDURE      766       (     2 TRANSACTIONS POSTED,    0 REJECTED)               2        194.00 *
+
+   2605 AMYLASE
+        C     LAB PN00100019 FILMORE, FRED B                 07/10/19 07/10/19 13894       ARLC 8587           1         185.400    E
+        C     LAB PN00100034 KENNEDY, GERTIE G               07/10/19 07/10/19 13894       ARLC 1011           1         549.434    E
+        C     LAB PN00100020 HARDING, JAMES N                07/10/19 07/10/19 13894       ARLC 9429           1         872.598    B
+
+                  TOTAL FOR PROCEDURE     2605       (     3 TRANSACTIONS POSTED,    0 REJECTED)               3        273.00 *
+
+   2606 AMMONIA
+        C     LAB PN00100003 ROOSEVELT, JOE W        MB4131A 07/10/19 07/10/19 13894       ARLC 6159           1          71.369    M
+<ARH4T>                                              ACME PARK HOSPITALS                                                PAGE:      8
+DATE: 07/11/19                        FINANCIAL TRANSACTIONS POSTED 07/10/19 - 07/11/19                           TIME:   01:51:15
+                                                  HOSPITAL 23 ( BRANCH A )
+
+DEPARTMENT :    702  LABORATORY
+
+COST CENTER:  17010  LAB SERVICES
+
+   PROC TP RV SRC BILLING NO PATIENT NAME              BED   SERV DTE POST DTE OPER  IDOC  BTCH ORD#        UNITS       AMOUNT   CL
+   ---- -- -- --- ---------- ----------------------- ------- -------- -------- ----------  ---- ----        -----      --------  --
+
+                  TOTAL FOR PROCEDURE     2606       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1        201.00 *
+
+   2692 LIPASE
+        C     LAB PN00100025 JOHNSON, FRED O                 07/09/19 07/10/19 13894       ARLC 5267           1         214.553    P
+        C     LAB PN00100018 THOMAS, BRIAN T                 07/09/19 07/10/19 13894       ARLC 1603           1         675.718    B
+        C     LAB PN00100019 FILMORE, FRED B                 07/10/19 07/10/19 13894       ARLC 8535           1         380.336    E
+        C     LAB PN00100034 KENNEDY, GERTIE G               07/10/19 07/10/19 13894       ARLC 1069           1         843.732    E
+        C     LAB PN00100020 HARDING, JAMES N                07/10/19 07/10/19 13894       ARLC 9431           1         610.513    B
+        C     LAB PN00100040 HARDING, CHERISE R              07/10/19 07/10/19 13894       ARLC 0599           1         960.393    E
+        C     LAB PN00100022 POLK, TOBIE R                   07/10/19 07/10/19 13894       ARLC 7615           1         264.593    E
+
+                  TOTAL FOR PROCEDURE     2692       (     7 TRANSACTIONS POSTED,    0 REJECTED)               7        665.00 *
+
+   2723 MAGNESIUM SERUM
+        C     LAB PN00100037 LINCOLN, BRIAN Q                07/10/19 07/10/19 13894       ARLC 3427           1         148.989    P
+        C     LAB PN00100039 PIERCE, JAMES F                 07/10/19 07/10/19 13894       ARLC 2091           1         963.778    T
+        C     LAB PN00100040 HARDING, CHERISE R              07/10/19 07/10/19 13894       ARLC 0635           1         251.780    E
+
+                  TOTAL FOR PROCEDURE     2723       (     3 TRANSACTIONS POSTED,    0 REJECTED)               3        282.00 *
+
+   2726 GLUCOSE QUANT BLOOD SERUM
+        C     LAB PN00100016 ROOSEVELT, GERTIE T     MB4121A 07/10/19 07/10/19 13894       ARLC 4159           1         563.052    P
+
+                  TOTAL FOR PROCEDURE     2726       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1         55.00 *
+
+   6264 BLOOD TYPING RH(D)
+        C     LAB PN00100013 PIERCE, CASANDRA M      LD3L02A 07/10/19 07/10/19 13894       ARLC 9391           1         858.836    B
+
+                  TOTAL FOR PROCEDURE     6264       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1        139.00 *
+
+   7722 THYROID STIMULATING HORMONE/TSH
+        C     LAB PN00100029 JEFFERSON, SALLY K              07/10/19 07/10/19 13894       ARLC 5509           1         839.734    B
+        C     LAB PN00100037 LINCOLN, BRIAN Q                07/10/19 07/10/19 13894       ARLC 3437           1         840.493    P
+        C     LAB PN00100039 PIERCE, JAMES F                 07/10/19 07/10/19 13894       ARLC 2121           1         618.217    T
+
+                  TOTAL FOR PROCEDURE     7722       (     3 TRANSACTIONS POSTED,    0 REJECTED)               3        696.00 *
+
+   7751 CX BACTERIAL BLOOD
+        C     LAB PN00100028 PIERCE, DIANE Y                 07/10/19 07/10/19 13894       ARLC 1127           1          68.728    M
+        C     LAB PN00100028 PIERCE, DIANE Y                 07/10/19 07/10/19 13894       ARLC 1137           1         872.792    M
+
+                  TOTAL FOR PROCEDURE     7751       (     2 TRANSACTIONS POSTED,    0 REJECTED)               2        288.00 *
+
+   8533 ALCOHOL
+        C     LAB PN00100035 ANDERSON, SUSAN S               07/10/19 07/10/19 13894       ARLC 4155           1         808.880    P
+        C     LAB PN00100042 THOMAS, GLADYS J                07/10/19 07/10/19 13894       ARLC 6813           1         552.179    C
+
+                  TOTAL FOR PROCEDURE     8533       (     2 TRANSACTIONS POSTED,    0 REJECTED)               2        300.00 *
+<ARH4T>                                              ACME PARK HOSPITALS                                                PAGE:      9
+DATE: 07/11/19                        FINANCIAL TRANSACTIONS POSTED 07/10/19 - 07/11/19                           TIME:   01:51:15
+                                                  HOSPITAL 23 ( BRANCH A )
+
+DEPARTMENT :    702  LABORATORY
+
+COST CENTER:  17010  LAB SERVICES
+
+   PROC TP RV SRC BILLING NO PATIENT NAME              BED   SERV DTE POST DTE OPER  IDOC  BTCH ORD#        UNITS       AMOUNT   CL
+   ---- -- -- --- ---------- ----------------------- ------- -------- -------- ----------  ---- ----        -----      --------  --
+
+   8691 PHENYTOIN TOTAL/DILANTIN
+        C     LAB PN00100040 HARDING, CHERISE R              07/10/19 07/10/19 13894       ARLC 2089           1         231.112    E
+
+                  TOTAL FOR PROCEDURE     8691       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1        184.00 *
+
+   9233 ASSAY OF ACETAMINOPHEN
+        C     LAB PN00100017 HARRISON, FLORA V               07/09/19 07/10/19 13894       ARLC 6379           1         794.432    M
+        C     LAB PN00100042 THOMAS, GLADYS J                07/10/19 07/10/19 13894       ARLC 6815           1         629.145    C
+
+                  TOTAL FOR PROCEDURE     9233       (     2 TRANSACTIONS POSTED,    0 REJECTED)               2        548.00 *
+
+  10043 WBC POOR BLOOD EA UNIT
+        C     LAB PN00100014 ROOSEVELT, CASANDRA V   MB4131A 07/09/19 07/10/19 13894       ARLC                1         344.749    P
+
+                  TOTAL FOR PROCEDURE    10043       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1        690.00 *
+
+  10397 GENTAMICIN RANDOM
+        C     LAB PN00100043 PIERCE, JAMES C         MB4121A 07/10/19 07/10/19 13894       ARLC 6585           1         213.610    E
+
+                  TOTAL FOR PROCEDURE    10397       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1        228.00 *
+
+  10952 CARBAMAZEPINE TOTAL
+        C     LAB PN00100017 HARRISON, FLORA V               07/09/19 07/10/19 13894       ARLC 8443           1         241.031    M
+
+                  TOTAL FOR PROCEDURE    10952       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1        201.00 *
+
+  13334 BLOOD COUNT COMPLETE AUTO W/O DIFF
+        C     LAB PN00100001 ANDERSON, DIANE H       MB4120A 07/10/19 07/10/19 13894       ARLC 8737           1          79.577    M
+        C     LAB PN00100014 ROOSEVELT, CASANDRA V   MB4131A 07/10/19 07/10/19 13894       ARLC 4713           1         157.057    P
+        C     LAB PN00100044 SHEPARD, CHERISE B              07/10/19 07/10/19 13894       ARLC 9717           1         229.678    E
+        C     LAB PN00100008 JOHNSON, CHERYL N       MB4123A 07/10/19 07/10/19 13894       ARLC 3583           1         365.851    E
+
+                  TOTAL FOR PROCEDURE    13334       (     4 TRANSACTIONS POSTED,    0 REJECTED)               4        364.00 *
+
+  15801 BETA HCG SERUM QUAL
+        C     LAB PN00100031 PIERCE, KELLY V                 07/10/19 07/10/19 13894       ARLC 1433           1         165.855    E
+        C     LAB PN00100016 ROOSEVELT, GERTIE T     MB4121A 07/10/19 07/10/19 13894       ARLC 9967           1         689.633    P
+
+                  TOTAL FOR PROCEDURE    15801       (     2 TRANSACTIONS POSTED,    0 REJECTED)               2        210.00 *
+
+  17569 VANCOMYCIN RANDOM
+        C     LAB PN00100045 POLK, CASANDRA S                07/10/19 07/10/19 13894       ARLC 8713           1           5.423    A
+
+                  TOTAL FOR PROCEDURE    17569       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1        187.00 *
+
+  24059 ACCUCHEK GLUCOSE
+        C     LAB PN00100046 WASHINGTON, GLADYS Y            07/10/19 07/10/19 13894       ARLC 2427           1          45.020    A
+        C     LAB PN00100047 HARDING, WILLIAM G              07/10/19 07/10/19 13894       ARLC 7527           1         485.600    P
+<ARH4T>                                              ACME PARK HOSPITALS                                                PAGE:     10
+DATE: 07/11/19                        FINANCIAL TRANSACTIONS POSTED 07/10/19 - 07/11/19                           TIME:   01:51:15
+                                                  HOSPITAL 23 ( BRANCH A )
+
+DEPARTMENT :    702  LABORATORY
+
+COST CENTER:  17010  LAB SERVICES
+
+   PROC TP RV SRC BILLING NO PATIENT NAME              BED   SERV DTE POST DTE OPER  IDOC  BTCH ORD#        UNITS       AMOUNT   CL
+   ---- -- -- --- ---------- ----------------------- ------- -------- -------- ----------  ---- ----        -----      --------  --
+
+  24059 ACCUCHEK GLUCOSE
+        C     LAB PN00100016 ROOSEVELT, GERTIE T     MB4121A 07/10/19 07/10/19 13894       ARLC 3833           1         290.982    P
+        C     LAB PN00100016 ROOSEVELT, GERTIE T     MB4121A 07/10/19 07/10/19 13894       ARLC 9607           1         867.203    P
+        C     LAB PN00100037 LINCOLN, BRIAN Q                07/10/19 07/10/19 13894       ARLC 9971           1           3.004    P
+        C     LAB PN00100038 POLK, JAMES Y                   07/10/19 07/10/19 13894       ARLC 5807           1          11.123    P
+        C     LAB PN00100023 POLK, SCOTT G                   07/10/19 07/10/19 13894       ARLC 3599           1         923.599    M
+        C     LAB PN00100023 POLK, SCOTT G                   07/10/19 07/10/19 13894       ARLC 0843           1         952.524    M
+        C     LAB PN00100023 POLK, SCOTT G                   07/10/19 07/10/19 13894       ARLC 5999           1         456.682    M
+        C     LAB PN00100042 THOMAS, GLADYS J                07/10/19 07/10/19 13894       ARLC 5629           1         819.100    C
+
+                  TOTAL FOR PROCEDURE    24059       (    10 TRANSACTIONS POSTED,    0 REJECTED)              10        440.00 *
+
+  26893 URINE DRUG SCREEN
+        C     LAB PN00100048 KENNEDY, HAROLD V       MB4122A 07/09/19 07/10/19 13894       ARLC 3257           1         414.696    P
+        C     LAB PN00100030 TAFT, ROSE W                    07/10/19 07/10/19 13894       ARLC 5025           1          89.358    A
+        C     LAB PN00100042 THOMAS, GLADYS J                07/10/19 07/10/19 13894       ARLC 6819           1         394.583    C
+
+                  TOTAL FOR PROCEDURE    26893       (     3 TRANSACTIONS POSTED,    0 REJECTED)               3        573.00 *
+
+  27394 VANCOMYCIN TROUGH
+        C     LAB PN00100008 JOHNSON, CHERYL N       MB4123A 07/10/19 07/10/19 13894       ARLC 6359           1         256.586    E
+
+                  TOTAL FOR PROCEDURE    27394       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1        187.00 *
+
+  27525 URINALYSIS AUTO W MICRO
+        C     LAB PN00100025 JOHNSON, FRED O                 07/09/19 07/10/19 13894       ARLC 4469           1         268.241    P
+        C     LAB PN00100028 PIERCE, DIANE Y                 07/10/19 07/10/19 13894       ARLC 0625           1         229.880    M
+        C     LAB PN00100033 PIERCE, FRED L          MB4130A 07/10/19 07/10/19 13894       ARLC 8185           1         585.826    M
+        C     LAB PN00100034 KENNEDY, GERTIE G               07/10/19 07/10/19 13894       ARLC 9925           1         589.646    E
+        C     LAB PN00100036 ROOSEVELT, GERTIE M             07/10/19 07/10/19 13894       ARLC 7063           1         404.760    A
+        C     LAB PN00100037 LINCOLN, BRIAN Q                07/10/19 07/10/19 13894       ARLC 6747           1         728.914    P
+        C     LAB PN00100039 PIERCE, JAMES F                 07/10/19 07/10/19 13894       ARLC 3825           1         750.990    T
+
+                  TOTAL FOR PROCEDURE    27525       (     7 TRANSACTIONS POSTED,    0 REJECTED)               7        308.00 *
+
+  32870 CX BACTERIAL AEROBIC ISOLATE ID EA ISO
+        C     LAB PN00100003 ROOSEVELT, JOE W        MB4131A 07/08/19 07/10/19 13894       ARLC 0025           1         850.094    M
+
+                  TOTAL FOR PROCEDURE    32870       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1        111.00 *
+
+  42101 TROPONIN QUANT
+        C     LAB PN00100028 PIERCE, DIANE Y                 07/10/19 07/10/19 13894       ARLC 0031           1         483.692    M
+        C     LAB PN00100029 JEFFERSON, SALLY K              07/10/19 07/10/19 13894       ARLC 4233           1         201.354    B
+        C     LAB PN00100031 PIERCE, KELLY V                 07/10/19 07/10/19 13894       ARLC 1423           1         140.748    E
+        C     LAB PN00100033 PIERCE, FRED L          MB4130A 07/10/19 07/10/19 13894       ARLC 7283           1         349.396    M
+        C     LAB PN00100033 PIERCE, FRED L          MB4130A 07/10/19 07/10/19 13894       ARLC 9363           1         776.027    M
+        C     LAB PN00100036 ROOSEVELT, GERTIE M             07/10/19 07/10/19 13894       ARLC 9259           1         670.922    A
+        C     LAB PN00100037 LINCOLN, BRIAN Q                07/10/19 07/10/19 13894       ARLC 3405           1         859.743    P
+<ARH4T>                                              ACME PARK HOSPITALS                                                PAGE:     11
+DATE: 07/11/19                        FINANCIAL TRANSACTIONS POSTED 07/10/19 - 07/11/19                           TIME:   01:51:15
+                                                  HOSPITAL 23 ( BRANCH A )
+
+DEPARTMENT :    702  LABORATORY
+
+COST CENTER:  17010  LAB SERVICES
+
+   PROC TP RV SRC BILLING NO PATIENT NAME              BED   SERV DTE POST DTE OPER  IDOC  BTCH ORD#        UNITS       AMOUNT   CL
+   ---- -- -- --- ---------- ----------------------- ------- -------- -------- ----------  ---- ----        -----      --------  --
+
+  42101 TROPONIN QUANT
+        C     LAB PN00100038 POLK, JAMES Y                   07/10/19 07/10/19 13894       ARLC 0921           1         377.345    P
+        C     LAB PN00100006 TAFT, DANA Y            MB4128A 07/10/19 07/10/19 13894       ARLC 8217           1         255.756    M
+        C     LAB PN00100039 PIERCE, JAMES F                 07/10/19 07/10/19 13894       ARLC 2879           1         546.825    T
+        C     LAB PN00100040 HARDING, CHERISE R              07/10/19 07/10/19 13894       ARLC 0595           1         715.369    E
+        C     LAB PN00100023 POLK, SCOTT G                   07/10/19 07/10/19 13894       ARLC 3011           1           9.195    M
+
+                  TOTAL FOR PROCEDURE    42101       (    12 TRANSACTIONS POSTED,    0 REJECTED)              12       1632.00 *
+
+  46545 ACETONE QUANT BETA HYDROXYBUTYRATE
+        C     LAB PN00100016 ROOSEVELT, GERTIE T     MB4121A 07/10/19 07/10/19 13894       ARLC 4569           1         431.780    P
+
+                  TOTAL FOR PROCEDURE    46545       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1        114.00 *
+
+  52335 BASIC METABOLIC PNL CALCIUM TOTAL
+        C     LAB PN00100049 THOMAS, CHERISE Z               07/09/19 07/10/19 13894       ARLC 2337           1         901.515    A
+        C     LAB PN00100026 POLK, TOBIE K                   07/09/19 07/10/19 13894       ARLC 8283           1         539.505    B
+        C     LAB PN00100001 ANDERSON, DIANE H       MB4120A 07/10/19 07/10/19 13894       ARLC 8731           1         389.509    M
+        C     LAB PN00100030 TAFT, ROSE W                    07/10/19 07/10/19 13894       ARLC 4409           1         420.282    A
+        C     LAB PN00100003 ROOSEVELT, JOE W        MB4131A 07/10/19 07/10/19 13894       ARLC 5007           1          88.847    M
+        C     LAB PN00100014 ROOSEVELT, CASANDRA V   MB4131A 07/10/19 07/10/19 13894       ARLC 2431           1         665.904    P
+        C     LAB PN00100007 WASHINGTON, CHERISE M   MB4119A 07/10/19 07/10/19 13894       ARLC 1839           1         281.862    M
+        C     LAB PN00100045 POLK, CASANDRA S                07/10/19 07/10/19 13894       ARLC 1639           1         997.845    A
+        C     LAB PN00100015 LINCOLN, DIANE P        MB4128A 07/10/19 07/10/19 13894       ARLC 7845           1         625.674    M
+        C     LAB PN00100008 JOHNSON, CHERYL N       MB4123A 07/10/19 07/10/19 13894       ARLC 7573           1         921.267    E
+
+                  TOTAL FOR PROCEDURE    52335       (    10 TRANSACTIONS POSTED,    0 REJECTED)              10        950.00 *
+
+  52337 COMPREHENSIVE METABOLIC PNL
+        C     LAB PN00100017 HARRISON, FLORA V               07/09/19 07/10/19 13894       ARLC 5479           1         899.588    M
+        C     LAB PN00100025 JOHNSON, FRED O                 07/09/19 07/10/19 13894       ARLC 5161           1         269.395    P
+        C     LAB PN00100018 THOMAS, BRIAN T                 07/09/19 07/10/19 13894       ARLC 1321           1         342.332    B
+        C     LAB PN00100027 HARRISON, CASANDRA V            07/10/19 07/10/19 13894       ARLC 1583           1         295.047    A
+        C     LAB PN00100028 PIERCE, DIANE Y                 07/10/19 07/10/19 13894       ARLC 9923           1         691.545    M
+        C     LAB PN00100019 FILMORE, FRED B                 07/10/19 07/10/19 13894       ARLC 8403           1         429.816    E
+        C     LAB PN00100050 HARDING, ROSE Q                 07/10/19 07/10/19 13894       ARLC 1581           1          92.967    B
+        C     LAB PN00100029 JEFFERSON, SALLY K              07/10/19 07/10/19 13894       ARLC 2523           1         909.299    B
+        C     LAB PN00100031 PIERCE, KELLY V                 07/10/19 07/10/19 13894       ARLC 1421           1         623.958    E
+        C     LAB PN00100032 TAFT, KELLY S                   07/10/19 07/10/19 13894       ARLC 3501           1         562.991    E
+        C     LAB PN00100033 PIERCE, FRED L          MB4130A 07/10/19 07/10/19 13894       ARLC 9281           1         373.910    M
+        C     LAB PN00100034 KENNEDY, GERTIE G               07/10/19 07/10/19 13894       ARLC 1043           1         953.956    E
+        C     LAB PN00100016 ROOSEVELT, GERTIE T     MB4121A 07/10/19 07/10/19 13894       ARLC 9963           1         946.291    P
+        C     LAB PN00100020 HARDING, JAMES N                07/10/19 07/10/19 13894       ARLC 8167           1         108.438    B
+        C     LAB PN00100035 ANDERSON, SUSAN S               07/10/19 07/10/19 13894       ARLC 3967           1          42.970    P
+        C     LAB PN00100044 SHEPARD, CHERISE B              07/10/19 07/10/19 13894       ARLC 9731           1         427.074    E
+        C     LAB PN00100036 ROOSEVELT, GERTIE M             07/10/19 07/10/19 13894       ARLC 9225           1         569.119    A
+        C     LAB PN00100037 LINCOLN, BRIAN Q                07/10/19 07/10/19 13894       ARLC 3375           1         484.712    P
+        C     LAB PN00100038 POLK, JAMES Y                   07/10/19 07/10/19 13894       ARLC 0919           1         496.604    P
+<ARH4T>                                              ACME PARK HOSPITALS                                                PAGE:     12
+DATE: 07/11/19                        FINANCIAL TRANSACTIONS POSTED 07/10/19 - 07/11/19                           TIME:   01:51:15
+                                                  HOSPITAL 23 ( BRANCH A )
+
+DEPARTMENT :    702  LABORATORY
+
+COST CENTER:  17010  LAB SERVICES
+
+   PROC TP RV SRC BILLING NO PATIENT NAME              BED   SERV DTE POST DTE OPER  IDOC  BTCH ORD#        UNITS       AMOUNT   CL
+   ---- -- -- --- ---------- ----------------------- ------- -------- -------- ----------  ---- ----        -----      --------  --
+
+  52337 COMPREHENSIVE METABOLIC PNL
+        C     LAB PN00100006 TAFT, DANA Y            MB4128A 07/10/19 07/10/19 13894       ARLC 7927           1         792.933    M
+        C     LAB PN00100039 PIERCE, JAMES F                 07/10/19 07/10/19 13894       ARLC 1691           1         601.611    T
+        C     LAB PN00100040 HARDING, CHERISE R              07/10/19 07/10/19 13894       ARLC 0593           1         156.789    E
+        C     LAB PN00100021 KENNEDY, JAMES S                07/10/19 07/10/19 13894       ARLC 1317           1         321.461    M
+        C     LAB PN00100022 POLK, TOBIE R                   07/10/19 07/10/19 13894       ARLC 7609           1         577.678    E
+        C     LAB PN00100023 POLK, SCOTT G                   07/10/19 07/10/19 13894       ARLC 4757           1         435.940    M
+        C     LAB PN00100041 PIERCE, GLADYS Y                07/10/19 07/10/19 13894       ARLC 6289           1          16.370    P
+        C     LAB PN00100042 THOMAS, GLADYS J                07/10/19 07/10/19 13894       ARLC 6811           1         921.577    C
+
+                  TOTAL FOR PROCEDURE    52337       (    27 TRANSACTIONS POSTED,    0 REJECTED)              27       3240.00 *
+
+  52918 COLLECTION OF BLOOD/VENIPUNCTURE
+        C     LAB PN00100017 HARRISON, FLORA V               07/09/19 07/10/19 13894       ARLC 5629           1          37.540    M
+        C     LAB PN00100049 THOMAS, CHERISE Z               07/09/19 07/10/19 13894       ARLC 3163           1         814.488    A
+        C     LAB PN00100025 JOHNSON, FRED O                 07/09/19 07/10/19 13894       ARLC 1395           1         183.647    P
+        C     LAB PN00100026 POLK, TOBIE K                   07/09/19 07/10/19 13894       ARLC 3631           1         262.736    B
+        C     LAB PN00100018 THOMAS, BRIAN T                 07/09/19 07/10/19 13894       ARLC 6453           1         222.529    B
+        C     LAB PN00100008 JOHNSON, CHERYL N       MB4123A 07/09/19 07/10/19 13894       ARLC 9629           1         680.307    E
+        C     LAB PN00100001 ANDERSON, DIANE H       MB4120A 07/10/19 07/10/19 13894       ARLC 3661           1         108.864    M
+        C     LAB PN00100027 HARRISON, CASANDRA V            07/10/19 07/10/19 13894       ARLC 9645           1         692.825    A
+        C     LAB PN00100028 PIERCE, DIANE Y                 07/10/19 07/10/19 13894       ARLC 7993           1         975.638    M
+        C     LAB PN00100019 FILMORE, FRED B                 07/10/19 07/10/19 13894       ARLC 6187           1         108.882    E
+        C     LAB PN00100050 HARDING, ROSE Q                 07/10/19 07/10/19 13894       ARLC 3149           1         606.524    B
+        C     LAB PN00100029 JEFFERSON, SALLY K              07/10/19 07/10/19 13894       ARLC 5537           1         516.857    B
+        C     LAB PN00100030 TAFT, ROSE W                    07/10/19 07/10/19 13894       ARLC 9189           1         980.772    A
+        C     LAB PN00100031 PIERCE, KELLY V                 07/10/19 07/10/19 13894       ARLC 7375           1         599.423    E
+        C     LAB PN00100003 ROOSEVELT, JOE W        MB4131A 07/10/19 07/10/19 13894       ARLC 6159           1         400.920    M
+        C     LAB PN00100032 TAFT, KELLY S                   07/10/19 07/10/19 13894       ARLC 7731           1         152.843    E
+        C     LAB PN00100014 ROOSEVELT, CASANDRA V   MB4131A 07/10/19 07/10/19 13894       ARLC 9677           1         898.957    P
+        C     LAB PN00100033 PIERCE, FRED L          MB4130A 07/10/19 07/10/19 13894       ARLC 5025           1         369.792    M
+        C     LAB PN00100033 PIERCE, FRED L          MB4130A 07/10/19 07/10/19 13894       ARLC 8261           1         475.087    M
+        C     LAB PN00100034 KENNEDY, GERTIE G               07/10/19 07/10/19 13894       ARLC 7951           1         236.152    E
+        C     LAB PN00100016 ROOSEVELT, GERTIE T     MB4121A 07/10/19 07/10/19 13894       ARLC 8327           1         241.185    P
+        C     LAB PN00100016 ROOSEVELT, GERTIE T     MB4121A 07/10/19 07/10/19 13894       ARLC 4569           1         673.638    P
+        C     LAB PN00100016 ROOSEVELT, GERTIE T     MB4121A 07/10/19 07/10/19 13894       ARLC 6023           1         312.965    P
+        C     LAB PN00100013 PIERCE, CASANDRA M      LD3L02A 07/10/19 07/10/19 13894       ARLC 9397           1         601.226    B
+        C     LAB PN00100013 PIERCE, CASANDRA M      LD3L02A 07/10/19 07/10/19 13894       ARLC 8649           1         918.391    B
+        C     LAB PN00100020 HARDING, JAMES N                07/10/19 07/10/19 13894       ARLC 3629           1         394.563    B
+        C     LAB PN00100035 ANDERSON, SUSAN S               07/10/19 07/10/19 13894       ARLC 1115           1         607.653    P
+        C     LAB PN00100044 SHEPARD, CHERISE B              07/10/19 07/10/19 13894       ARLC 4487           1         458.574    E
+        C     LAB PN00100036 ROOSEVELT, GERTIE M             07/10/19 07/10/19 13894       ARLC 3021           1         220.711    A
+        C     LAB PN00100037 LINCOLN, BRIAN Q                07/10/19 07/10/19 13894       ARLC 8561           1         897.408    P
+        C     LAB PN00100038 POLK, JAMES Y                   07/10/19 07/10/19 13894       ARLC 3541           1         340.994    P
+        C     LAB PN00100006 TAFT, DANA Y            MB4128A 07/10/19 07/10/19 13894       ARLC 9973           1         499.047    M
+        C     LAB PN00100039 PIERCE, JAMES F                 07/10/19 07/10/19 13894       ARLC 4167           1         645.678    T
+        C     LAB PN00100043 PIERCE, JAMES C         MB4121A 07/10/19 07/10/19 13894       ARLC 6585           1         364.595    E
+        C     LAB PN00100007 WASHINGTON, CHERISE M   MB4119A 07/10/19 07/10/19 13894       ARLC 0277           1         917.160    M
+<ARH4T>                                              ACME PARK HOSPITALS                                                PAGE:     13
+DATE: 07/11/19                        FINANCIAL TRANSACTIONS POSTED 07/10/19 - 07/11/19                           TIME:   01:51:15
+                                                  HOSPITAL 23 ( BRANCH A )
+
+DEPARTMENT :    702  LABORATORY
+
+COST CENTER:  17010  LAB SERVICES
+
+   PROC TP RV SRC BILLING NO PATIENT NAME              BED   SERV DTE POST DTE OPER  IDOC  BTCH ORD#        UNITS       AMOUNT   CL
+   ---- -- -- --- ---------- ----------------------- ------- -------- -------- ----------  ---- ----        -----      --------  --
+
+  52918 COLLECTION OF BLOOD/VENIPUNCTURE
+        C     LAB PN00100045 POLK, CASANDRA S                07/10/19 07/10/19 13894       ARLC 8713           1         754.434    A
+        C     LAB PN00100045 POLK, CASANDRA S                07/10/19 07/10/19 13894       ARLC 3429           1         194.458    A
+        C     LAB PN00100045 POLK, CASANDRA S                07/10/19 07/10/19 13894       ARLC 9023           1         721.715    A
+        C     LAB PN00100040 HARDING, CHERISE R              07/10/19 07/10/19 13894       ARLC 4445           1         391.633    E
+        C     LAB PN00100015 LINCOLN, DIANE P        MB4128A 07/10/19 07/10/19 13894       ARLC 6149           1         192.054    M
+        C     LAB PN00100021 KENNEDY, JAMES S                07/10/19 07/10/19 13894       ARLC 5919           1         837.979    M
+        C     LAB PN00100022 POLK, TOBIE R                   07/10/19 07/10/19 13894       ARLC 5165           1         708.558    E
+        C     LAB PN00100023 POLK, SCOTT G                   07/10/19 07/10/19 13894       ARLC 3011           1         425.177    M
+        C     LAB PN00100023 POLK, SCOTT G                   07/10/19 07/10/19 13894       ARLC 1885           1         326.878    M
+        C     LAB PN00100041 PIERCE, GLADYS Y                07/10/19 07/10/19 13894       ARLC 5135           1         709.694    P
+        C     LAB PN00100042 THOMAS, GLADYS J                07/10/19 07/10/19 13894       ARLC 9019           1         670.176    C
+        C     LAB PN00100008 JOHNSON, CHERYL N       MB4123A 07/10/19 07/10/19 13894       ARLC 9209           1         124.712    E
+        C     LAB PN00100008 JOHNSON, CHERYL N       MB4123A 07/10/19 07/10/19 13894       ARLC 6359           1         142.397    E
+        C     LAB PN00100008 JOHNSON, CHERYL N       MB4123A 07/10/19 07/10/19 13894       ARLC 3609           1         525.324    E
+
+                  TOTAL FOR PROCEDURE    52918       (    49 TRANSACTIONS POSTED,    0 REJECTED)              49       1470.00 *
+
+  53863 URINE PREG TEST/BETA HCG
+        C     LAB PN00100025 JOHNSON, FRED O                 07/09/19 07/10/19 13894       ARLC 5451           1         468.946    P
+        C     LAB PN00100030 TAFT, ROSE W                    07/10/19 07/10/19 13894       ARLC 4445           1         187.561    A
+        C     LAB PN00100032 TAFT, KELLY S                   07/10/19 07/10/19 13894       ARLC 3563           1          58.790    E
+        C     LAB PN00100037 LINCOLN, BRIAN Q                07/10/19 07/10/19 13894       ARLC 3391           1         519.996    P
+        C     LAB PN00100039 PIERCE, JAMES F                 07/10/19 07/10/19 13894       ARLC 1741           1         226.331    T
+        C     LAB PN00100042 THOMAS, GLADYS J                07/10/19 07/10/19 13894       ARLC 6821           1         854.663    C
+
+                  TOTAL FOR PROCEDURE    53863       (     6 TRANSACTIONS POSTED,    0 REJECTED)               6        528.00 *
+
+  55890 HEMOGLOBIN FETAL ROSETTE
+        C     LAB PN00100013 PIERCE, CASANDRA M      LD3L02A 07/10/19 07/10/19 13894       ARLC 9397           1         320.291    B
+
+                  TOTAL FOR PROCEDURE    55890       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1         93.00 *
+
+  61524 NATRIURETIC PEPTIDE BRAIN
+        C     LAB PN00100029 JEFFERSON, SALLY K              07/10/19 07/10/19 13894       ARLC 4401           1         267.409    B
+        C     LAB PN00100006 TAFT, DANA Y            MB4128A 07/10/19 07/10/19 13894       ARLC 7893           1         784.475    M
+        C     LAB PN00100041 PIERCE, GLADYS Y                07/10/19 07/10/19 13894       ARLC 6293           1         953.913    P
+
+                  TOTAL FOR PROCEDURE    61524       (     3 TRANSACTIONS POSTED,    0 REJECTED)               3        921.00 *
+
+  61534 FIBRIN DEGRADATION D DIMER QUANT/ELISA
+        C     LAB PN00100029 JEFFERSON, SALLY K              07/10/19 07/10/19 13894       ARLC 4515           1         261.076    B
+        C     LAB PN00100006 TAFT, DANA Y            MB4128A 07/10/19 07/10/19 13894       ARLC 8317           1           8.507    M
+        C     LAB PN00100040 HARDING, CHERISE R              07/10/19 07/10/19 13894       ARLC 0641           1         996.329    E
+
+                  TOTAL FOR PROCEDURE    61534       (     3 TRANSACTIONS POSTED,    0 REJECTED)               3        423.00 *
+
+  67556 INFECT AG SHIGA-LIKE TOXIN STOOL
+        C     LAB PN00100003 ROOSEVELT, JOE W        MB4131A 07/08/19 07/10/19 13894       ARLC 0025           1         172.248    M
+
+                  TOTAL FOR PROCEDURE    67556       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1        158.00 *
+<ARH4T>                                              ACME PARK HOSPITALS                                                PAGE:     14
+DATE: 07/11/19                        FINANCIAL TRANSACTIONS POSTED 07/10/19 - 07/11/19                           TIME:   01:51:15
+                                                  HOSPITAL 23 ( BRANCH A )
+
+DEPARTMENT :    702  LABORATORY
+
+COST CENTER:  17010  LAB SERVICES
+
+   PROC TP RV SRC BILLING NO PATIENT NAME              BED   SERV DTE POST DTE OPER  IDOC  BTCH ORD#        UNITS       AMOUNT   CL
+   ---- -- -- --- ---------- ----------------------- ------- -------- -------- ----------  ---- ----        -----      --------  --
+
+  79950 CX PRESUMPTIVE PATHOGEN GROUP A STREP
+        C     LAB PN00100051 JEFFERSON, CASANDRA F           07/07/19 07/10/19 13894       ARLC 5241           1         448.361    P
+        C     LAB PN00100052 LINCOLN, ROSE P                 07/09/19 07/10/19 13894       ARLC 5351           1         769.964    B
+        C     LAB PN00100053 THOMAS, JOE B                   07/09/19 07/10/19 13894       ARLC 8699           1         774.268    P
+
+                  TOTAL FOR PROCEDURE    79950       (     3 TRANSACTIONS POSTED,    0 REJECTED)               3        279.00 *
+
+                  TOTAL FOR COST CENTER  17010       (   226 TRANSACTIONS POSTED,    0 REJECTED)             226      21444.00 **
+<ARH4T>                                              ACME PARK HOSPITALS                                                PAGE:     15
+DATE: 07/11/19                        FINANCIAL TRANSACTIONS POSTED 07/10/19 - 07/11/19                           TIME:   01:51:15
+                                                  HOSPITAL 23 ( BRANCH A )
+
+DEPARTMENT :    702  LABORATORY
+
+   PROC TP RV SRC BILLING NO PATIENT NAME              BED   SERV DTE POST DTE OPER  IDOC  BTCH ORD#        UNITS       AMOUNT   CL
+   ---- -- -- --- ---------- ----------------------- ------- -------- -------- ----------  ---- ----        -----      --------  --
+
+                  TOTAL FOR DEPARTMENT     702       (   240 TRANSACTIONS POSTED,    0 REJECTED)             240      21444.00 ***
+
+                  TOTAL REVERSALS FOR DPT  702       (     0 TRANSACTIONS POSTED,    0 REJECTED)               0           .00
+
+
+                                                 TOTALS BY BATCH FOR DEPARTMENT
+
+                               BATCH ID  HASH TOTAL  TRANS POSTED  TRANS REJECTED  UNITS POSTED  AMOUNT POSTED
+                               --------  ----------  ------------  --------------  ------------  -------------
+
+                                 ARLC      7136533           240               0            240     21,444.00
+<ARH4T>                                              ACME PARK HOSPITALS                                                PAGE:     16
+DATE: 07/11/19                        FINANCIAL TRANSACTIONS POSTED 07/10/19 - 07/11/19                           TIME:   01:51:15
+                                                  HOSPITAL 23 ( BRANCH A )
+
+DEPARTMENT :    715  CARDIO CATHETERIZATION
+
+COST CENTER:  17030  CARDIOVASCULAR SERVICES
+
+   PROC TP RV SRC BILLING NO PATIENT NAME              BED   SERV DTE POST DTE OPER  IDOC  BTCH ORD#        UNITS       AMOUNT   CL
+   ---- -- -- --- ---------- ----------------------- ------- -------- -------- ----------  ---- ----        -----      --------  --
+
+  26388 EKG W 12+ LEADS TRACING ONLY WO INTERPRE
+        C         PN00100017 HARRISON, FLORA V               07/09/19 07/10/19 0080811063  ARSE                1         564.704    M
+        C         PN00100054 JOHNSON, HAROLD S               07/09/19 07/10/19 0080811063  ARSE                1         530.013    M
+        C         PN00100055 LINCOLN, WILLIAM D              07/09/19 07/10/19 0080811063  ARSE                1         258.197    M
+        C         PN00100048 KENNEDY, HAROLD V       MB4122A 07/09/19 07/10/19 2076220762  ARSE                1         406.798    P
+        C         PN00100056 ROOSEVELT, GERTIE H             07/09/19 07/10/19 0080811063  ARSE                1         213.579    E
+        C         PN00100057 HARDING, BRIAN O                07/09/19 07/10/19 0080811063  ARSE                1         369.192    B
+        C         PN00100028 PIERCE, DIANE Y                 07/10/19 07/10/19 0080811063  ARSE                1         827.634    M
+        C         PN00100029 JEFFERSON, SALLY K              07/10/19 07/10/19 0080811063  ARSE                1         518.291    B
+        C         PN00100031 PIERCE, KELLY V                 07/10/19 07/10/19 0080811063  ARSE                1         106.336    E
+        C         PN00100036 ROOSEVELT, GERTIE M             07/10/19 07/10/19 0080811063  ARSE                1         214.676    A
+        C         PN00100037 LINCOLN, BRIAN Q                07/10/19 07/10/19 0080811063  ARSE                1         941.107    P
+        C         PN00100038 POLK, JAMES Y                   07/10/19 07/10/19 0080811063  ARSE                1         381.588    P
+        C         PN00100039 PIERCE, JAMES F                 07/10/19 07/10/19 0080811063  ARSE                1         432.380    T
+        C         PN00100040 HARDING, CHERISE R              07/10/19 07/10/19 0080811063  ARSE                1         887.297    E
+        C         PN00100042 THOMAS, GLADYS J                07/10/19 07/10/19 0080811063  ARSE                1         350.743    C
+
+                  TOTAL FOR PROCEDURE    26388       (    15 TRANSACTIONS POSTED,    0 REJECTED)              15       3030.00 *
+
+                  TOTAL FOR COST CENTER  17030       (    15 TRANSACTIONS POSTED,    0 REJECTED)              15       3030.00 **
+<ARH4T>                                              ACME PARK HOSPITALS                                                PAGE:     17
+DATE: 07/11/19                        FINANCIAL TRANSACTIONS POSTED 07/10/19 - 07/11/19                           TIME:   01:51:15
+                                                  HOSPITAL 23 ( BRANCH A )
+
+DEPARTMENT :    715  CARDIO CATHETERIZATION
+
+   PROC TP RV SRC BILLING NO PATIENT NAME              BED   SERV DTE POST DTE OPER  IDOC  BTCH ORD#        UNITS       AMOUNT   CL
+   ---- -- -- --- ---------- ----------------------- ------- -------- -------- ----------  ---- ----        -----      --------  --
+
+                  TOTAL FOR DEPARTMENT     715       (    15 TRANSACTIONS POSTED,    0 REJECTED)              15       3030.00 ***
+
+                  TOTAL REVERSALS FOR DPT  715       (     0 TRANSACTIONS POSTED,    0 REJECTED)               0           .00
+
+
+                                                 TOTALS BY BATCH FOR DEPARTMENT
+
+                               BATCH ID  HASH TOTAL  TRANS POSTED  TRANS REJECTED  UNITS POSTED  AMOUNT POSTED
+                               --------  ----------  ------------  --------------  ------------  -------------
+
+                                 ARSE       395820            15               0             15      3,030.00
+<ARH4T>                                              ACME PARK HOSPITALS                                                PAGE:     18
+DATE: 07/11/19                        FINANCIAL TRANSACTIONS POSTED 07/10/19 - 07/11/19                           TIME:   01:51:15
+                                                  HOSPITAL 23 ( BRANCH A )
+
+DEPARTMENT :    720  INPATIENT RADIOLOGY DIAGN
+
+COST CENTER:  17040  RADIOLOGY-DIAGNOSTIC
+
+   PROC TP RV SRC BILLING NO PATIENT NAME              BED   SERV DTE POST DTE OPER  IDOC  BTCH ORD#        UNITS       AMOUNT   CL
+   ---- -- -- --- ---------- ----------------------- ------- -------- -------- ----------  ---- ----        -----      --------  --
+
+     13 HIP COMP 2+VW UNIL
+        C     RAD PN00100033 PIERCE, FRED L          MB4130A 07/10/19 07/10/19 20762       ARS7                1         397.126    M
+        C     RAD PN00100033 PIERCE, FRED L          MB4130A 07/10/19 07/10/19 20762       ARS7                1         338.225    M
+        C     RAD PN00100058 LINCOLN, DANA G                 07/10/19 07/10/19 00808       ARS7                1         165.385    P
+
+                  TOTAL FOR PROCEDURE       13       (     3 TRANSACTIONS POSTED,    0 REJECTED)               3        939.00 *
+
+     18 CHEST 1VW FRONTAL
+        C     RAD PN00100029 JEFFERSON, SALLY K              07/10/19 07/10/19 00808       ARS7                1         370.596    B
+        C     RAD PN00100033 PIERCE, FRED L          MB4130A 07/10/19 07/10/19 20762       ARS7                1          80.047    M
+        C     RAD PN00100036 ROOSEVELT, GERTIE M             07/10/19 07/10/19 00808       ARS7                1         350.286    A
+        C     RAD PN00100006 TAFT, DANA Y            MB4128A 07/10/19 07/10/19 20762       ARS7                1         297.181    M
+        C     RAD PN00100040 HARDING, CHERISE R              07/10/19 07/10/19 00808       ARS7                1         362.448    E
+        C     RAD PN00100023 POLK, SCOTT G                   07/10/19 07/10/19 00808       ARS7                1           4.195    M
+
+                  TOTAL FOR PROCEDURE       18       (     6 TRANSACTIONS POSTED,    0 REJECTED)               6       2352.00 *
+
+     20 SHOULDER COMP 2+VW RT
+        C     RAD PN00100059 POLK, WARREN S                  07/09/19 07/10/19 00808       ARS7                1         464.535    M
+
+                  TOTAL FOR PROCEDURE       20       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1        313.00 *
+
+     37 SPINE LUMBOSACRAL 2/3VW
+        C     RAD PN00100058 LINCOLN, DANA G                 07/10/19 07/10/19 00808       ARS7                1         868.346    P
+
+                  TOTAL FOR PROCEDURE       37       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1        313.00 *
+
+     41 FOREARM 2VW RT
+        C     RAD PN00100059 POLK, WARREN S                  07/09/19 07/10/19 00808       ARS7                1         507.077    M
+
+                  TOTAL FOR PROCEDURE       41       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1        313.00 *
+
+     83 WRIST 3+VW RT
+        C     RAD PN00100059 POLK, WARREN S                  07/09/19 07/10/19 00808       ARS7                1           1.776    M
+        C     RAD PN00100060 HARRISON, SCOTT C               07/10/19 07/10/19 00808       ARS7                1         905.437    E
+
+                  TOTAL FOR PROCEDURE       83       (     2 TRANSACTIONS POSTED,    0 REJECTED)               2        626.00 *
+
+     89 CHEST 2VW FRONTAL & LAT
+        C     RAD PN00100031 PIERCE, KELLY V                 07/10/19 07/10/19 00808       ARS7                1         571.056    E
+        C     RAD PN00100039 PIERCE, JAMES F                 07/10/19 07/10/19 00808       ARS7                1         531.990    T
+        C     RAD PN00100041 PIERCE, GLADYS Y                07/10/19 07/10/19 00808       ARS7                1         907.848    P
+
+                  TOTAL FOR PROCEDURE       89       (     3 TRANSACTIONS POSTED,    0 REJECTED)               3       1176.00 *
+
+   6345 HAND 3+VW RT
+        C     RAD PN00100060 HARRISON, SCOTT C               07/10/19 07/10/19 00808       ARS7                1         919.540    E
+
+                  TOTAL FOR PROCEDURE     6345       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1        313.00 *
+<ARH4T>                                              ACME PARK HOSPITALS                                                PAGE:     19
+DATE: 07/11/19                        FINANCIAL TRANSACTIONS POSTED 07/10/19 - 07/11/19                           TIME:   01:51:15
+                                                  HOSPITAL 23 ( BRANCH A )
+
+DEPARTMENT :    720  INPATIENT RADIOLOGY DIAGN
+
+COST CENTER:  17040  RADIOLOGY-DIAGNOSTIC
+
+   PROC TP RV SRC BILLING NO PATIENT NAME              BED   SERV DTE POST DTE OPER  IDOC  BTCH ORD#        UNITS       AMOUNT   CL
+   ---- -- -- --- ---------- ----------------------- ------- -------- -------- ----------  ---- ----        -----      --------  --
+
+   6346 FOOT COMP 3+VW RT
+        C     RAD PN00100061 THOMAS, CASANDRA B              07/10/19 07/10/19 00808       ARS7                1         689.029    E
+
+                  TOTAL FOR PROCEDURE     6346       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1        313.00 *
+
+  57821 FINGERS 2+VW LT
+        C     RAD PN00100062 LINCOLN, SCOTT I                07/10/19 07/10/19 00808       ARS7                1         778.071    B
+
+                  TOTAL FOR PROCEDURE    57821       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1        313.00 *
+
+  58121 RIBS 3+VW INCL PA CHEST RT
+        C     RAD PN00100024 SHEPARD, SALLY C                07/10/19 07/10/19 00808       ARS7                1         969.823    E
+
+                  TOTAL FOR PROCEDURE    58121       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1        313.00 *
+
+  58143 ANKLE COMP 3+VW LT
+        C     RAD PN00100063 THOMAS, CASANDRA F              07/10/19 07/10/19 00808       ARS7                1         787.923    P
+
+                  TOTAL FOR PROCEDURE    58143       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1        313.00 *
+
+  58210 KNEE 1/2VW LT
+        C     RAD PN00100058 LINCOLN, DANA G                 07/10/19 07/10/19 00808       ARS7                1         400.083    P
+
+                  TOTAL FOR PROCEDURE    58210       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1        313.00 *
+
+  58238 SHOULDER COMP 2+VW LT
+        C     RAD PN00100064 WASHINGTON, SUSAN P             07/10/19 07/10/19 00808       ARS7                1         256.475    B
+
+                  TOTAL FOR PROCEDURE    58238       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1        313.00 *
+
+                  TOTAL FOR COST CENTER  17040       (    24 TRANSACTIONS POSTED,    0 REJECTED)              24       8223.00 **
+<ARH4T>                                              ACME PARK HOSPITALS                                                PAGE:     20
+DATE: 07/11/19                        FINANCIAL TRANSACTIONS POSTED 07/10/19 - 07/11/19                           TIME:   01:51:15
+                                                  HOSPITAL 23 ( BRANCH A )
+
+DEPARTMENT :    720  INPATIENT RADIOLOGY DIAGN
+
+   PROC TP RV SRC BILLING NO PATIENT NAME              BED   SERV DTE POST DTE OPER  IDOC  BTCH ORD#        UNITS       AMOUNT   CL
+   ---- -- -- --- ---------- ----------------------- ------- -------- -------- ----------  ---- ----        -----      --------  --
+
+                  TOTAL FOR DEPARTMENT     720       (    24 TRANSACTIONS POSTED,    0 REJECTED)              24       8223.00 ***
+
+                  TOTAL REVERSALS FOR DPT  720       (     0 TRANSACTIONS POSTED,    0 REJECTED)               0           .00
+
+
+                                                 TOTALS BY BATCH FOR DEPARTMENT
+
+                               BATCH ID  HASH TOTAL  TRANS POSTED  TRANS REJECTED  UNITS POSTED  AMOUNT POSTED
+                               --------  ----------  ------------  --------------  ------------  -------------
+
+                                 ARS7       303902            24               0             24      8,223.00
+<ARH4T>                                              ACME PARK HOSPITALS                                                PAGE:     21
+DATE: 07/11/19                        FINANCIAL TRANSACTIONS POSTED 07/10/19 - 07/11/19                           TIME:   01:51:15
+                                                  HOSPITAL 23 ( BRANCH A )
+
+DEPARTMENT :    723  RADIOLOGY ISOTOPES
+
+COST CENTER:  17060  NUCLEAR MEDICINE
+
+   PROC TP RV SRC BILLING NO PATIENT NAME              BED   SERV DTE POST DTE OPER  IDOC  BTCH ORD#        UNITS       AMOUNT   CL
+   ---- -- -- --- ---------- ----------------------- ------- -------- -------- ----------  ---- ----        -----      --------  --
+
+  78001 PULM VENTILATION & PERFUSION IMAGING
+        C     RAD PN00100006 TAFT, DANA Y            MB4128A 07/10/19 07/10/19 20762       ARS7                1         604.303    M
+
+                  TOTAL FOR PROCEDURE    78001       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1       1744.00 *
+
+                  TOTAL FOR COST CENTER  17060       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1       1744.00 **
+<ARH4T>                                              ACME PARK HOSPITALS                                                PAGE:     22
+DATE: 07/11/19                        FINANCIAL TRANSACTIONS POSTED 07/10/19 - 07/11/19                           TIME:   01:51:15
+                                                  HOSPITAL 23 ( BRANCH A )
+
+DEPARTMENT :    723  RADIOLOGY ISOTOPES
+
+   PROC TP RV SRC BILLING NO PATIENT NAME              BED   SERV DTE POST DTE OPER  IDOC  BTCH ORD#        UNITS       AMOUNT   CL
+   ---- -- -- --- ---------- ----------------------- ------- -------- -------- ----------  ---- ----        -----      --------  --
+
+                  TOTAL FOR DEPARTMENT     723       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1       1744.00 ***
+
+                  TOTAL REVERSALS FOR DPT  723       (     0 TRANSACTIONS POSTED,    0 REJECTED)               0           .00
+
+
+                                                 TOTALS BY BATCH FOR DEPARTMENT
+
+                               BATCH ID  HASH TOTAL  TRANS POSTED  TRANS REJECTED  UNITS POSTED  AMOUNT POSTED
+                               --------  ----------  ------------  --------------  ------------  -------------
+
+                                 ARS7        78001             1               0              1      1,744.00
+<ARH4T>                                              ACME PARK HOSPITALS                                                PAGE:     23
+DATE: 07/11/19                        FINANCIAL TRANSACTIONS POSTED 07/10/19 - 07/11/19                           TIME:   01:51:15
+                                                  HOSPITAL 23 ( BRANCH A )
+
+DEPARTMENT :    725  NUCLEAR PHARMACY
+
+COST CENTER:  17063  NUCLEAR PHARMACY
+
+   PROC TP RV SRC BILLING NO PATIENT NAME              BED   SERV DTE POST DTE OPER  IDOC  BTCH ORD#        UNITS       AMOUNT   CL
+   ---- -- -- --- ---------- ----------------------- ------- -------- -------- ----------  ---- ----        -----      --------  --
+
+  10802 TC 99M MAA UP TO 10MCI
+        C     RAD PN00100006 TAFT, DANA Y            MB4128A 07/10/19 07/10/19 20762       ARS7                1          33.506    M
+
+                  TOTAL FOR PROCEDURE    10802       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1        284.00 *
+
+  10824 XENON XE 133 PER 10MCI
+        C     RAD PN00100006 TAFT, DANA Y            MB4128A 07/10/19 07/10/19 20762       ARS7                1         941.368    M
+
+                  TOTAL FOR PROCEDURE    10824       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1        169.00 *
+
+  89571 NACL .9% 10ML
+        C     RAD PN00100006 TAFT, DANA Y            MB4128A 07/10/19 07/10/19 20762       ARS7                1          11.462    M
+
+                  TOTAL FOR PROCEDURE    89571       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1           .50 *
+
+                  TOTAL FOR COST CENTER  17063       (     3 TRANSACTIONS POSTED,    0 REJECTED)               3        453.50 **
+<ARH4T>                                              ACME PARK HOSPITALS                                                PAGE:     24
+DATE: 07/11/19                        FINANCIAL TRANSACTIONS POSTED 07/10/19 - 07/11/19                           TIME:   01:51:15
+                                                  HOSPITAL 23 ( BRANCH A )
+
+DEPARTMENT :    725  NUCLEAR PHARMACY
+
+   PROC TP RV SRC BILLING NO PATIENT NAME              BED   SERV DTE POST DTE OPER  IDOC  BTCH ORD#        UNITS       AMOUNT   CL
+   ---- -- -- --- ---------- ----------------------- ------- -------- -------- ----------  ---- ----        -----      --------  --
+
+                  TOTAL FOR DEPARTMENT     725       (     3 TRANSACTIONS POSTED,    0 REJECTED)               3        453.50 ***
+
+                  TOTAL REVERSALS FOR DPT  725       (     0 TRANSACTIONS POSTED,    0 REJECTED)               0           .00
+
+
+                                                 TOTALS BY BATCH FOR DEPARTMENT
+
+                               BATCH ID  HASH TOTAL  TRANS POSTED  TRANS REJECTED  UNITS POSTED  AMOUNT POSTED
+                               --------  ----------  ------------  --------------  ------------  -------------
+
+                                 ARS7       111197             3               0              3        453.50
+<ARH4T>                                              ACME PARK HOSPITALS                                                PAGE:     25
+DATE: 07/11/19                        FINANCIAL TRANSACTIONS POSTED 07/10/19 - 07/11/19                           TIME:   01:51:15
+                                                  HOSPITAL 23 ( BRANCH A )
+
+DEPARTMENT :    729  RADIOLOGY - CT SCAN
+
+COST CENTER:  17042  RADIOLOGY-CT SCAN
+
+   PROC TP RV SRC BILLING NO PATIENT NAME              BED   SERV DTE POST DTE OPER  IDOC  BTCH ORD#        UNITS       AMOUNT   CL
+   ---- -- -- --- ---------- ----------------------- ------- -------- -------- ----------  ---- ----        -----      --------  --
+
+   8748 CT BRAIN/HEAD WO CONT
+        C     RAD PN00100017 HARRISON, FLORA V               07/09/19 07/10/19 00808       ARS7                1         798.448    M
+        C     RAD PN00100065 WASHINGTON, CHERYL D            07/09/19 07/10/19 00808       ARS7                1         333.330    A
+        C     RAD PN00100066 LINCOLN, JAMES W                07/09/19 07/10/19 00808       ARS7                1         236.217    P
+        C     RAD PN00100067 PIERCE, GLADYS F                07/09/19 07/10/19 00808       ARS7                1         259.267    A
+        C     RAD PN00100028 PIERCE, DIANE Y                 07/10/19 07/10/19 00808       ARS7                1         356.423    M
+        C     RAD PN00100033 PIERCE, FRED L          MB4130A 07/10/19 07/10/19 20762       ARS7                1         692.301    M
+        C     RAD PN00100044 SHEPARD, CHERISE B              07/10/19 07/10/19 00808       ARS7                1         367.597    E
+        C     RAD PN00100037 LINCOLN, BRIAN Q                07/10/19 07/10/19 00808       ARS7                1         546.063    P
+        C     RAD PN00100039 PIERCE, JAMES F                 07/10/19 07/10/19 00808       ARS7                1         908.129    T
+
+                  TOTAL FOR PROCEDURE     8748       (     9 TRANSACTIONS POSTED,    0 REJECTED)               9      16380.00 *
+
+  16394 CT THORAX W CONT
+        C     RAD PN00100055 LINCOLN, WILLIAM D              07/09/19 07/10/19 00808       ARS7                1         744.835    M
+        C     RAD PN00100029 JEFFERSON, SALLY K              07/10/19 07/10/19 00808       ARS7                1         325.766    B
+
+                  TOTAL FOR PROCEDURE    16394       (     2 TRANSACTIONS POSTED,    0 REJECTED)               2       5036.00 *
+
+  16395 CT THORAX WO CONT
+        C     RAD PN00100028 PIERCE, DIANE Y                 07/10/19 07/10/19 00808       ARS7                1         925.014    M
+        C     RAD PN00100008 JOHNSON, CHERYL N       MB4123A 07/10/19 07/10/19 20149       ARS7                1         234.390    E
+
+                  TOTAL FOR PROCEDURE    16395       (     2 TRANSACTIONS POSTED,    0 REJECTED)               2       3640.00 *
+
+  17589 CT SOFT TISSUE NECK WO CONT
+        C     RAD PN00100006 TAFT, DANA Y            MB4128A 07/10/19 07/10/19 20762       ARS7                1         474.535    M
+
+                  TOTAL FOR PROCEDURE    17589       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1       1820.00 *
+
+  26254 CT MAXILLOFACIAL AREA WO CONT
+        C     RAD PN00100065 WASHINGTON, CHERYL D            07/09/19 07/10/19 00808       ARS7                1         605.618    A
+
+                  TOTAL FOR PROCEDURE    26254       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1       1820.00 *
+
+  34886 CT SPINE CERV WO CONT
+        C     RAD PN00100065 WASHINGTON, CHERYL D            07/09/19 07/10/19 00808       ARS7                1         462.447    A
+        C     RAD PN00100033 PIERCE, FRED L          MB4130A 07/10/19 07/10/19 20762       ARS7                1         130.150    M
+
+                  TOTAL FOR PROCEDURE    34886       (     2 TRANSACTIONS POSTED,    0 REJECTED)               2       3640.00 *
+
+  76633 CT ABD AND PEL WO CONTRAST
+        C     RAD PN00100032 TAFT, KELLY S                   07/10/19 07/10/19 00808       ARS7                1         768.228    E
+        C     RAD PN00100020 HARDING, JAMES N                07/10/19 07/10/19 00808       ARS7                1         966.611    B
+
+                  TOTAL FOR PROCEDURE    76633       (     2 TRANSACTIONS POSTED,    0 REJECTED)               2       7274.00 *
+
+  76634 CT ABD AND PEL WITH CONTRAST
+        C     RAD PN00100025 JOHNSON, FRED O                 07/09/19 07/10/19 00808       ARS7                1         311.479    P
+<ARH4T>                                              ACME PARK HOSPITALS                                                PAGE:     26
+DATE: 07/11/19                        FINANCIAL TRANSACTIONS POSTED 07/10/19 - 07/11/19                           TIME:   01:51:15
+                                                  HOSPITAL 23 ( BRANCH A )
+
+DEPARTMENT :    729  RADIOLOGY - CT SCAN
+
+COST CENTER:  17042  RADIOLOGY-CT SCAN
+
+   PROC TP RV SRC BILLING NO PATIENT NAME              BED   SERV DTE POST DTE OPER  IDOC  BTCH ORD#        UNITS       AMOUNT   CL
+   ---- -- -- --- ---------- ----------------------- ------- -------- -------- ----------  ---- ----        -----      --------  --
+
+  76634 CT ABD AND PEL WITH CONTRAST
+        C     RAD PN00100068 FILMORE, JOE R                  07/09/19 07/10/19 00808       ARS7                1         526.985    M
+        C     RAD PN00100018 THOMAS, BRIAN T                 07/09/19 07/10/19 00808       ARS7                1         848.780    B
+        C     RAD PN00100019 FILMORE, FRED B                 07/10/19 07/10/19 00808       ARS7                1         207.111    E
+        C     RAD PN00100034 KENNEDY, GERTIE G               07/10/19 07/10/19 00808       ARS7                1          59.540    E
+        C     RAD PN00100021 KENNEDY, JAMES S                07/10/19 07/10/19 00808       ARS7                1         645.887    M
+        C     RAD PN00100022 POLK, TOBIE R                   07/10/19 07/10/19 00808       ARS7                1         677.134    E
+
+                  TOTAL FOR PROCEDURE    76634       (     7 TRANSACTIONS POSTED,    0 REJECTED)               7      35252.00 *
+
+  90055 CT ISOVUE-300 100ML BTL/PER ML
+        C     RAD PN00100025 JOHNSON, FRED O                 07/09/19 07/10/19 00808       ARS7              100         265.982    P
+        C     RAD PN00100018 THOMAS, BRIAN T                 07/09/19 07/10/19 00808       ARS7              100          56.872    B
+        C     RAD PN00100019 FILMORE, FRED B                 07/10/19 07/10/19 00808       ARS7              100         418.555    E
+        C     RAD PN00100034 KENNEDY, GERTIE G               07/10/19 07/10/19 00808       ARS7              100         821.789    E
+        C     RAD PN00100021 KENNEDY, JAMES S                07/10/19 07/10/19 00808       ARS7              100         258.075    M
+        C     RAD PN00100022 POLK, TOBIE R                   07/10/19 07/10/19 00808       ARS7              100         963.407    E
+
+                  TOTAL FOR PROCEDURE    90055       (     6 TRANSACTIONS POSTED,    0 REJECTED)             600        600.00 *
+
+  90062 CT ISOVUE-300 MULTIP 500ML BTL/PER ML
+        C     RAD PN00100068 FILMORE, JOE R                  07/09/19 07/10/19 00808       ARS7              100         401.226    M
+
+                  TOTAL FOR PROCEDURE    90062       (     1 TRANSACTIONS POSTED,    0 REJECTED)             100        100.00 *
+
+  90067 CT ISOVUE-370 100ML BTL/PER ML
+        C     RAD PN00100055 LINCOLN, WILLIAM D              07/09/19 07/10/19 00808       ARS7              100          36.679    M
+        C     RAD PN00100029 JEFFERSON, SALLY K              07/10/19 07/10/19 00808       ARS7              100         221.226    B
+
+                  TOTAL FOR PROCEDURE    90067       (     2 TRANSACTIONS POSTED,    0 REJECTED)             200        200.00 *
+
+                  TOTAL FOR COST CENTER  17042       (    35 TRANSACTIONS POSTED,    0 REJECTED)             926      75762.00 **
+<ARH4T>                                              ACME PARK HOSPITALS                                                PAGE:     27
+DATE: 07/11/19                        FINANCIAL TRANSACTIONS POSTED 07/10/19 - 07/11/19                           TIME:   01:51:15
+                                                  HOSPITAL 23 ( BRANCH A )
+
+DEPARTMENT :    729  RADIOLOGY - CT SCAN
+
+   PROC TP RV SRC BILLING NO PATIENT NAME              BED   SERV DTE POST DTE OPER  IDOC  BTCH ORD#        UNITS       AMOUNT   CL
+   ---- -- -- --- ---------- ----------------------- ------- -------- -------- ----------  ---- ----        -----      --------  --
+
+                  TOTAL FOR DEPARTMENT     729       (    35 TRANSACTIONS POSTED,    0 REJECTED)             926      75762.00 ***
+
+                  TOTAL REVERSALS FOR DPT  729       (     0 TRANSACTIONS POSTED,    0 REJECTED)               0           .00
+
+
+                                                 TOTALS BY BATCH FOR DEPARTMENT
+
+                               BATCH ID  HASH TOTAL  TRANS POSTED  TRANS REJECTED  UNITS POSTED  AMOUNT POSTED
+                               --------  ----------  ------------  --------------  ------------  -------------
+
+                                 ARS7     82000229            35               0            926     75,762.00
+<ARH4T>                                              ACME PARK HOSPITALS                                                PAGE:     28
+DATE: 07/11/19                        FINANCIAL TRANSACTIONS POSTED 07/10/19 - 07/11/19                           TIME:   01:51:15
+                                                  HOSPITAL 23 ( BRANCH A )
+
+DEPARTMENT :    730  PHARMACY
+
+COST CENTER:  17070  PHARMACY
+
+   PROC TP RV SRC BILLING NO PATIENT NAME              BED   SERV DTE POST DTE OPER  IDOC  BTCH ORD#        UNITS       AMOUNT   CL
+   ---- -- -- --- ---------- ----------------------- ------- -------- -------- ----------  ---- ----        -----      --------  --
+
+    534 SIMETHICONE TAB 80MG
+        C     RXM PN00100069 LINCOLN, DIANE P        LD3L03A 07/10/19 07/10/19 20149       1793                2         439.611    E
+        C     RXM PN00100008 JOHNSON, CHERYL N       MB4123A 07/10/19 07/10/19 20149       1793                2         664.042    E
+
+                  TOTAL FOR PROCEDURE      534       (     2 TRANSACTIONS POSTED,    0 REJECTED)               4           .00 *
+
+    931 PANTOPRAZOLE NA INJ 40MG/VIAL
+        C     RXM PN00100001 ANDERSON, DIANE H       MB4120A 07/10/19 07/10/19 20225       4846                1          91.888    M
+        C     RXM PN00100003 ROOSEVELT, JOE W        MB4131A 07/10/19 07/10/19 20762       4846                1         813.172    M
+        C     RXM PN00100006 TAFT, DANA Y            MB4128A 07/10/19 07/10/19 79108       8233                1         752.334    M
+
+                  TOTAL FOR PROCEDURE      931       (     3 TRANSACTIONS POSTED,    0 REJECTED)               3        225.00 *
+
+   1124 MELOXICAM TAB 7.5MG
+        C     RXM PN00100004 TRUMAN, ROSE T          MB4118A 07/10/19 07/10/19 20762       1793                2         698.685    M
+
+                  TOTAL FOR PROCEDURE     1124       (     1 TRANSACTIONS POSTED,    0 REJECTED)               2          6.20 *
+
+   1135 MOXIFLOXACIN HCL TAB 400MG
+        C     RXM PN00100008 JOHNSON, CHERYL N       MB4123A 07/10/19 07/10/19 20149       1793                1         761.368    E
+
+                  TOTAL FOR PROCEDURE     1135       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1         16.40 *
+
+   1396 DERMOPLAST SPR TOP 2.75OZ
+        C     RXM PN00100013 PIERCE, CASANDRA M      LD3L02A 07/09/19 07/10/19 16724       1783                1         363.915    B
+
+                  TOTAL FOR PROCEDURE     1396       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1          6.10 *
+
+   1484 TOLTERODINE TARTRATE LA CAP 2MG
+        C     RXM PN00100004 TRUMAN, ROSE T          MB4118A 07/10/19 07/10/19 20762       1793                1         699.352    M
+
+                  TOTAL FOR PROCEDURE     1484       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1          4.80 *
+
+   1845 WARFARIN TAB 7.5MG
+        C     RXM PN00100015 LINCOLN, DIANE P        MB4128A 07/10/19 07/10/19 20762       1793                1         638.069    M
+
+                  TOTAL FOR PROCEDURE     1845       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1          1.20 *
+
+   1888 LEVOTHYROXIN NA TAB 0.05MG
+        C     RXM PN00100016 ROOSEVELT, GERTIE T     MB4121A 07/10/19 07/10/19 20762       1793                1          78.308    P
+
+                  TOTAL FOR PROCEDURE     1888       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1           .50 *
+
+   1890 LEVOTHYROXINE NA TAB 0.15MG
+        C     RXM PN00100004 TRUMAN, ROSE T          MB4118A 07/10/19 07/10/19 20762       1793                1         600.876    M
+
+                  TOTAL FOR PROCEDURE     1890       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1         10.00 *
+
+   1898 BISACODYL SUPP 10MG
+        C     RXM PN00100008 JOHNSON, CHERYL N       MB4123A 07/10/19 07/10/19 17001       1793                1         487.527    E
+<ARH4T>                                              ACME PARK HOSPITALS                                                PAGE:     29
+DATE: 07/11/19                        FINANCIAL TRANSACTIONS POSTED 07/10/19 - 07/11/19                           TIME:   01:51:15
+                                                  HOSPITAL 23 ( BRANCH A )
+
+DEPARTMENT :    730  PHARMACY
+
+COST CENTER:  17070  PHARMACY
+
+   PROC TP RV SRC BILLING NO PATIENT NAME              BED   SERV DTE POST DTE OPER  IDOC  BTCH ORD#        UNITS       AMOUNT   CL
+   ---- -- -- --- ---------- ----------------------- ------- -------- -------- ----------  ---- ----        -----      --------  --
+
+                  TOTAL FOR PROCEDURE     1898       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1           .00 *
+
+   1937 FUROSEMIDE TAB 40MG
+        C     RXM PN00100007 WASHINGTON, CHERISE M   MB4119A 07/10/19 07/10/19 20762       1793                1         645.766    M
+        C     RXM PN00100007 WASHINGTON, CHERISE M   MB4119A 07/10/19 07/10/19 20762       1793                1         217.537    M
+
+                  TOTAL FOR PROCEDURE     1937       (     2 TRANSACTIONS POSTED,    0 REJECTED)               2           .80 *
+
+   2059 HYDROMORPHONE TAB 2MG
+        C     RXM PN00100008 JOHNSON, CHERYL N       MB4123A 07/10/19 07/10/19 17001       9975                1         563.303    E
+
+                  TOTAL FOR PROCEDURE     2059       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1           .50 *
+
+   2473 GLUCAGON INJ 1MG
+        C     RXM PN00100006 TAFT, DANA Y            MB4128A 07/10/19 07/10/19 79108       8233                1         624.353    M
+
+                  TOTAL FOR PROCEDURE     2473       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1        210.00 *
+
+   2632 EZETIMIBE TAB 10MG
+        C     RXM PN00100043 PIERCE, JAMES C         MB4121A 07/10/19 07/10/19 20762       1793                1         229.819    E
+
+                  TOTAL FOR PROCEDURE     2632       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1          2.60 *
+
+   2959 ACETAMIN TAB 325MG
+        C     RXM PN00100050 HARDING, ROSE Q                 07/10/19 07/10/19 20762       1793                2         724.480    B
+        C     RXM PN00100050 HARDING, ROSE Q                 07/10/19 07/10/19 20762       1793                2         615.093    B
+
+                  TOTAL FOR PROCEDURE     2959       (     2 TRANSACTIONS POSTED,    0 REJECTED)               4           .00 *
+
+   2963 ACETAMIN-COD TAB 300-30MG
+        C     RXM PN00100040 HARDING, CHERISE R              07/10/19 07/10/19 79108       8233                1         826.575    E
+
+                  TOTAL FOR PROCEDURE     2963       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1           .30 *
+
+   3355 DIPHENHYDRAMINE HCL CAP 25MG
+        C     RXM PN00100050 HARDING, ROSE Q                 07/09/19 07/10/19 20762       1793                2         717.151    B
+        C     RXM PN00100045 POLK, CASANDRA S                07/10/19 07/10/19 20762       1793                1         850.182    A
+
+                  TOTAL FOR PROCEDURE     3355       (     2 TRANSACTIONS POSTED,    0 REJECTED)               3           .00 *
+
+   3727 SENNA TAB 8.6MG
+        C     RXM PN00100001 ANDERSON, DIANE H       MB4120A 07/10/19 07/10/19 20225       1793                1         738.209    M
+
+                  TOTAL FOR PROCEDURE     3727       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1           .00 *
+
+   4201 SPIRONOLACTONE TAB 25MG
+        C     RXM PN00100007 WASHINGTON, CHERISE M   MB4119A 07/10/19 07/10/19 20762       1793                1         193.670    M
+
+                  TOTAL FOR PROCEDURE     4201       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1           .90 *
+<ARH4T>                                              ACME PARK HOSPITALS                                                PAGE:     30
+DATE: 07/11/19                        FINANCIAL TRANSACTIONS POSTED 07/10/19 - 07/11/19                           TIME:   01:51:15
+                                                  HOSPITAL 23 ( BRANCH A )
+
+DEPARTMENT :    730  PHARMACY
+
+COST CENTER:  17070  PHARMACY
+
+   PROC TP RV SRC BILLING NO PATIENT NAME              BED   SERV DTE POST DTE OPER  IDOC  BTCH ORD#        UNITS       AMOUNT   CL
+   ---- -- -- --- ---------- ----------------------- ------- -------- -------- ----------  ---- ----        -----      --------  --
+
+   4261 PROCHLORPERAZINE INJ 10MG
+        C     RXM PN00100068 FILMORE, JOE R                  07/09/19 07/10/19 79108       8233                1         573.386    M
+        C     RXM PN00100044 SHEPARD, CHERISE B              07/10/19 07/10/19 79108       8233                1         589.493    E
+
+                  TOTAL FOR PROCEDURE     4261       (     2 TRANSACTIONS POSTED,    0 REJECTED)               2         56.00 *
+
+   4400 PREDNISOLONE NA PHOS ORAL 15MG/5ML SYR
+        C     RXM PN00100070 LINCOLN, GERTIE W               07/10/19 07/10/19 79108       1784                2         645.848    P
+
+                  TOTAL FOR PROCEDURE     4400       (     1 TRANSACTIONS POSTED,    0 REJECTED)               2          5.00 *
+
+   4774 LACTOBACILLUS ACIDOPHILUS CAPSULE
+        C     RXM PN00100050 HARDING, ROSE Q                 07/10/19 07/10/19 20762       1793                2         894.240    B
+        C     RXM PN00100050 HARDING, ROSE Q                 07/10/19 07/10/19 20762       1793                1         568.750    B
+
+                  TOTAL FOR PROCEDURE     4774       (     2 TRANSACTIONS POSTED,    0 REJECTED)               3           .15 *
+
+   4974 METHYLPREDNISOLONE NA SUCC INJ 125MG
+        C     RXM PN00100071 TRUMAN, JAMES C                 07/10/19 07/10/19 79108       8233                1         125.523    E
+        C     RXM PN00100072 ANDERSON, SCOTT H               07/10/19 07/10/19 79108       8233                1           2.406    A
+        C     RXM PN00100007 WASHINGTON, CHERISE M   MB4119A 07/10/19 07/10/19 20762       4846                1         765.465    M
+        C     RXM PN00100007 WASHINGTON, CHERISE M   MB4119A 07/10/19 07/10/19 20762       4846                1         810.436    M
+        C     RXM PN00100007 WASHINGTON, CHERISE M   MB4119A 07/10/19 07/10/19 20762       4846                1          20.949    M
+
+                  TOTAL FOR PROCEDURE     4974       (     5 TRANSACTIONS POSTED,    0 REJECTED)               5         61.00 *
+
+   4975 METHYLPREDNISOLONE NA SUCCINATE 40MG INJ
+        C     RXM PN00100001 ANDERSON, DIANE H       MB4120A 07/10/19 07/10/19 20225       4846                2         194.643    M
+        C     RXM PN00100001 ANDERSON, DIANE H       MB4120A 07/10/19 07/10/19 20225       4846                2         933.693    M
+        C     RXM PN00100001 ANDERSON, DIANE H       MB4120A 07/10/19 07/10/19 20225       4846                2         846.147    M
+
+                  TOTAL FOR PROCEDURE     4975       (     3 TRANSACTIONS POSTED,    0 REJECTED)               6         53.40 *
+
+   5233 FERROUS SULF EC TAB 325MG
+        C     RXM PN00100069 LINCOLN, DIANE P        LD3L03A 07/09/19 07/10/19 20149       1793                1         376.154    E
+        C     RXM PN00100069 LINCOLN, DIANE P        LD3L03A 07/10/19 07/10/19 20149       1793                1         719.194    E
+
+                  TOTAL FOR PROCEDURE     5233       (     2 TRANSACTIONS POSTED,    0 REJECTED)               2           .00 *
+
+   5572 HEPARIN NA INJ 5000U/ML 1ML
+        C     RXM PN00100008 JOHNSON, CHERYL N       MB4123A 07/09/19 07/10/19 20149       4846                2         265.416    E
+        C     RXM PN00100001 ANDERSON, DIANE H       MB4120A 07/10/19 07/10/19 20225       4846                1         460.423    M
+        C     RXM PN00100001 ANDERSON, DIANE H       MB4120A 07/10/19 07/10/19 20225       4846                1         387.158    M
+        C     RXM PN00100050 HARDING, ROSE Q                 07/10/19 07/10/19 20762       4846                1         364.887    B
+        C     RXM PN00100050 HARDING, ROSE Q                 07/10/19 07/10/19 20762       4846                1          43.362    B
+        C     RXM PN00100002 TAFT, KELLY L           MB4125A 07/10/19 07/10/19 20216       4846                1         107.841    P
+        C     RXM PN00100003 ROOSEVELT, JOE W        MB4131A 07/10/19 07/10/19 20762       4846                1         933.778    M
+        C     RXM PN00100003 ROOSEVELT, JOE W        MB4131A 07/10/19 07/10/19 20762       4846                1         576.875    M
+<ARH4T>                                              ACME PARK HOSPITALS                                                PAGE:     31
+DATE: 07/11/19                        FINANCIAL TRANSACTIONS POSTED 07/10/19 - 07/11/19                           TIME:   01:51:15
+                                                  HOSPITAL 23 ( BRANCH A )
+
+DEPARTMENT :    730  PHARMACY
+
+COST CENTER:  17070  PHARMACY
+
+   PROC TP RV SRC BILLING NO PATIENT NAME              BED   SERV DTE POST DTE OPER  IDOC  BTCH ORD#        UNITS       AMOUNT   CL
+   ---- -- -- --- ---------- ----------------------- ------- -------- -------- ----------  ---- ----        -----      --------  --
+
+   5572 HEPARIN NA INJ 5000U/ML 1ML
+        C     RXM PN00100033 PIERCE, FRED L          MB4130A 07/10/19 07/10/19 20762       4846                1         240.126    M
+        C     RXM PN00100004 TRUMAN, ROSE T          MB4118A 07/10/19 07/10/19 20762       4846                1         502.714    M
+        C     RXM PN00100004 TRUMAN, ROSE T          MB4118A 07/10/19 07/10/19 20762       4846                1         367.256    M
+        C     RXM PN00100006 TAFT, DANA Y            MB4128A 07/10/19 07/10/19 20762       4846                1         330.446    M
+        C     RXM PN00100043 PIERCE, JAMES C         MB4121A 07/10/19 07/10/19 20762       4846                1         919.756    E
+        C     RXM PN00100007 WASHINGTON, CHERISE M   MB4119A 07/10/19 07/10/19 20762       4846                1         658.358    M
+        C     RXM PN00100007 WASHINGTON, CHERISE M   MB4119A 07/10/19 07/10/19 20762       4846                1         574.723    M
+        C     RXM PN00100045 POLK, CASANDRA S                07/10/19 07/10/19 20762       4846                1         249.460    A
+        C     RXM PN00100045 POLK, CASANDRA S                07/10/19 07/10/19 20762       4846                1         622.208    A
+        C     RXM PN00100008 JOHNSON, CHERYL N       MB4123A 07/10/19 07/10/19 20149       4846                2         115.339    E
+
+                  TOTAL FOR PROCEDURE     5572       (    18 TRANSACTIONS POSTED,    0 REJECTED)              20        260.00 *
+
+   5769 D5W IV 250ML
+        C     RXM PN00100006 TAFT, DANA Y            MB4128A 07/10/19 07/10/19 20762       1788                2         730.208    M
+        C     RXM PN00100042 THOMAS, GLADYS J                07/10/19 07/10/19 00808       1788                1         687.737    C
+
+                  TOTAL FOR PROCEDURE     5769       (     2 TRANSACTIONS POSTED,    0 REJECTED)               3         41.70 *
+
+   5800 NACL 0.9% 250ML INJ
+        C     RXM PN00100027 HARRISON, CASANDRA V            07/10/19 07/10/19 79108       8233                1         364.048    A
+        C     RXM PN00100045 POLK, CASANDRA S                07/10/19 07/10/19 20762       1788                1          36.177    A
+        C     RXM PN00100045 POLK, CASANDRA S                07/10/19 07/10/19 20762       1788                1         209.643    A
+
+                  TOTAL FOR PROCEDURE     5800       (     3 TRANSACTIONS POSTED,    0 REJECTED)               3         40.50 *
+
+   5802 NACL-0.9% 1000CC
+        C     RXM PN00100025 JOHNSON, FRED O                 07/09/19 07/10/19 00808       5389                1         730.234    P
+
+                  TOTAL FOR PROCEDURE     5802       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1         15.00 *
+
+   5968 NA PHOSPHATES ADULT ENEMA RECTAL 133ML
+        C     RXM PN00100005 ANDERSON, CASANDRA O    MB4129A 07/10/19 07/10/19 20225       1783                1           8.691    M
+
+                  TOTAL FOR PROCEDURE     5968       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1           .00 *
+
+   6598 PREDNISONE TAB 20MG
+        C  R  RXM PN00100001 ANDERSON, DIANE H       MB4120A 07/10/19 07/10/19 20225       1793                2-        963.233-   M
+        C     RXM PN00100001 ANDERSON, DIANE H       MB4120A 07/10/19 07/10/19 20225       1793                2         353.857    M
+        C     RXM PN00100004 TRUMAN, ROSE T          MB4118A 07/10/19 07/10/19 20762       1793                2         343.172    M
+        C     RXM PN00100015 LINCOLN, DIANE P        MB4128A 07/10/19 07/10/19 20762       1793                3         479.745    M
+
+                  TOTAL FOR PROCEDURE     6598       (     4 TRANSACTIONS POSTED,    0 REJECTED)               5          2.00 *
+
+   7461 DEXAMETHASONE INJ 10MG
+        C     RXM PN00100026 POLK, TOBIE K                   07/09/19 07/10/19 79108       8233                1          46.001    B
+        C     RXM PN00100073 JOHNSON, CHERYL I               07/09/19 07/10/19 79108       8233                1         157.314    E
+<ARH4T>                                              ACME PARK HOSPITALS                                                PAGE:     32
+DATE: 07/11/19                        FINANCIAL TRANSACTIONS POSTED 07/10/19 - 07/11/19                           TIME:   01:51:15
+                                                  HOSPITAL 23 ( BRANCH A )
+
+DEPARTMENT :    730  PHARMACY
+
+COST CENTER:  17070  PHARMACY
+
+   PROC TP RV SRC BILLING NO PATIENT NAME              BED   SERV DTE POST DTE OPER  IDOC  BTCH ORD#        UNITS       AMOUNT   CL
+   ---- -- -- --- ---------- ----------------------- ------- -------- -------- ----------  ---- ----        -----      --------  --
+
+   7461 DEXAMETHASONE INJ 10MG
+        C     RXM PN00100074 JEFFERSON, FRED P               07/10/19 07/10/19 79108       8233                1         502.444    E
+        C     RXM PN00100041 PIERCE, GLADYS Y                07/10/19 07/10/19 79108       8233                1         130.042    P
+
+                  TOTAL FOR PROCEDURE     7461       (     4 TRANSACTIONS POSTED,    0 REJECTED)               4         51.20 *
+
+   8446 LACTULOSE ORAL 20GM/30ML UD SYR
+        C     RXM PN00100003 ROOSEVELT, JOE W        MB4131A 07/10/19 07/10/19 20762       1793                4         147.260    M
+        C     RXM PN00100004 TRUMAN, ROSE T          MB4118A 07/10/19 07/10/19 20762       1793                2         188.651    M
+
+                  TOTAL FOR PROCEDURE     8446       (     2 TRANSACTIONS POSTED,    0 REJECTED)               6         18.00 *
+
+   9034 LACTULOSE ORAL 10GM/15ML UD SYR
+        C     RXM PN00100003 ROOSEVELT, JOE W        MB4131A 07/10/19 07/10/19 20762       1793                4          96.558    M
+
+                  TOTAL FOR PROCEDURE     9034       (     1 TRANSACTIONS POSTED,    0 REJECTED)               4          6.00 *
+
+  10249 HYDROCODONE-ACET TAB 10-325MG
+        C     RXM PN00100014 ROOSEVELT, CASANDRA V   MB4131A 07/09/19 07/10/19 20762       9975                1         222.199    P
+        C     RXM PN00100014 ROOSEVELT, CASANDRA V   MB4131A 07/10/19 07/10/19 20762       9975                1         248.098    P
+
+                  TOTAL FOR PROCEDURE    10249       (     2 TRANSACTIONS POSTED,    0 REJECTED)               2          2.20 *
+
+  10369 METOCLOPRAMIDE HCL INJ 10MG/2ML
+        C     RXM PN00100066 LINCOLN, JAMES W                07/09/19 07/10/19 79108       8233                1         571.114    P
+
+                  TOTAL FOR PROCEDURE    10369       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1          5.00 *
+
+  10669 HYDROCORTISONE-PRAMOXIN 1% TOP 10GM FOAM
+        C     RXM PN00100013 PIERCE, CASANDRA M      LD3L02A 07/09/19 07/10/19 16724       1783                1         337.829    B
+
+                  TOTAL FOR PROCEDURE    10669       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1         24.70 *
+
+  10704 POLYETHYLENE GLYCOL ORAL 17GM POW
+        C     RXM PN00100002 TAFT, KELLY L           MB4125A 07/10/19 07/10/19 20216       1793                1         123.034    P
+        C     RXM PN00100003 ROOSEVELT, JOE W        MB4131A 07/10/19 07/10/19 20762       1793                1         317.094    M
+        C     RXM PN00100004 TRUMAN, ROSE T          MB4118A 07/10/19 07/10/19 20762       1793                1         404.117    M
+        C  R  RXM PN00100004 TRUMAN, ROSE T          MB4118A 07/10/19 07/10/19 20762       1793                1-        352.630-   M
+
+                  TOTAL FOR PROCEDURE    10704       (     4 TRANSACTIONS POSTED,    0 REJECTED)               2          4.40 *
+
+  10739 LORAZEPAM INJ 2MG/1ML
+        C     RXM PN00100036 ROOSEVELT, GERTIE M             07/10/19 07/10/19 79108       8233                1         299.454    A
+        C     RXM PN00100005 ANDERSON, CASANDRA O    MB4129A 07/10/19 07/10/19 20225       9975                1         628.750    M
+        C     RXM PN00100006 TAFT, DANA Y            MB4128A 07/10/19 07/10/19 20762       9975                1         700.838    M
+        C     RXM PN00100008 JOHNSON, CHERYL N       MB4123A 07/10/19 07/10/19 20149       9975                1         576.435    E
+
+                  TOTAL FOR PROCEDURE    10739       (     4 TRANSACTIONS POSTED,    0 REJECTED)               4         40.00 *
+<ARH4T>                                              ACME PARK HOSPITALS                                                PAGE:     33
+DATE: 07/11/19                        FINANCIAL TRANSACTIONS POSTED 07/10/19 - 07/11/19                           TIME:   01:51:15
+                                                  HOSPITAL 23 ( BRANCH A )
+
+DEPARTMENT :    730  PHARMACY
+
+COST CENTER:  17070  PHARMACY
+
+   PROC TP RV SRC BILLING NO PATIENT NAME              BED   SERV DTE POST DTE OPER  IDOC  BTCH ORD#        UNITS       AMOUNT   CL
+   ---- -- -- --- ---------- ----------------------- ------- -------- -------- ----------  ---- ----        -----      --------  --
+
+  12398 ATENOLOL TAB 50MG
+        C     RXM PN00100007 WASHINGTON, CHERISE M   MB4119A 07/10/19 07/10/19 20762       1793                1          44.579    M
+        C     RXM PN00100007 WASHINGTON, CHERISE M   MB4119A 07/10/19 07/10/19 20762       1793                1         617.813    M
+
+                  TOTAL FOR PROCEDURE    12398       (     2 TRANSACTIONS POSTED,    0 REJECTED)               2          2.40 *
+
+  12551 ALPRAZOLAM TAB .25 MG
+        C     RXM PN00100001 ANDERSON, DIANE H       MB4120A 07/09/19 07/10/19 20225       9975                1         512.608    M
+        C     RXM PN00100045 POLK, CASANDRA S                07/09/19 07/10/19 20762       9975                2         717.804    A
+        C     RXM PN00100001 ANDERSON, DIANE H       MB4120A 07/10/19 07/10/19 20225       9975                1         726.967    M
+        C     RXM PN00100001 ANDERSON, DIANE H       MB4120A 07/10/19 07/10/19 20225       9975                1         863.068    M
+        C     RXM PN00100045 POLK, CASANDRA S                07/10/19 07/10/19 20762       9975                2         600.788    A
+
+                  TOTAL FOR PROCEDURE    12551       (     5 TRANSACTIONS POSTED,    0 REJECTED)               7          4.20 *
+
+  12553 ALPRAZOLAM TAB 1MG
+        C     RXM PN00100004 TRUMAN, ROSE T          MB4118A 07/09/19 07/10/19 20762       9975                1         434.260    M
+        C     RXM PN00100004 TRUMAN, ROSE T          MB4118A 07/10/19 07/10/19 20762       9975                1          27.441    M
+        C     RXM PN00100004 TRUMAN, ROSE T          MB4118A 07/10/19 07/10/19 20762       9975                1         814.310    M
+
+                  TOTAL FOR PROCEDURE    12553       (     3 TRANSACTIONS POSTED,    0 REJECTED)               3          3.00 *
+
+  14483 NACL-0.9% 100ML IVPB
+        C     RXM PN00100002 TAFT, KELLY L           MB4125A 07/10/19 07/10/19 20216       1788                3         293.874    P
+        C     RXM PN00100003 ROOSEVELT, JOE W        MB4131A 07/10/19 07/10/19 20762       1788                2         742.966    M
+        C     RXM PN00100023 POLK, SCOTT G                   07/10/19 07/10/19 16768       9416                1         546.962    M
+
+                  TOTAL FOR PROCEDURE    14483       (     3 TRANSACTIONS POSTED,    0 REJECTED)               6         27.60 *
+
+  16782 NACL-.9% KCL 20 MEQ 1 L
+        C     RXM PN00100050 HARDING, ROSE Q                 07/10/19 07/10/19 20762       5709                2         525.441    B
+
+                  TOTAL FOR PROCEDURE    16782       (     1 TRANSACTIONS POSTED,    0 REJECTED)               2         32.20 *
+
+  16826 DIVALPROEX NA TAB 250MG
+        C     RXM PN00100045 POLK, CASANDRA S                07/10/19 07/10/19 20762       1793                4         276.991    A
+
+                  TOTAL FOR PROCEDURE    16826       (     1 TRANSACTIONS POSTED,    0 REJECTED)               4          6.40 *
+
+  17628 VANCOMYCIN HCL ORAL SOLN 250MG/ML
+        C     RXM PN00100050 HARDING, ROSE Q                 07/10/19 07/10/19 20762       1785                4         907.933    B
+
+                  TOTAL FOR PROCEDURE    17628       (     1 TRANSACTIONS POSTED,    0 REJECTED)               4         14.80 *
+
+  17825 FUROSEMIDE INJ 40MG
+        C     RXM PN00100015 LINCOLN, DIANE P        MB4128A 07/09/19 07/10/19 20762       4846                1         127.890    M
+        C     RXM PN00100015 LINCOLN, DIANE P        MB4128A 07/10/19 07/10/19 20762       4846                1         524.151    M
+
+                  TOTAL FOR PROCEDURE    17825       (     2 TRANSACTIONS POSTED,    0 REJECTED)               2          8.20 *
+<ARH4T>                                              ACME PARK HOSPITALS                                                PAGE:     34
+DATE: 07/11/19                        FINANCIAL TRANSACTIONS POSTED 07/10/19 - 07/11/19                           TIME:   01:51:15
+                                                  HOSPITAL 23 ( BRANCH A )
+
+DEPARTMENT :    730  PHARMACY
+
+COST CENTER:  17070  PHARMACY
+
+   PROC TP RV SRC BILLING NO PATIENT NAME              BED   SERV DTE POST DTE OPER  IDOC  BTCH ORD#        UNITS       AMOUNT   CL
+   ---- -- -- --- ---------- ----------------------- ------- -------- -------- ----------  ---- ----        -----      --------  --
+
+  18039 ASPIRIN DELAYED RELEASE TAB 81MG
+        C     RXM PN00100001 ANDERSON, DIANE H       MB4120A 07/10/19 07/10/19 20225       1793                1         322.681    M
+        C     RXM PN00100004 TRUMAN, ROSE T          MB4118A 07/10/19 07/10/19 20762       1793                1         472.979    M
+
+                  TOTAL FOR PROCEDURE    18039       (     2 TRANSACTIONS POSTED,    0 REJECTED)               2           .00 *
+
+  18478 VANCOMYCIN HCL 1GM INJ
+        C     RXM PN00100045 POLK, CASANDRA S                07/10/19 07/10/19 20762       1788                2         164.467    A
+        C     RXM PN00100045 POLK, CASANDRA S                07/10/19 07/10/19 20762       1788                2         834.877    A
+
+                  TOTAL FOR PROCEDURE    18478       (     2 TRANSACTIONS POSTED,    0 REJECTED)               4         89.20 *
+
+  18561 HEPARIN 20000U D5W 500ML PREMIX
+        C     RXM PN00100008 JOHNSON, CHERYL N       MB4123A 07/10/19 07/10/19 20149       8987                1         395.928    E
+        C  R  RXM PN00100008 JOHNSON, CHERYL N       MB4123A 07/10/19 07/10/19 20149       8987                1-        844.887-   E
+
+                  TOTAL FOR PROCEDURE    18561       (     2 TRANSACTIONS POSTED,    0 REJECTED)               0           .00 *
+
+  19294 ASPIRIN CHEWABLE TAB 81MG
+        C     RXM PN00100031 PIERCE, KELLY V                 07/10/19 07/10/19 79108       8233                4         238.946    E
+        C     RXM PN00100043 PIERCE, JAMES C         MB4121A 07/10/19 07/10/19 20762       1793                1         198.940    E
+        C     RXM PN00100040 HARDING, CHERISE R              07/10/19 07/10/19 79108       8233                4         790.179    E
+
+                  TOTAL FOR PROCEDURE    19294       (     3 TRANSACTIONS POSTED,    0 REJECTED)               9           .00 *
+
+  19661 CEFTRIAXONE NA INJ 1GM
+        C     RXM PN00100046 WASHINGTON, GLADYS Y            07/10/19 07/10/19 79108       8233                1         529.840    A
+        C     RXM PN00100074 JEFFERSON, FRED P               07/10/19 07/10/19 79108       8233                1         634.481    E
+
+                  TOTAL FOR PROCEDURE    19661       (     2 TRANSACTIONS POSTED,    0 REJECTED)               2         14.40 *
+
+  19778 DOCUSATE NA 100MG CAP
+        C     RXM PN00100001 ANDERSON, DIANE H       MB4120A 07/09/19 07/10/19 20225       1793                1         916.951    M
+        C  R  RXM PN00100001 ANDERSON, DIANE H       MB4120A 07/09/19 07/10/19 20225       1793                1-        365.520    M
+        C     RXM PN00100069 LINCOLN, DIANE P        LD3L03A 07/09/19 07/10/19 20149       1793                1         973.421    E
+        C     RXM PN00100002 TAFT, KELLY L           MB4125A 07/09/19 07/10/19 20216       1793                1          31.644    P
+        C     RXM PN00100013 PIERCE, CASANDRA M      LD3L02A 07/09/19 07/10/19 16724       1793                1         287.060    B
+        C     RXM PN00100004 TRUMAN, ROSE T          MB4118A 07/09/19 07/10/19 20762       1793                1         960.502    M
+        C     RXM PN00100001 ANDERSON, DIANE H       MB4120A 07/10/19 07/10/19 20225       1793                1         261.959    M
+        C     RXM PN00100069 LINCOLN, DIANE P        LD3L03A 07/10/19 07/10/19 20149       1793                1         617.390    E
+        C     RXM PN00100002 TAFT, KELLY L           MB4125A 07/10/19 07/10/19 20216       1793                1         626.860    P
+        C     RXM PN00100013 PIERCE, CASANDRA M      LD3L02A 07/10/19 07/10/19 16724       1793                1         660.509    B
+        C     RXM PN00100005 ANDERSON, CASANDRA O    MB4129A 07/10/19 07/10/19 20225       1793                1         290.014    M
+        C     RXM PN00100008 JOHNSON, CHERYL N       MB4123A 07/10/19 07/10/19 20149       1793                1         332.761    E
+
+                  TOTAL FOR PROCEDURE    19778       (    12 TRANSACTIONS POSTED,    0 REJECTED)              10           .00 *
+
+  21012 KCL 40MEQ/30ML LIQUID UD
+        C     RXM PN00100068 FILMORE, JOE R                  07/09/19 07/10/19 79108       8233                1         682.946    M
+
+                  TOTAL FOR PROCEDURE    21012       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1           .40 *
+<ARH4T>                                              ACME PARK HOSPITALS                                                PAGE:     35
+DATE: 07/11/19                        FINANCIAL TRANSACTIONS POSTED 07/10/19 - 07/11/19                           TIME:   01:51:15
+                                                  HOSPITAL 23 ( BRANCH A )
+
+DEPARTMENT :    730  PHARMACY
+
+COST CENTER:  17070  PHARMACY
+
+   PROC TP RV SRC BILLING NO PATIENT NAME              BED   SERV DTE POST DTE OPER  IDOC  BTCH ORD#        UNITS       AMOUNT   CL
+   ---- -- -- --- ---------- ----------------------- ------- -------- -------- ----------  ---- ----        -----      --------  --
+
+  22128 COLESTIPOL PACKET 5GM
+        C     RXM PN00100050 HARDING, ROSE Q                 07/10/19 07/10/19 20762       1794                6         125.725    B
+
+                  TOTAL FOR PROCEDURE    22128       (     1 TRANSACTIONS POSTED,    0 REJECTED)               6         72.00 *
+
+  22306 MORPHINE 2MG INJ
+        C  R  RXM PN00100005 ANDERSON, CASANDRA O    MB4129A 07/05/19 07/10/19 79108       8233                1-        591.860-   M
+        C     RXM PN00100005 ANDERSON, CASANDRA O    MB4129A 07/09/19 07/10/19 20225       9975                1         616.334    M
+        C     RXM PN00100028 PIERCE, DIANE Y                 07/10/19 07/10/19 79108       8233                1         816.435    M
+        C     RXM PN00100005 ANDERSON, CASANDRA O    MB4129A 07/10/19 07/10/19 20225       9975                1         706.691    M
+        C     RXM PN00100045 POLK, CASANDRA S                07/10/19 07/10/19 20762       9975                1         766.605    A
+
+                  TOTAL FOR PROCEDURE    22306       (     5 TRANSACTIONS POSTED,    0 REJECTED)               3          7.50 *
+
+  23191 KCL-MICROCRYSTA 20MEQ TAB
+        C     RXM PN00100001 ANDERSON, DIANE H       MB4120A 07/10/19 07/10/19 20225       1793                2         731.928    M
+        C     RXM PN00100001 ANDERSON, DIANE H       MB4120A 07/10/19 07/10/19 20225       1793                2         869.519    M
+        C     RXM PN00100034 KENNEDY, GERTIE G               07/10/19 07/10/19 79108       8233                2         540.211    E
+
+                  TOTAL FOR PROCEDURE    23191       (     3 TRANSACTIONS POSTED,    0 REJECTED)               6          3.60 *
+
+  24070 FAMOTIDINE 20MG INJ
+        C     RXM PN00100026 POLK, TOBIE K                   07/09/19 07/10/19 79108       8233                1         475.374    B
+        C     RXM PN00100071 TRUMAN, JAMES C                 07/10/19 07/10/19 79108       8233                1         974.057    E
+        C     RXM PN00100072 ANDERSON, SCOTT H               07/10/19 07/10/19 79108       8233                1         594.216    A
+
+                  TOTAL FOR PROCEDURE    24070       (     3 TRANSACTIONS POSTED,    0 REJECTED)               3         11.10 *
+
+  24109 CEFTRIAXONE 1GM/50ML D5W
+        C     RXM PN00100003 ROOSEVELT, JOE W        MB4131A 07/10/19 07/10/19 20762       5708                1         355.355    M
+
+                  TOTAL FOR PROCEDURE    24109       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1        107.00 *
+
+  24167 WITCH HAZEL 12S 3EA PKG
+        C     RXM PN00100013 PIERCE, CASANDRA M      LD3L02A 07/09/19 07/10/19 16724       1783                1         679.677    B
+
+                  TOTAL FOR PROCEDURE    24167       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1           .00 *
+
+  24904 LISINOPRIL TAB 20MG
+        C  R  RXM PN00100007 WASHINGTON, CHERISE M   MB4119A 07/09/19 07/10/19 20762       1793                2-        718.333-   M
+
+                  TOTAL FOR PROCEDURE    24904       (     1 TRANSACTIONS POSTED,    0 REJECTED)               2-         2.00-*
+
+  24943 FLUOXETINE HCL 20 MG CAP
+        C     RXM PN00100004 TRUMAN, ROSE T          MB4118A 07/10/19 07/10/19 20762       1793                1         706.441    M
+        C     RXM PN00100043 PIERCE, JAMES C         MB4121A 07/10/19 07/10/19 20762       1793                1         737.272    E
+
+                  TOTAL FOR PROCEDURE    24943       (     2 TRANSACTIONS POSTED,    0 REJECTED)               2          5.40 *
+<ARH4T>                                              ACME PARK HOSPITALS                                                PAGE:     36
+DATE: 07/11/19                        FINANCIAL TRANSACTIONS POSTED 07/10/19 - 07/11/19                           TIME:   01:51:15
+                                                  HOSPITAL 23 ( BRANCH A )
+
+DEPARTMENT :    730  PHARMACY
+
+COST CENTER:  17070  PHARMACY
+
+   PROC TP RV SRC BILLING NO PATIENT NAME              BED   SERV DTE POST DTE OPER  IDOC  BTCH ORD#        UNITS       AMOUNT   CL
+   ---- -- -- --- ---------- ----------------------- ------- -------- -------- ----------  ---- ----        -----      --------  --
+
+  25832 PROMETHAZINE INJ 25MG
+        C     RXM PN00100032 TAFT, KELLY S                   07/10/19 07/10/19 00808       4846                1         311.269    E
+
+                  TOTAL FOR PROCEDURE    25832       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1          6.00 *
+
+  25857 HYDROMORPHONE INJ 1MG
+        C     RXM PN00100050 HARDING, ROSE Q                 07/09/19 07/10/19 20762       9975                1         733.071    B
+        C     RXM PN00100002 TAFT, KELLY L           MB4125A 07/09/19 07/10/19 20216       9975                1         266.537    P
+        C     RXM PN00100060 HARRISON, SCOTT C               07/10/19 07/10/19 79108       8233                1         553.938    E
+        C     RXM PN00100050 HARDING, ROSE Q                 07/10/19 07/10/19 20762       9975                1         115.037    B
+        C     RXM PN00100050 HARDING, ROSE Q                 07/10/19 07/10/19 20762       9975                1         410.508    B
+        C     RXM PN00100050 HARDING, ROSE Q                 07/10/19 07/10/19 20762       9975                1         184.266    B
+        C     RXM PN00100050 HARDING, ROSE Q                 07/10/19 07/10/19 20762       9975                1         310.903    B
+        C     RXM PN00100050 HARDING, ROSE Q                 07/10/19 07/10/19 20762       9975                1         577.506    B
+        C     RXM PN00100002 TAFT, KELLY L           MB4125A 07/10/19 07/10/19 20216       9975                1         338.981    P
+        C     RXM PN00100002 TAFT, KELLY L           MB4125A 07/10/19 07/10/19 20216       9975                1         651.297    P
+        C     RXM PN00100002 TAFT, KELLY L           MB4125A 07/10/19 07/10/19 20216       9975                1         837.953    P
+        C     RXM PN00100002 TAFT, KELLY L           MB4125A 07/10/19 07/10/19 20216       9975                1         847.229    P
+        C     RXM PN00100032 TAFT, KELLY S                   07/10/19 07/10/19 79108       8233                1         440.238    E
+        C     RXM PN00100032 TAFT, KELLY S                   07/10/19 07/10/19 79108       8233                1         328.646    E
+        C     RXM PN00100020 HARDING, JAMES N                07/10/19 07/10/19 79108       8233                1           6.384    B
+        C     RXM PN00100020 HARDING, JAMES N                07/10/19 07/10/19 79108       8233                1          73.923    B
+
+                  TOTAL FOR PROCEDURE    25857       (    16 TRANSACTIONS POSTED,    0 REJECTED)              16         44.80 *
+
+  27595 KETOROLAC TROMETHAMINE INJ 60MG
+        C     RXM PN00100073 JOHNSON, CHERYL I               07/09/19 07/10/19 79108       8233                1         707.997    E
+
+                  TOTAL FOR PROCEDURE    27595       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1         11.30 *
+
+  27651 KETOROLAC TROMETHAMINE INJ 30MG
+        C     RXM PN00100025 JOHNSON, FRED O                 07/09/19 07/10/19 79108       8233                1         377.312    P
+        C     RXM PN00100018 THOMAS, BRIAN T                 07/09/19 07/10/19 79108       8233                1         458.645    B
+        C     RXM PN00100022 POLK, TOBIE R                   07/10/19 07/10/19 79108       8233                1         908.588    E
+
+                  TOTAL FOR PROCEDURE    27651       (     3 TRANSACTIONS POSTED,    0 REJECTED)               3          6.30 *
+
+  27919 DIPHENHYDRAMINE 50MG INJ
+        C     RXM PN00100026 POLK, TOBIE K                   07/09/19 07/10/19 79108       8233                1          55.805    B
+        C     RXM PN00100066 LINCOLN, JAMES W                07/09/19 07/10/19 79108       8233                1         918.195    P
+        C     RXM PN00100072 ANDERSON, SCOTT H               07/10/19 07/10/19 79108       8233                1         733.489    A
+
+                  TOTAL FOR PROCEDURE    27919       (     3 TRANSACTIONS POSTED,    0 REJECTED)               3         30.00 *
+
+  27950 LORAZEPAM TAB 0.5MG
+        C     RXM PN00100005 ANDERSON, CASANDRA O    MB4129A 07/09/19 07/10/19 20225       9975                1          52.224    M
+
+                  TOTAL FOR PROCEDURE    27950       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1           .70 *
+<ARH4T>                                              ACME PARK HOSPITALS                                                PAGE:     37
+DATE: 07/11/19                        FINANCIAL TRANSACTIONS POSTED 07/10/19 - 07/11/19                           TIME:   01:51:15
+                                                  HOSPITAL 23 ( BRANCH A )
+
+DEPARTMENT :    730  PHARMACY
+
+COST CENTER:  17070  PHARMACY
+
+   PROC TP RV SRC BILLING NO PATIENT NAME              BED   SERV DTE POST DTE OPER  IDOC  BTCH ORD#        UNITS       AMOUNT   CL
+   ---- -- -- --- ---------- ----------------------- ------- -------- -------- ----------  ---- ----        -----      --------  --
+
+  28241 ONDANSETRON ODT TAB 4MG
+        C     RXM PN00100017 HARRISON, FLORA V               07/09/19 07/10/19 79108       8233                1         860.688    M
+
+                  TOTAL FOR PROCEDURE    28241       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1         55.70 *
+
+  28262 CIPROFLOX 400MG/200ML D5W
+        C     RXM PN00100025 JOHNSON, FRED O                 07/09/19 07/10/19 79108       8233                1         831.937    P
+
+                  TOTAL FOR PROCEDURE    28262       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1         75.00 *
+
+  28354 CHLORPROMAZINE INJ 25MG
+        C     RXM PN00100006 TAFT, DANA Y            MB4128A 07/10/19 07/10/19 20762       1788                2         280.816    M
+
+                  TOTAL FOR PROCEDURE    28354       (     1 TRANSACTIONS POSTED,    0 REJECTED)               2         21.00 *
+
+  31186 HYDROCHLOROTHIAZIDE TAB 25MG
+        C     RXM PN00100001 ANDERSON, DIANE H       MB4120A 07/10/19 07/10/19 20225       1793                1         494.751    M
+
+                  TOTAL FOR PROCEDURE    31186       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1           .10 *
+
+  32262 GUAIF/CODEINE 5ML
+        C     RXM PN00100007 WASHINGTON, CHERISE M   MB4119A 07/10/19 07/10/19 20762       1924                1         957.842    M
+        C  R  RXM PN00100007 WASHINGTON, CHERISE M   MB4119A 07/10/19 07/10/19 20762       1924                1-        641.051-   M
+        C     RXM PN00100007 WASHINGTON, CHERISE M   MB4119A 07/10/19 07/10/19 20762       1924                1         976.769    M
+
+                  TOTAL FOR PROCEDURE    32262       (     3 TRANSACTIONS POSTED,    0 REJECTED)               1           .20 *
+
+  32604 MULT VIT THER TAB
+        C     RXM PN00100001 ANDERSON, DIANE H       MB4120A 07/10/19 07/10/19 20225       1793                1         543.684    M
+
+                  TOTAL FOR PROCEDURE    32604       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1          7.00 *
+
+  36429 SUMATRIPTAN SUCCINATE INJ 6MG
+        C     RXM PN00100017 HARRISON, FLORA V               07/09/19 07/10/19 79108       8233                1         684.916    M
+
+                  TOTAL FOR PROCEDURE    36429       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1        127.60 *
+
+  36579 NICOTINE TRANSDERMAL PATCH 21MG
+        C     RXM PN00100004 TRUMAN, ROSE T          MB4118A 07/10/19 07/10/19 20762       1793                1         221.785    M
+        C     RXM PN00100043 PIERCE, JAMES C         MB4121A 07/10/19 07/10/19 20762       1793                1         826.488    E
+        C  R  RXM PN00100043 PIERCE, JAMES C         MB4121A 07/10/19 07/10/19 20762       1793                1-         85.843-   E
+        C     RXM PN00100045 POLK, CASANDRA S                07/10/19 07/10/19 20762       1793                1         299.977    A
+        C     RXM PN00100045 POLK, CASANDRA S                07/10/19 07/10/19 20762       1793                1         293.482    A
+
+                  TOTAL FOR PROCEDURE    36579       (     5 TRANSACTIONS POSTED,    0 REJECTED)               3          7.50 *
+
+  36800 TEMAZEPAM CAP 7.5MG
+        C     RXM PN00100001 ANDERSON, DIANE H       MB4120A 07/09/19 07/10/19 20225       1924                1         905.619    M
+
+                  TOTAL FOR PROCEDURE    36800       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1          8.80 *
+<ARH4T>                                              ACME PARK HOSPITALS                                                PAGE:     38
+DATE: 07/11/19                        FINANCIAL TRANSACTIONS POSTED 07/10/19 - 07/11/19                           TIME:   01:51:15
+                                                  HOSPITAL 23 ( BRANCH A )
+
+DEPARTMENT :    730  PHARMACY
+
+COST CENTER:  17070  PHARMACY
+
+   PROC TP RV SRC BILLING NO PATIENT NAME              BED   SERV DTE POST DTE OPER  IDOC  BTCH ORD#        UNITS       AMOUNT   CL
+   ---- -- -- --- ---------- ----------------------- ------- -------- -------- ----------  ---- ----        -----      --------  --
+
+  36801 LORATADINE TAB 10MG
+        C     RXM PN00100043 PIERCE, JAMES C         MB4121A 07/10/19 07/10/19 20762       1793                1          10.476    E
+
+                  TOTAL FOR PROCEDURE    36801       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1           .90 *
+
+  36963 KCL 40MEQ/100ML PREMIX IV
+        C     RXM PN00100028 PIERCE, DIANE Y                 07/10/19 07/10/19 79108       8233                1         798.604    M
+
+                  TOTAL FOR PROCEDURE    36963       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1          7.80 *
+
+  37560 PRAVASTATIN 40 MG TABLET
+        C     RXM PN00100007 WASHINGTON, CHERISE M   MB4119A 07/09/19 07/10/19 20762       1793                1         608.344    M
+
+                  TOTAL FOR PROCEDURE    37560       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1         18.80 *
+
+  37572 AMLODIPINE BESYLATE TAB 5MG
+        C     RXM PN00100002 TAFT, KELLY L           MB4125A 07/10/19 07/10/19 20216       1793                1         884.417    P
+        C     RXM PN00100014 ROOSEVELT, CASANDRA V   MB4131A 07/10/19 07/10/19 20762       1793                1         399.998    P
+        C     RXM PN00100004 TRUMAN, ROSE T          MB4118A 07/10/19 07/10/19 20762       1793                1         676.659    M
+
+                  TOTAL FOR PROCEDURE    37572       (     3 TRANSACTIONS POSTED,    0 REJECTED)               3          5.10 *
+
+  38089 NAPROXEN SOD DS TAB 550MG
+        C     RXM PN00100069 LINCOLN, DIANE P        LD3L03A 07/09/19 07/10/19 20149       1793                1         338.939    E
+        C     RXM PN00100069 LINCOLN, DIANE P        LD3L03A 07/10/19 07/10/19 20149       1793                1         858.650    E
+        C     RXM PN00100069 LINCOLN, DIANE P        LD3L03A 07/10/19 07/10/19 20149       1793                1         531.416    E
+
+                  TOTAL FOR PROCEDURE    38089       (     3 TRANSACTIONS POSTED,    0 REJECTED)               3          3.00 *
+
+  38181 GABAPENTIN CAP 300MG
+        C     RXM PN00100002 TAFT, KELLY L           MB4125A 07/09/19 07/10/19 20216       1793                1         931.816    P
+        C     RXM PN00100045 POLK, CASANDRA S                07/09/19 07/10/19 20762       1793                1         439.426    A
+        C     RXM PN00100002 TAFT, KELLY L           MB4125A 07/10/19 07/10/19 20216       1793                1         838.630    P
+        C     RXM PN00100002 TAFT, KELLY L           MB4125A 07/10/19 07/10/19 20216       1793                1         508.851    P
+        C     RXM PN00100045 POLK, CASANDRA S                07/10/19 07/10/19 20762       1793                1         716.220    A
+        C     RXM PN00100045 POLK, CASANDRA S                07/10/19 07/10/19 20762       1793                1         377.858    A
+
+                  TOTAL FOR PROCEDURE    38181       (     6 TRANSACTIONS POSTED,    0 REJECTED)               6         11.40 *
+
+  39437 IPRATROPIUM BROMIDE 0.02% INH 2.5ML
+        C     RXM PN00100041 PIERCE, GLADYS Y                07/10/19 07/10/19 79108       8233                1         437.980    P
+
+                  TOTAL FOR PROCEDURE    39437       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1          1.80 *
+
+  42501 OXYCODONE TAB 10MG
+        C     RXM PN00100069 LINCOLN, DIANE P        LD3L03A 07/09/19 07/10/19 20149       9975                1         124.464    E
+        C     RXM PN00100069 LINCOLN, DIANE P        LD3L03A 07/10/19 07/10/19 20149       9975                1         206.805    E
+
+                  TOTAL FOR PROCEDURE    42501       (     2 TRANSACTIONS POSTED,    0 REJECTED)               2          3.80 *
+<ARH4T>                                              ACME PARK HOSPITALS                                                PAGE:     39
+DATE: 07/11/19                        FINANCIAL TRANSACTIONS POSTED 07/10/19 - 07/11/19                           TIME:   01:51:15
+                                                  HOSPITAL 23 ( BRANCH A )
+
+DEPARTMENT :    730  PHARMACY
+
+COST CENTER:  17070  PHARMACY
+
+   PROC TP RV SRC BILLING NO PATIENT NAME              BED   SERV DTE POST DTE OPER  IDOC  BTCH ORD#        UNITS       AMOUNT   CL
+   ---- -- -- --- ---------- ----------------------- ------- -------- -------- ----------  ---- ----        -----      --------  --
+
+  44068 ATORVASTATIN CA. TAB 10MG
+        C     RXM PN00100004 TRUMAN, ROSE T          MB4118A 07/09/19 07/10/19 20762       1793                1         866.672    M
+
+                  TOTAL FOR PROCEDURE    44068       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1          2.80 *
+
+  44158 ONDANSETRON HCL INJ 2MG/ML
+        C     RXM PN00100025 JOHNSON, FRED O                 07/09/19 07/10/19 79108       8233                1         354.115    P
+        C     RXM PN00100060 HARRISON, SCOTT C               07/10/19 07/10/19 79108       8233                1         363.907    E
+        C     RXM PN00100028 PIERCE, DIANE Y                 07/10/19 07/10/19 79108       8233                1         126.596    M
+        C     RXM PN00100050 HARDING, ROSE Q                 07/10/19 07/10/19 20762       4846                1         661.493    B
+        C     RXM PN00100050 HARDING, ROSE Q                 07/10/19 07/10/19 20762       4846                1         231.022    B
+        C     RXM PN00100002 TAFT, KELLY L           MB4125A 07/10/19 07/10/19 20216       4846                1          87.012    P
+        C     RXM PN00100002 TAFT, KELLY L           MB4125A 07/10/19 07/10/19 20216       4846                1         118.156    P
+        C     RXM PN00100002 TAFT, KELLY L           MB4125A 07/10/19 07/10/19 20216       4846                1         448.936    P
+        C     RXM PN00100002 TAFT, KELLY L           MB4125A 07/10/19 07/10/19 20216       4846                1         193.866    P
+        C     RXM PN00100032 TAFT, KELLY S                   07/10/19 07/10/19 79108       8233                1         762.471    E
+        C     RXM PN00100020 HARDING, JAMES N                07/10/19 07/10/19 79108       8233                1         852.937    B
+        C     RXM PN00100044 SHEPARD, CHERISE B              07/10/19 07/10/19 79108       8233                1         985.577    E
+        C     RXM PN00100037 LINCOLN, BRIAN Q                07/10/19 07/10/19 79108       8233                1         781.296    P
+        C     RXM PN00100006 TAFT, DANA Y            MB4128A 07/10/19 07/10/19 79108       8233                1         190.427    M
+        C     RXM PN00100022 POLK, TOBIE R                   07/10/19 07/10/19 79108       8233                1          63.031    E
+
+                  TOTAL FOR PROCEDURE    44158       (    15 TRANSACTIONS POSTED,    0 REJECTED)              15        501.00 *
+
+  45576 CARVEDILOL TAB 3.125MG
+        C     RXM PN00100015 LINCOLN, DIANE P        MB4128A 07/10/19 07/10/19 20762       1793                1         802.041    M
+
+                  TOTAL FOR PROCEDURE    45576       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1          1.90 *
+
+  45577 CARVEDILOL TAB 6.25MG
+        C  R  RXM PN00100043 PIERCE, JAMES C         MB4121A 07/09/19 07/10/19 20762       1793                1-        416.795-   E
+        C  R  RXM PN00100043 PIERCE, JAMES C         MB4121A 07/09/19 07/10/19 20762       1793                1-        663.364-   E
+        C  R  RXM PN00100043 PIERCE, JAMES C         MB4121A 07/10/19 07/10/19 20762       1793                1-        517.401-   E
+        C     RXM PN00100043 PIERCE, JAMES C         MB4121A 07/10/19 07/10/19 20762       1793                1         912.164    E
+
+                  TOTAL FOR PROCEDURE    45577       (     4 TRANSACTIONS POSTED,    0 REJECTED)               2-         3.80-*
+
+  45579 CARVEDILOL TAB 25MG
+        C     RXM PN00100001 ANDERSON, DIANE H       MB4120A 07/09/19 07/10/19 20225       1793                1         558.282    M
+        C  R  RXM PN00100007 WASHINGTON, CHERISE M   MB4119A 07/10/19 07/10/19 20762       1793                1-        144.979-   M
+        C     RXM PN00100007 WASHINGTON, CHERISE M   MB4119A 07/10/19 07/10/19 20762       1793                1         996.351    M
+
+                  TOTAL FOR PROCEDURE    45579       (     3 TRANSACTIONS POSTED,    0 REJECTED)               1          2.50 *
+
+  46157 MEROPENUM 1GM INJ
+        C     RXM PN00100002 TAFT, KELLY L           MB4125A 07/10/19 07/10/19 20216       1788                3         790.597    P
+
+                  TOTAL FOR PROCEDURE    46157       (     1 TRANSACTIONS POSTED,    0 REJECTED)               3         96.30 *
+<ARH4T>                                              ACME PARK HOSPITALS                                                PAGE:     40
+DATE: 07/11/19                        FINANCIAL TRANSACTIONS POSTED 07/10/19 - 07/11/19                           TIME:   01:51:15
+                                                  HOSPITAL 23 ( BRANCH A )
+
+DEPARTMENT :    730  PHARMACY
+
+COST CENTER:  17070  PHARMACY
+
+   PROC TP RV SRC BILLING NO PATIENT NAME              BED   SERV DTE POST DTE OPER  IDOC  BTCH ORD#        UNITS       AMOUNT   CL
+   ---- -- -- --- ---------- ----------------------- ------- -------- -------- ----------  ---- ----        -----      --------  --
+
+  46166 TAMSULOSIN HCL CAP 0.4MG
+        C     RXM PN00100014 ROOSEVELT, CASANDRA V   MB4131A 07/10/19 07/10/19 20762       1793                1         460.744    P
+
+                  TOTAL FOR PROCEDURE    46166       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1          3.80 *
+
+  54130 ENOXAPARIN NA 100MG/1ML
+        C     RXM PN00100015 LINCOLN, DIANE P        MB4128A 07/10/19 07/10/19 20762       4846                1         548.118    M
+
+                  TOTAL FOR PROCEDURE    54130       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1        223.80 *
+
+  54200 PIPERACIL/TAZ3.375GM/50ML INJ
+        C  R  RXM PN00100002 TAFT, KELLY L           MB4125A 07/09/19 07/10/19 20216       5708                2-        324.325-   P
+        C     RXM PN00100002 TAFT, KELLY L           MB4125A 07/10/19 07/10/19 20216       5708                3         262.879    P
+        C  R  RXM PN00100002 TAFT, KELLY L           MB4125A 07/10/19 07/10/19 20216       5708                3-        310.588-   P
+        C     RXM PN00100045 POLK, CASANDRA S                07/10/19 07/10/19 20762       5708                4         949.809    A
+        C     RXM PN00100008 JOHNSON, CHERYL N       MB4123A 07/10/19 07/10/19 20149       5708                3         465.467    E
+        C  R  RXM PN00100008 JOHNSON, CHERYL N       MB4123A 07/10/19 07/10/19 20149       5708                2-        912.446-   E
+
+                  TOTAL FOR PROCEDURE    54200       (     6 TRANSACTIONS POSTED,    0 REJECTED)               3        213.90 *
+
+  54229 ENOXAPARIN NA INJ 40MG/0.4ML
+        C     RXM PN00100069 LINCOLN, DIANE P        LD3L03A 07/10/19 07/10/19 20149       4846                1         337.535    E
+
+                  TOTAL FOR PROCEDURE    54229       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1         85.20 *
+
+  57001 QUETIAPINE FUMARATE TAB 25MG
+        C     RXM PN00100003 ROOSEVELT, JOE W        MB4131A 07/10/19 07/10/19 20762       1793                1         318.678    M
+
+                  TOTAL FOR PROCEDURE    57001       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1          4.00 *
+
+  59805 PANTOPRAZOLE NA TAB 40MG
+        C     RXM PN00100050 HARDING, ROSE Q                 07/10/19 07/10/19 20762       1793                1         786.701    B
+        C     RXM PN00100002 TAFT, KELLY L           MB4125A 07/10/19 07/10/19 20216       1793                1         632.804    P
+        C     RXM PN00100014 ROOSEVELT, CASANDRA V   MB4131A 07/10/19 07/10/19 20762       1793                1         379.512    P
+        C     RXM PN00100033 PIERCE, FRED L          MB4130A 07/10/19 07/10/19 20762       1793                1         291.564    M
+        C     RXM PN00100004 TRUMAN, ROSE T          MB4118A 07/10/19 07/10/19 20762       1793                1           0.449    M
+        C     RXM PN00100043 PIERCE, JAMES C         MB4121A 07/10/19 07/10/19 20762       1793                1          26.700    E
+        C     RXM PN00100007 WASHINGTON, CHERISE M   MB4119A 07/10/19 07/10/19 20762       1793                1         279.700    M
+        C     RXM PN00100015 LINCOLN, DIANE P        MB4128A 07/10/19 07/10/19 20762       1793                1         681.201    M
+
+                  TOTAL FOR PROCEDURE    59805       (     8 TRANSACTIONS POSTED,    0 REJECTED)               8         28.80 *
+
+  61633 INSULIN ASPART INJ 1 UNIT/0.01 ML
+        C     RXM PN00100002 TAFT, KELLY L           MB4125A 07/10/19 07/10/19 20216       4385                3         438.170    P
+        C     RXM PN00100003 ROOSEVELT, JOE W        MB4131A 07/10/19 07/10/19 20762       4385                3         574.258    M
+        C     RXM PN00100003 ROOSEVELT, JOE W        MB4131A 07/10/19 07/10/19 20762       4385                5         269.145    M
+        C     RXM PN00100003 ROOSEVELT, JOE W        MB4131A 07/10/19 07/10/19 20762       4385                3         881.115    M
+        C     RXM PN00100016 ROOSEVELT, GERTIE T     MB4121A 07/10/19 07/10/19 20762       4385               15         554.897    P
+<ARH4T>                                              ACME PARK HOSPITALS                                                PAGE:     41
+DATE: 07/11/19                        FINANCIAL TRANSACTIONS POSTED 07/10/19 - 07/11/19                           TIME:   01:51:15
+                                                  HOSPITAL 23 ( BRANCH A )
+
+DEPARTMENT :    730  PHARMACY
+
+COST CENTER:  17070  PHARMACY
+
+   PROC TP RV SRC BILLING NO PATIENT NAME              BED   SERV DTE POST DTE OPER  IDOC  BTCH ORD#        UNITS       AMOUNT   CL
+   ---- -- -- --- ---------- ----------------------- ------- -------- -------- ----------  ---- ----        -----      --------  --
+
+  61633 INSULIN ASPART INJ 1 UNIT/0.01 ML
+        C     RXM PN00100016 ROOSEVELT, GERTIE T     MB4121A 07/10/19 07/10/19 20762       4385               15         360.798    P
+
+                  TOTAL FOR PROCEDURE    61633       (     6 TRANSACTIONS POSTED,    0 REJECTED)              44         44.00 *
+
+  62976 ROSUVASTATIN TAB 20MG
+        C     RXM PN00100043 PIERCE, JAMES C         MB4121A 07/10/19 07/10/19 20762       1793                2         811.804    E
+
+                  TOTAL FOR PROCEDURE    62976       (     1 TRANSACTIONS POSTED,    0 REJECTED)               2          5.40 *
+
+  64099 ALBUTEROL TEARDROP 2.5MG/0.5ML
+        C     RXM PN00100041 PIERCE, GLADYS Y                07/10/19 07/10/19 79108       8233                4         757.245    P
+
+                  TOTAL FOR PROCEDURE    64099       (     1 TRANSACTIONS POSTED,    0 REJECTED)               4          3.60 *
+
+  64876 ACETYLCYSTEINE INJ 200MG/ML 30ML
+        C     RXM PN00100042 THOMAS, GLADYS J                07/10/19 07/10/19 00808       1788                2         685.650    C
+
+                  TOTAL FOR PROCEDURE    64876       (     1 TRANSACTIONS POSTED,    0 REJECTED)               2       1128.00 *
+
+  64888 DULOXETINE CAP  60MG
+        C     RXM PN00100016 ROOSEVELT, GERTIE T     MB4121A 07/10/19 07/10/19 20762       1793                2         155.123    P
+
+                  TOTAL FOR PROCEDURE    64888       (     1 TRANSACTIONS POSTED,    0 REJECTED)               2          7.60 *
+
+  66633 MOXIFLOXACIN IVPB 400MG/250ML
+        C     RXM PN00100028 PIERCE, DIANE Y                 07/10/19 07/10/19 79108       8233                1         597.454    M
+        C     RXM PN00100007 WASHINGTON, CHERISE M   MB4119A 07/10/19 07/10/19 20762       2447                1         602.244    M
+
+                  TOTAL FOR PROCEDURE    66633       (     2 TRANSACTIONS POSTED,    0 REJECTED)               2        210.00 *
+
+  66748 ARIPIPRAZOLE TAB 5MG
+        C  R  RXM PN00100004 TRUMAN, ROSE T          MB4118A 07/10/19 07/10/19 20762       1793                1-        506.923-   M
+        C     RXM PN00100004 TRUMAN, ROSE T          MB4118A 07/10/19 07/10/19 20762       1793                2         718.789    M
+
+                  TOTAL FOR PROCEDURE    66748       (     2 TRANSACTIONS POSTED,    0 REJECTED)               1         15.90 *
+
+  66851 PREGABALIN CAP 75MG
+        C     RXM PN00100003 ROOSEVELT, JOE W        MB4131A 07/09/19 07/10/19 20762       1793                1         891.559    M
+        C     RXM PN00100003 ROOSEVELT, JOE W        MB4131A 07/10/19 07/10/19 20762       1793                1         343.270    M
+        C     RXM PN00100003 ROOSEVELT, JOE W        MB4131A 07/10/19 07/10/19 20762       1793                1         928.143    M
+
+                  TOTAL FOR PROCEDURE    66851       (     3 TRANSACTIONS POSTED,    0 REJECTED)               3          6.30 *
+
+  67364 ALBUTEROL HFA 90MCG INHALER 7GM
+        C     RXM PN00100045 POLK, CASANDRA S                07/10/19 07/10/19 20762       1783                1         910.982    A
+
+                  TOTAL FOR PROCEDURE    67364       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1         44.00 *
+<ARH4T>                                              ACME PARK HOSPITALS                                                PAGE:     42
+DATE: 07/11/19                        FINANCIAL TRANSACTIONS POSTED 07/10/19 - 07/11/19                           TIME:   01:51:15
+                                                  HOSPITAL 23 ( BRANCH A )
+
+DEPARTMENT :    730  PHARMACY
+
+COST CENTER:  17070  PHARMACY
+
+   PROC TP RV SRC BILLING NO PATIENT NAME              BED   SERV DTE POST DTE OPER  IDOC  BTCH ORD#        UNITS       AMOUNT   CL
+   ---- -- -- --- ---------- ----------------------- ------- -------- -------- ----------  ---- ----        -----      --------  --
+
+  67805 GUAIFENESIN ER TAB 600MG
+        C     RXM PN00100004 TRUMAN, ROSE T          MB4118A 07/09/19 07/10/19 20762       1793                2         931.961    M
+        C     RXM PN00100001 ANDERSON, DIANE H       MB4120A 07/10/19 07/10/19 20225       1793                1         101.047    M
+        C     RXM PN00100004 TRUMAN, ROSE T          MB4118A 07/10/19 07/10/19 20762       1793                2         381.634    M
+        C     RXM PN00100045 POLK, CASANDRA S                07/10/19 07/10/19 20762       1793                1         128.765    A
+
+                  TOTAL FOR PROCEDURE    67805       (     4 TRANSACTIONS POSTED,    0 REJECTED)               6           .00 *
+
+  68695 AMINO ACID 4.25%/D10% W/O LYTES 1000ML
+        C     RXM PN00100003 ROOSEVELT, JOE W        MB4131A 07/10/19 07/10/19 20762       1786                2         817.353    M
+
+                  TOTAL FOR PROCEDURE    68695       (     1 TRANSACTIONS POSTED,    0 REJECTED)               2        248.40 *
+
+  68711 LEVETIRACETAM 500MG/5ML INJ
+        C     RXM PN00100003 ROOSEVELT, JOE W        MB4131A 07/10/19 07/10/19 20762       1788                2          19.146    M
+
+                  TOTAL FOR PROCEDURE    68711       (     1 TRANSACTIONS POSTED,    0 REJECTED)               2        204.40 *
+
+  70892 ARFORMOTEROL TARTRATE INH SOLN 15MCG/2ML
+        C     RXM PN00100007 WASHINGTON, CHERISE M   MB4119A 07/10/19 07/10/19 20762       1793                2           1.603    M
+        C  R  RXM PN00100007 WASHINGTON, CHERISE M   MB4119A 07/10/19 07/10/19 20762       1793                1-        499.089-   M
+
+                  TOTAL FOR PROCEDURE    70892       (     2 TRANSACTIONS POSTED,    0 REJECTED)               1          5.80 *
+
+  71538 LISINOPRIL TAB 2.5MG
+        C     RXM PN00100015 LINCOLN, DIANE P        MB4128A 07/10/19 07/10/19 20762       1793                1         341.143    M
+
+                  TOTAL FOR PROCEDURE    71538       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1           .70 *
+
+  72541 HYDROCODONE ACET TAB 5-325MG
+        C     RXM PN00100005 ANDERSON, CASANDRA O    MB4129A 07/09/19 07/10/19 20225       9975                1         244.251    M
+        C     RXM PN00100045 POLK, CASANDRA S                07/09/19 07/10/19 20762       9975                1         300.519    A
+        C     RXM PN00100064 WASHINGTON, SUSAN P             07/10/19 07/10/19 79108       8233                2         344.886    B
+        C     RXM PN00100034 KENNEDY, GERTIE G               07/10/19 07/10/19 79108       8233                2         610.162    E
+        C     RXM PN00100062 LINCOLN, SCOTT I                07/10/19 07/10/19 79108       8233                1         657.582    B
+        C     RXM PN00100045 POLK, CASANDRA S                07/10/19 07/10/19 20762       9975                1         817.438    A
+        C     RXM PN00100045 POLK, CASANDRA S                07/10/19 07/10/19 20762       9975                1         802.191    A
+        C     RXM PN00100008 JOHNSON, CHERYL N       MB4123A 07/10/19 07/10/19 20149       9975                1         748.112    E
+
+                  TOTAL FOR PROCEDURE    72541       (     8 TRANSACTIONS POSTED,    0 REJECTED)              10          5.00 *
+
+  72542 HYDROCODONE-ACET TAB 7.5-325MG
+        C     RXM PN00100059 POLK, WARREN S                  07/09/19 07/10/19 79108       8233                1         448.489    M
+
+                  TOTAL FOR PROCEDURE    72542       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1           .60 *
+
+  74202 CHOLECALCIFEROL TAB 1,000 IU
+        C     RXM PN00100050 HARDING, ROSE Q                 07/10/19 07/10/19 20762       1793                2         910.411    B
+
+                  TOTAL FOR PROCEDURE    74202       (     1 TRANSACTIONS POSTED,    0 REJECTED)               2           .00 *
+<ARH4T>                                              ACME PARK HOSPITALS                                                PAGE:     43
+DATE: 07/11/19                        FINANCIAL TRANSACTIONS POSTED 07/10/19 - 07/11/19                           TIME:   01:51:15
+                                                  HOSPITAL 23 ( BRANCH A )
+
+DEPARTMENT :    730  PHARMACY
+
+COST CENTER:  17070  PHARMACY
+
+   PROC TP RV SRC BILLING NO PATIENT NAME              BED   SERV DTE POST DTE OPER  IDOC  BTCH ORD#        UNITS       AMOUNT   CL
+   ---- -- -- --- ---------- ----------------------- ------- -------- -------- ----------  ---- ----        -----      --------  --
+
+  74215 TETANUS DIPHTHERIA TOXOID 7> SYRINGE
+        C     RXM PN00100065 WASHINGTON, CHERYL D            07/09/19 07/10/19 79108       8233                1         433.106    A
+        C     RXM PN00100062 LINCOLN, SCOTT I                07/10/19 07/10/19 00808       4846                1         629.563    B
+
+                  TOTAL FOR PROCEDURE    74215       (     2 TRANSACTIONS POSTED,    0 REJECTED)               2        231.00 *
+
+  74750 INSULIN DETEMIR INJ 1U/0.1ML
+        C     RXM PN00100002 TAFT, KELLY L           MB4125A 07/09/19 07/10/19 20216       4385               20         640.826    P
+        C     RXM PN00100003 ROOSEVELT, JOE W        MB4131A 07/09/19 07/10/19 20762       4385               10         400.282    M
+        C     RXM PN00100003 ROOSEVELT, JOE W        MB4131A 07/10/19 07/10/19 20762       4385               10         327.816    M
+
+                  TOTAL FOR PROCEDURE    74750       (     3 TRANSACTIONS POSTED,    0 REJECTED)              40         12.00 *
+
+  78069 TICAGRELOR TAB 90MG
+        C     RXM PN00100043 PIERCE, JAMES C         MB4121A 07/10/19 07/10/19 20762       1793                2           6.795    E
+
+                  TOTAL FOR PROCEDURE    78069       (     1 TRANSACTIONS POSTED,    0 REJECTED)               2          8.80 *
+
+  90612 KCL 20MEQ/15ML 10% UD ORAL LIQUID
+        C     RXM PN00100068 FILMORE, JOE R                  07/09/19 07/10/19 00808       1784                1          48.008    M
+
+                  TOTAL FOR PROCEDURE    90612       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1         56.00 *
+
+  90715 INSULIN HUMAN R 1 UNIT/0.01ML
+        C     RXM PN00100023 POLK, SCOTT G                   07/10/19 07/10/19 79108       8233               10         587.926    M
+        C     RXM PN00100023 POLK, SCOTT G                   07/10/19 07/10/19 79108       8233               10         273.699    M
+        C     RXM PN00100023 POLK, SCOTT G                   07/10/19 07/10/19 16768       9416              100         348.475    M
+
+                  TOTAL FOR PROCEDURE    90715       (     3 TRANSACTIONS POSTED,    0 REJECTED)             120        120.00 *
+
+  91157 ALBUTEROL-IPRATROPIUM SOLN INH 3ML
+        C     RXM PN00100001 ANDERSON, DIANE H       MB4120A 07/09/19 07/10/19 20225       5714                1         704.388    M
+        C     RXM PN00100001 ANDERSON, DIANE H       MB4120A 07/09/19 07/10/19 20225       5714                1          64.335    M
+        C     RXM PN00100004 TRUMAN, ROSE T          MB4118A 07/09/19 07/10/19 20762       5714                1         844.280    M
+        C     RXM PN00100005 ANDERSON, CASANDRA O    MB4129A 07/09/19 07/10/19 20225       5714                1         782.097    M
+        C     RXM PN00100043 PIERCE, JAMES C         MB4121A 07/09/19 07/10/19 20762       5714                1         220.820    E
+        C     RXM PN00100007 WASHINGTON, CHERISE M   MB4119A 07/09/19 07/10/19 20762       5714                1          79.424    M
+        C     RXM PN00100015 LINCOLN, DIANE P        MB4128A 07/09/19 07/10/19 20762       5714                1         256.204    M
+        C     RXM PN00100015 LINCOLN, DIANE P        MB4128A 07/09/19 07/10/19 20762       5714                1         416.720    M
+        C     RXM PN00100001 ANDERSON, DIANE H       MB4120A 07/10/19 07/10/19 20225       5714                1         882.068    M
+        C     RXM PN00100001 ANDERSON, DIANE H       MB4120A 07/10/19 07/10/19 20225       5714                1         965.678    M
+        C     RXM PN00100001 ANDERSON, DIANE H       MB4120A 07/10/19 07/10/19 20225       5714                1         210.507    M
+        C     RXM PN00100001 ANDERSON, DIANE H       MB4120A 07/10/19 07/10/19 20225       5714                1         615.847    M
+        C     RXM PN00100004 TRUMAN, ROSE T          MB4118A 07/10/19 07/10/19 20762       5714                1         872.769    M
+        C     RXM PN00100004 TRUMAN, ROSE T          MB4118A 07/10/19 07/10/19 20762       5714                1         634.277    M
+        C     RXM PN00100004 TRUMAN, ROSE T          MB4118A 07/10/19 07/10/19 20762       5714                1         737.667    M
+        C     RXM PN00100004 TRUMAN, ROSE T          MB4118A 07/10/19 07/10/19 20762       5714                1         197.698    M
+        C     RXM PN00100005 ANDERSON, CASANDRA O    MB4129A 07/10/19 07/10/19 20225       5714                1         722.725    M
+<ARH4T>                                              ACME PARK HOSPITALS                                                PAGE:     44
+DATE: 07/11/19                        FINANCIAL TRANSACTIONS POSTED 07/10/19 - 07/11/19                           TIME:   01:51:15
+                                                  HOSPITAL 23 ( BRANCH A )
+
+DEPARTMENT :    730  PHARMACY
+
+COST CENTER:  17070  PHARMACY
+
+   PROC TP RV SRC BILLING NO PATIENT NAME              BED   SERV DTE POST DTE OPER  IDOC  BTCH ORD#        UNITS       AMOUNT   CL
+   ---- -- -- --- ---------- ----------------------- ------- -------- -------- ----------  ---- ----        -----      --------  --
+
+  91157 ALBUTEROL-IPRATROPIUM SOLN INH 3ML
+        C     RXM PN00100005 ANDERSON, CASANDRA O    MB4129A 07/10/19 07/10/19 20225       5714                1         319.213    M
+        C     RXM PN00100005 ANDERSON, CASANDRA O    MB4129A 07/10/19 07/10/19 20225       5714                1         250.891    M
+        C     RXM PN00100005 ANDERSON, CASANDRA O    MB4129A 07/10/19 07/10/19 20225       5714                1         544.316    M
+        C     RXM PN00100006 TAFT, DANA Y            MB4128A 07/10/19 07/10/19 20762       5714                1         812.498    M
+        C     RXM PN00100006 TAFT, DANA Y            MB4128A 07/10/19 07/10/19 20762       5714                1         720.262    M
+        C     RXM PN00100043 PIERCE, JAMES C         MB4121A 07/10/19 07/10/19 20762       5714                1         770.444    E
+        C     RXM PN00100043 PIERCE, JAMES C         MB4121A 07/10/19 07/10/19 20762       5714                1         839.508    E
+        C     RXM PN00100007 WASHINGTON, CHERISE M   MB4119A 07/10/19 07/10/19 20762       5714                1         467.088    M
+        C     RXM PN00100007 WASHINGTON, CHERISE M   MB4119A 07/10/19 07/10/19 20762       5714                1         960.833    M
+        C     RXM PN00100007 WASHINGTON, CHERISE M   MB4119A 07/10/19 07/10/19 20762       5714                1         603.399    M
+        C     RXM PN00100007 WASHINGTON, CHERISE M   MB4119A 07/10/19 07/10/19 20762       5714                1         787.596    M
+        C     RXM PN00100045 POLK, CASANDRA S                07/10/19 07/10/19 20762       5714                1         346.347    A
+        C     RXM PN00100015 LINCOLN, DIANE P        MB4128A 07/10/19 07/10/19 20762       5714                1         706.646    M
+        C     RXM PN00100015 LINCOLN, DIANE P        MB4128A 07/10/19 07/10/19 20762       5714                1         173.568    M
+
+                  TOTAL FOR PROCEDURE    91157       (    31 TRANSACTIONS POSTED,    0 REJECTED)              31         62.00 *
+
+  91242 IOPAMIDOL 61% SOL INJ 15ML
+        C     RXM PN00100025 JOHNSON, FRED O                 07/09/19 07/10/19 00808       5389                6         662.236    P
+
+                  TOTAL FOR PROCEDURE    91242       (     1 TRANSACTIONS POSTED,    0 REJECTED)               6         96.00 *
+
+                  TOTAL FOR COST CENTER  17070       (   327 TRANSACTIONS POSTED,    0 REJECTED)             563       5709.25 **
+<ARH4T>                                              ACME PARK HOSPITALS                                                PAGE:     45
+DATE: 07/11/19                        FINANCIAL TRANSACTIONS POSTED 07/10/19 - 07/11/19                           TIME:   01:51:15
+                                                  HOSPITAL 23 ( BRANCH A )
+
+DEPARTMENT :    730  PHARMACY
+
+   PROC TP RV SRC BILLING NO PATIENT NAME              BED   SERV DTE POST DTE OPER  IDOC  BTCH ORD#        UNITS       AMOUNT   CL
+   ---- -- -- --- ---------- ----------------------- ------- -------- -------- ----------  ---- ----        -----      --------  --
+
+                  TOTAL FOR DEPARTMENT     730       (   327 TRANSACTIONS POSTED,    0 REJECTED)             563       5709.25 ***
+
+                  TOTAL REVERSALS FOR DPT  730       (    17 TRANSACTIONS POSTED,    0 REJECTED)              23-       555.10-
+
+
+                                                 TOTALS BY BATCH FOR DEPARTMENT
+
+                               BATCH ID  HASH TOTAL  TRANS POSTED  TRANS REJECTED  UNITS POSTED  AMOUNT POSTED
+                               --------  ----------  ------------  --------------  ------------  -------------
+
+                                 1783       109564             5               0              5         74.80
+                                 1784        99412             2               0              3         61.00
+                                 1785        70512             1               0              4         14.80
+                                 1786       137390             1               0              2        248.40
+                                 1788       637587            12               0             23      1,630.60
+                                 1793      4261445           112               0            119        232.85
+                                 1794       132768             1               0              6         72.00
+                                 1924       133586             4               0              2          9.00
+                                 2447        66633             1               0              1        105.00
+                                 4385      5701852             9               0             84         56.00
+                                 4846       667078            38               0             43      1,139.10
+                                 5389       553254             2               0              7        111.00
+                                 5708       945509             7               0              4        320.90
+                                 5709        33564             1               0              2         32.20
+                                 5714      2825867            31               0             31         62.00
+                                 8233      3996614            60               0             88      1,349.80
+                                 8987        37122             2               0              0           .00
+                                 9416      9085983             2               0            101        104.60
+                                 9975      1007292            36               0             38         85.20
+<ARH4T>                                              ACME PARK HOSPITALS                                                PAGE:     46
+DATE: 07/11/19                        FINANCIAL TRANSACTIONS POSTED 07/10/19 - 07/11/19                           TIME:   01:51:15
+                                                  HOSPITAL 23 ( BRANCH A )
+
+DEPARTMENT :    736  RESPIRATORY THERAPY
+
+COST CENTER:  16170  RESPIRATORY THERAPY
+
+   PROC TP RV SRC BILLING NO PATIENT NAME              BED   SERV DTE POST DTE OPER  IDOC  BTCH ORD#        UNITS       AMOUNT   CL
+   ---- -- -- --- ---------- ----------------------- ------- -------- -------- ----------  ---- ----        -----      --------  --
+
+    447 O2 EA HR
+        C     CRN PN00100001 ANDERSON, DIANE H       MB4120A 07/09/19 07/10/19 20225       C904               12         469.780    M
+        C     CRN PN00100004 TRUMAN, ROSE T          MB4118A 07/09/19 07/10/19 20762       C904               12         756.015    M
+        C     CRN PN00100005 ANDERSON, CASANDRA O    MB4129A 07/09/19 07/10/19 20225       C904               12         374.989    M
+        C     CRN PN00100043 PIERCE, JAMES C         MB4121A 07/09/19 07/10/19 20762       C904               12         134.089    E
+        C     CRN PN00100007 WASHINGTON, CHERISE M   MB4119A 07/09/19 07/10/19 20762       C904               12         144.583    M
+        C     CRN PN00100015 LINCOLN, DIANE P        MB4128A 07/09/19 07/10/19 20762       C904               12         864.684    M
+        C     CRN PN00100001 ANDERSON, DIANE H       MB4120A 07/10/19 07/10/19 20225       C904                4          34.118    M
+        C     CRN PN00100001 ANDERSON, DIANE H       MB4120A 07/10/19 07/10/19 20225       C904                8         159.573    M
+        C     CRN PN00100004 TRUMAN, ROSE T          MB4118A 07/10/19 07/10/19 20762       C904                8         418.617    M
+        C     CRN PN00100004 TRUMAN, ROSE T          MB4118A 07/10/19 07/10/19 20762       C904                4         479.109    M
+        C     CRN PN00100005 ANDERSON, CASANDRA O    MB4129A 07/10/19 07/10/19 20225       C904                4         209.682    M
+        C     CRN PN00100005 ANDERSON, CASANDRA O    MB4129A 07/10/19 07/10/19 20225       C904                8         232.677    M
+        C     CRN PN00100006 TAFT, DANA Y            MB4128A 07/10/19 07/10/19 20762       C904                4           6.522    M
+        C     CRN PN00100007 WASHINGTON, CHERISE M   MB4119A 07/10/19 07/10/19 20762       C904                4         392.588    M
+        C     CRN PN00100007 WASHINGTON, CHERISE M   MB4119A 07/10/19 07/10/19 20762       C904                8         926.873    M
+        C     CRN PN00100045 POLK, CASANDRA S                07/10/19 07/10/19 20762       C904                8         177.054    A
+        C     CRN PN00100015 LINCOLN, DIANE P        MB4128A 07/10/19 07/10/19 20762       C904                8         115.757    M
+
+                  TOTAL FOR PROCEDURE      447       (    17 TRANSACTIONS POSTED,    0 REJECTED)             140       3220.00 *
+
+    466 1ST TRMT < 60 MIN OF DATE
+        C     CRN PN00100001 ANDERSON, DIANE H       MB4120A 07/10/19 07/10/19 20225       C904                1         755.150    M
+        C     CRN PN00100004 TRUMAN, ROSE T          MB4118A 07/10/19 07/10/19 20762       C904                1         398.482    M
+        C     CRN PN00100005 ANDERSON, CASANDRA O    MB4129A 07/10/19 07/10/19 20225       C904                1         976.855    M
+        C     CRN PN00100006 TAFT, DANA Y            MB4128A 07/10/19 07/10/19 20762       C904                1         609.225    M
+        C     CRN PN00100043 PIERCE, JAMES C         MB4121A 07/10/19 07/10/19 20762       C904                1         202.695    E
+        C     CRN PN00100007 WASHINGTON, CHERISE M   MB4119A 07/10/19 07/10/19 20762       C904                1         318.594    M
+        C     CRN PN00100045 POLK, CASANDRA S                07/10/19 07/10/19 20762       C904                1         794.590    A
+        C     CRN PN00100015 LINCOLN, DIANE P        MB4128A 07/10/19 07/10/19 20762       C904                1         999.013    M
+
+                  TOTAL FOR PROCEDURE      466       (     8 TRANSACTIONS POSTED,    0 REJECTED)               8       1512.00 *
+
+  35255 ADD'L TRMT < 60MIN OF DATE
+        C     CRN PN00100001 ANDERSON, DIANE H       MB4120A 07/09/19 07/10/19 20225       C904                1         818.856    M
+        C     CRN PN00100004 TRUMAN, ROSE T          MB4118A 07/09/19 07/10/19 20762       C904                1         181.554    M
+        C     CRN PN00100005 ANDERSON, CASANDRA O    MB4129A 07/09/19 07/10/19 20225       C904                1         545.543    M
+        C     CRN PN00100043 PIERCE, JAMES C         MB4121A 07/09/19 07/10/19 20762       C904                1         182.849    E
+        C     CRN PN00100007 WASHINGTON, CHERISE M   MB4119A 07/09/19 07/10/19 20762       C904                1         632.542    M
+        C     CRN PN00100015 LINCOLN, DIANE P        MB4128A 07/09/19 07/10/19 20762       C904                1         622.126    M
+        C     CRN PN00100015 LINCOLN, DIANE P        MB4128A 07/09/19 07/10/19 20762       C904                1           6.218    M
+        C     CRN PN00100001 ANDERSON, DIANE H       MB4120A 07/10/19 07/10/19 20225       C904                1         809.585    M
+        C     CRN PN00100001 ANDERSON, DIANE H       MB4120A 07/10/19 07/10/19 20225       C904                1         179.109    M
+        C     CRN PN00100001 ANDERSON, DIANE H       MB4120A 07/10/19 07/10/19 20225       C904                1         385.555    M
+        C     CRN PN00100004 TRUMAN, ROSE T          MB4118A 07/10/19 07/10/19 20762       C904                1         333.764    M
+        C     CRN PN00100004 TRUMAN, ROSE T          MB4118A 07/10/19 07/10/19 20762       C904                1         291.543    M
+        C     CRN PN00100005 ANDERSON, CASANDRA O    MB4129A 07/10/19 07/10/19 20225       C904                1         375.285    M
+        C     CRN PN00100005 ANDERSON, CASANDRA O    MB4129A 07/10/19 07/10/19 20225       C904                1         637.024    M
+<ARH4T>                                              ACME PARK HOSPITALS                                                PAGE:     47
+DATE: 07/11/19                        FINANCIAL TRANSACTIONS POSTED 07/10/19 - 07/11/19                           TIME:   01:51:15
+                                                  HOSPITAL 23 ( BRANCH A )
+
+DEPARTMENT :    736  RESPIRATORY THERAPY
+
+COST CENTER:  16170  RESPIRATORY THERAPY
+
+   PROC TP RV SRC BILLING NO PATIENT NAME              BED   SERV DTE POST DTE OPER  IDOC  BTCH ORD#        UNITS       AMOUNT   CL
+   ---- -- -- --- ---------- ----------------------- ------- -------- -------- ----------  ---- ----        -----      --------  --
+
+  35255 ADD'L TRMT < 60MIN OF DATE
+        C     CRN PN00100043 PIERCE, JAMES C         MB4121A 07/10/19 07/10/19 20762       C904                1         634.339    E
+        C     CRN PN00100007 WASHINGTON, CHERISE M   MB4119A 07/10/19 07/10/19 20762       C904                1         786.504    M
+        C     CRN PN00100007 WASHINGTON, CHERISE M   MB4119A 07/10/19 07/10/19 20762       C904                1         551.437    M
+        C     CRN PN00100015 LINCOLN, DIANE P        MB4128A 07/10/19 07/10/19 20762       C904                1         333.355    M
+
+                  TOTAL FOR PROCEDURE    35255       (    18 TRANSACTIONS POSTED,    0 REJECTED)              18       3402.00 *
+
+  39751 INH TRMT MDI EA ADDL
+        C     CRN PN00100001 ANDERSON, DIANE H       MB4120A 07/09/19 07/10/19 20225       C904                1         599.857    M
+        C     CRN PN00100043 PIERCE, JAMES C         MB4121A 07/09/19 07/10/19 20762       C904                1         169.467    E
+
+                  TOTAL FOR PROCEDURE    39751       (     2 TRANSACTIONS POSTED,    0 REJECTED)               2        378.00 *
+
+  71407 CONTINUOUS AEROSOL TREATMENT 1ST HOUR
+        C     CRN PN00100041 PIERCE, GLADYS Y                07/10/19 07/10/19 00808       C904                1          83.967    P
+
+                  TOTAL FOR PROCEDURE    71407       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1        678.00 *
+
+                  TOTAL FOR COST CENTER  16170       (    46 TRANSACTIONS POSTED,    0 REJECTED)             169       9190.00 **
+<ARH4T>                                              ACME PARK HOSPITALS                                                PAGE:     48
+DATE: 07/11/19                        FINANCIAL TRANSACTIONS POSTED 07/10/19 - 07/11/19                           TIME:   01:51:15
+                                                  HOSPITAL 23 ( BRANCH A )
+
+DEPARTMENT :    736  RESPIRATORY THERAPY
+
+   PROC TP RV SRC BILLING NO PATIENT NAME              BED   SERV DTE POST DTE OPER  IDOC  BTCH ORD#        UNITS       AMOUNT   CL
+   ---- -- -- --- ---------- ----------------------- ------- -------- -------- ----------  ---- ----        -----      --------  --
+
+                  TOTAL FOR DEPARTMENT     736       (    46 TRANSACTIONS POSTED,    0 REJECTED)             169       9190.00 ***
+
+                  TOTAL REVERSALS FOR DPT  736       (     0 TRANSACTIONS POSTED,    0 REJECTED)               0           .00
+
+
+                                                 TOTALS BY BATCH FOR DEPARTMENT
+
+                               BATCH ID  HASH TOTAL  TRANS POSTED  TRANS REJECTED  UNITS POSTED  AMOUNT POSTED
+                               --------  ----------  ------------  --------------  ------------  -------------
+
+                                 C904       851807            46               0            169      9,190.00
+<ARH4T>                                              ACME PARK HOSPITALS                                                PAGE:     49
+DATE: 07/11/19                        FINANCIAL TRANSACTIONS POSTED 07/10/19 - 07/11/19                           TIME:   01:51:15
+                                                  HOSPITAL 23 ( BRANCH A )
+
+DEPARTMENT :    820  OUTPATIENT RADIOLOGY DIAG
+
+COST CENTER:  17041  RADIOLOGY-ULTRASOUND
+
+   PROC TP RV SRC BILLING NO PATIENT NAME              BED   SERV DTE POST DTE OPER  IDOC  BTCH ORD#        UNITS       AMOUNT   CL
+   ---- -- -- --- ---------- ----------------------- ------- -------- -------- ----------  ---- ----        -----      --------  --
+
+  37250 US FETAL BIOPHYSICAL WO NON STRESS TESTI
+        C     RAD PN00100011 LINCOLN, FRED N         LD3TRIA 07/09/19 07/10/19 02744       ARS7                1         766.252    A
+        C     RAD PN00100012 POLK, FLORA H           LD3TRIA 07/10/19 07/10/19 02744       ARS7                1         392.001    A
+
+                  TOTAL FOR PROCEDURE    37250       (     2 TRANSACTIONS POSTED,    0 REJECTED)               2       1384.00 *
+
+  38598 US OB LTD 1+FETUSES
+        C     RAD PN00100011 LINCOLN, FRED N         LD3TRIA 07/09/19 07/10/19 02744       ARS7                1         314.216    A
+
+                  TOTAL FOR PROCEDURE    38598       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1        423.00 *
+
+  65609 EXT LOWER VENOUS DOPPLER W COMPRESS LT
+        C     RAD PN00100040 HARDING, CHERISE R              07/10/19 07/10/19 00808       ARS7                1         290.785    E
+
+                  TOTAL FOR PROCEDURE    65609       (     1 TRANSACTIONS POSTED,    0 REJECTED)               1        783.00 *
+
+                  TOTAL FOR COST CENTER  17041       (     4 TRANSACTIONS POSTED,    0 REJECTED)               4       2590.00 **
+<ARH4T>                                              ACME PARK HOSPITALS                                                PAGE:     50
+DATE: 07/11/19                        FINANCIAL TRANSACTIONS POSTED 07/10/19 - 07/11/19                           TIME:   01:51:15
+                                                  HOSPITAL 23 ( BRANCH A )
+
+DEPARTMENT :    820  OUTPATIENT RADIOLOGY DIAG
+
+   PROC TP RV SRC BILLING NO PATIENT NAME              BED   SERV DTE POST DTE RCPT/XFER#  BTCH ORD#        UNITS       AMOUNT   CL
+   ---- -- -- --- ---------- ----------------------- ------- -------- -------- ----------  ---- ----        -----      --------  --
+
+                  TOTAL FOR DEPARTMENT     820       (     4 TRANSACTIONS POSTED,    0 REJECTED)               4       2590.00 ***
+
+                  TOTAL REVERSALS FOR DPT  820       (     0 TRANSACTIONS POSTED,    0 REJECTED)               0           .00
+
+
+                                                 TOTALS BY BATCH FOR DEPARTMENT
+
+                               BATCH ID  HASH TOTAL  TRANS POSTED  TRANS REJECTED  UNITS POSTED  AMOUNT POSTED
+                               --------  ----------  ------------  --------------  ------------  -------------
+
+                                 ARS7       178707             4               0              4      2,590.00
+<ARH4T>                                              ACME PARK HOSPITALS                                                PAGE:     51
+DATE: 07/11/19                        FINANCIAL TRANSACTIONS POSTED 07/10/19 - 07/11/19                           TIME:   01:51:15
+                                                  HOSPITAL 23 ( BRANCH A )
+
+DEPARTMENT :    935  PATIENTS ACCOUNTING
+
+COST CENTER:  10000  BALANCE SHEET-CENTRAL
+
+   PROC TP RV SRC BILLING NO PATIENT NAME              BED   SERV DTE POST DTE RCPT/XFER#  BTCH ORD#        UNITS       AMOUNT   CL
+   ---- -- -- --- ---------- ----------------------- ------- -------- -------- ----------  ---- ----        -----      --------  --
+
+    894 MINIMUM BAL ADJ
+        A     OBL PN00100075 THOMAS, SUSAN W                 07/10/19 07/10/19 ARX16       AR16                1         252.199-   M
+        A     OBL PN00100076 KENNEDY, JAMES N                07/10/19 07/10/19 ARX16       AR16                1          30.303-   M
+        A     OBL PN00100077 JEFFERSON, JOE Z                07/10/19 07/10/19 ARX16       AR16                1         387.879-   M
+
+                  TOTAL FOR PROCEDURE      894       (     3 TRANSACTIONS POSTED,    0 REJECTED)               3          3.89-*
+
+   6260 INHOUSE TOTAL CHRGS
+        X         PN00100078 SHEPARD, KELLY N                07/10/19 07/11/19             W8CG                1         503.649    M
+        X         PN00100079 HARDING, BRIAN H                07/10/19 07/11/19             W8CG                1         171.284    A
+        X         PN00100080 TAFT, SUSAN J                   07/10/19 07/11/19             W8CG                1         643.573    M
+        X         PN00100081 LINCOLN, HAROLD E               07/10/19 07/11/19             W8CG                1         483.413    M
+        X         PN00100082 TRUMAN, KELLY R                 07/10/19 07/11/19             W8CG                1         347.281    M
+        X         PN00100083 FILMORE, HAROLD E               07/10/19 07/11/19             W8CG                1         516.279    E
+        X         PN00100084 LINCOLN, ROSE M                 07/10/19 07/11/19             W8CG                1         778.637    A
+        X         PN00100085 ANDERSON, JAMES A               07/10/19 07/11/19             W8CG                1         488.863    A
+        X         PN00100086 SHEPARD, DANA H                 07/10/19 07/11/19             W8CG                1         716.849    A
+        X         PN00100087 ROOSEVELT, DANA O               07/10/19 07/11/19             W8CG                1         728.450    E
+        X         PN00100088 PIERCE, HAROLD B                07/10/19 07/11/19             W8CG                1         808.405    B
+
+                  TOTAL FOR PROCEDURE     6260       (    11 TRANSACTIONS POSTED,    0 REJECTED)              11     161385.29 *
+
+   6290 INHOUSE TOTAL PMTS
+        X         PN00100087 ROOSEVELT, DANA O               07/10/19 07/11/19             W8CG                1         821.127-   E
+        X         PN00100088 PIERCE, HAROLD B                07/10/19 07/11/19             W8CG                1         861.578-   B
+
+                  TOTAL FOR PROCEDURE     6290       (     2 TRANSACTIONS POSTED,    0 REJECTED)               2        150.00-*
+
+  36286 CLOSING BALANCE
+        XB        PN00100082 TRUMAN, KELLY R                 07/11/19 07/11/19             W6PR                1         806.080    M
+        XB        PN00100089 FILMORE, ROSE L                 02/18/19 07/10/19             W6PR                1         817.141    S
+        XB        PN00100090 LINCOLN, CHERISE R              03/16/19 07/10/19             W6PR                1         470.272    S
+        XB        PN00100091 POLK, DIANE A                   04/09/19 07/10/19             W6PR                1         139.685    S
+        XB        PN00100092 WASHINGTON, FLORA V             07/05/19 07/10/19             W6PR                1         265.473    S
+        XB        PN00100093 JOHNSON, BRIAN C                07/10/19 07/10/19             W6PR                1           2.862    M
+        XB        PN00100094 JOHNSON, TOBIE J                07/10/19 07/10/19             W6PR                1         605.644    E
+        XB        PN00100095 TRUMAN, CHERISE O               02/25/19 07/10/19             W6PR                1          15.940    S
+        XB        PN00100096 ANDERSON, GLADYS V              05/26/19 07/10/19             W6PR                1         708.912    S
+        XB        PN00100097 HARDING, BRIAN R                03/18/19 07/10/19             W6PR                1         409.613    S
+        XB        PN00100098 LINCOLN, SUSAN B                04/06/19 07/10/19             W6PR                1         989.294    S
+        XB        PN00100099 ROOSEVELT, DANA R               04/05/19 07/10/19             W6PR                1         280.974    S
+
+                  TOTAL FOR PROCEDURE    36286       (    12 TRANSACTIONS POSTED,    0 REJECTED)              12      73481.75 *
+
+  57874 SELF PAY
+        X         PN00100100 HARRISON, CASANDRA Z            07/09/19 07/10/19             AR16                1         191.028    B
+        X         PN00100101 FILMORE, DANA C                 07/09/19 07/10/19             AR16                1         559.326    E
+        X         PN00100102 TRUMAN, GERTIE Y                07/09/19 07/10/19             AR16                1         587.511    B
+<ARH4T>                                              ACME PARK HOSPITALS                                                PAGE:     52
+DATE: 07/11/19                        FINANCIAL TRANSACTIONS POSTED 07/10/19 - 07/11/19                           TIME:   01:51:15
+                                                  HOSPITAL 23 ( BRANCH A )
+
+DEPARTMENT :    935  PATIENTS ACCOUNTING
+
+COST CENTER:  10000  BALANCE SHEET-CENTRAL
+
+   PROC TP RV SRC BILLING NO PATIENT NAME              BED   SERV DTE POST DTE RCPT/XFER#  BTCH ORD#        UNITS       AMOUNT   CL
+   ---- -- -- --- ---------- ----------------------- ------- -------- -------- ----------  ---- ----        -----      --------  --
+
+  57874 SELF PAY
+        X         PN00100103 JEFFERSON, BRIAN Q              07/09/19 07/10/19             AR16                1         899.133    B
+        X         PN00100104 LINCOLN, CHERYL R               07/09/19 07/10/19             AR16                1          49.842    E
+        X         PN00100105 HARDING, JAMES M                07/09/19 07/10/19             AR16                1         358.098    B
+        X         PN00100106 ROOSEVELT, DANA B               07/09/19 07/10/19             AR16                1         370.721    C
+        X         PN00100107 WASHINGTON, SUSAN E             07/09/19 07/10/19             AR16                1         282.425    C
+        X         PN00100108 ROOSEVELT, FLORA Q              07/09/19 07/10/19             AR16                1         810.900    C
+        X         PN00100109 TAFT, JOE O                     07/09/19 07/10/19             AR16                1         271.303    C
+        X         PN00100110 HARDING, WILLIAM Q              07/09/19 07/10/19             AR16                1         122.246    C
+        X         PN00100111 LINCOLN, KELLY V                07/09/19 07/10/19             AR16                1         478.915    E
+        X         PN00100112 ANDERSON, JOE D                 07/09/19 07/10/19             AR16                1         855.528    E
+        X         PN00100113 THOMAS, GERTIE B                07/09/19 07/10/19             AR16                1         324.256    E
+        X         PN00100114 POLK, JOE V                     07/09/19 07/10/19             AR16                1         565.888    P
+        X         PN00100115 TRUMAN, GERTIE D                07/09/19 07/10/19             AR16                1         190.510    P
+        X         PN00100116 KENNEDY, FRED H                 07/09/19 07/10/19             AR16                1         902.460    P
+        X         PN00100117 FILMORE, SCOTT H                07/09/19 07/10/19             AR16                1         227.388    P
+        X         PN00100118 POLK, CHERYL P                  07/09/19 07/10/19             AR16                1         796.137    P
+        X         PN00100119 ROOSEVELT, SCOTT I              07/09/19 07/10/19             AR16                1         712.377    P
+        X         PN00100120 SHEPARD, ROSE D                 07/09/19 07/10/19             AR16                1         858.781    P
+        X         PN00100121 THOMAS, KELLY O                 07/09/19 07/10/19             AR16                1         772.736    P
+        X         PN00100122 PIERCE, GERTIE N                07/09/19 07/10/19             AR16                1         889.959    P
+        X         PN00100123 HARDING, CHERYL B               07/09/19 07/10/19             AR16                1          84.935    P
+        X         PN00100124 JEFFERSON, HAROLD K             07/09/19 07/10/19             AR16                1         953.235    P
+        X         PN00100125 KENNEDY, HAROLD V               07/09/19 07/10/19             AR16                1         355.174    P
+        X         PN00100126 POLK, SALLY W                   07/09/19 07/10/19             AR16                1         725.070    P
+        X         PN00100127 POLK, TOBIE J                   07/09/19 07/10/19             AR16                1         874.821    P
+        X         PN00100128 SHEPARD, GERTIE K               07/09/19 07/10/19             AR16                1         675.306    P
+        X         PN00100129 HARRISON, WILLIAM H             07/09/19 07/10/19             AR16                1         102.791    P
+        X         PN00100130 PIERCE, JOE L                   07/09/19 07/10/19             AR16                1         182.049    P
+        X         PN00100131 SHEPARD, DANA Q                 07/09/19 07/10/19             AR16                1         911.692    P
+        X         PN00100132 WASHINGTON, SCOTT J             07/09/19 07/10/19             AR16                1         308.272    B
+        X         PN00100133 POLK, CHERISE N                 07/09/19 07/10/19             AR16                1         804.005    E
+        X         PN00100134 LINCOLN, CHERYL R               07/09/19 07/10/19             AR16                1         390.020    E
+
+                  TOTAL FOR PROCEDURE    57874       (    35 TRANSACTIONS POSTED,    0 REJECTED)              35      34944.82 *
+
+                  TOTAL FOR COST CENTER  10000       (    63 TRANSACTIONS POSTED,    0 REJECTED)              63     269657.97 **
+<ARH4T>                                              ACME PARK HOSPITALS                                                PAGE:     53
+DATE: 07/11/19                        FINANCIAL TRANSACTIONS POSTED 07/10/19 - 07/11/19                           TIME:   01:51:15
+                                                  HOSPITAL 23 ( BRANCH A )
+
+DEPARTMENT :    935  PATIENTS ACCOUNTING
+
+   PROC TP RV SRC BILLING NO PATIENT NAME              BED   SERV DTE POST DTE OPER  IDOC  BTCH ORD#        UNITS       AMOUNT   CL
+   ---- -- -- --- ---------- ----------------------- ------- -------- -------- ----------  ---- ----        -----      --------  --
+
+                  TOTAL FOR DEPARTMENT     935       (    63 TRANSACTIONS POSTED,    0 REJECTED)              63     269657.97 ***
+
+                  TOTAL REVERSALS FOR DPT  935       (     0 TRANSACTIONS POSTED,    0 REJECTED)               0           .00
+
+
+                                                 TOTALS BY BATCH FOR DEPARTMENT
+
+                               BATCH ID  HASH TOTAL  TRANS POSTED  TRANS REJECTED  UNITS POSTED  AMOUNT POSTED
+                               --------  ----------  ------------  --------------  ------------  -------------
+
+                                 AR16      2028272            38               0             38     34,940.93
+                                 W6PR       435432            12               0             12     73,481.75
+                                 W8CG        81440            13               0             13    161,235.29
+<ARH4T>                                              ACME PARK HOSPITALS                                                PAGE:     54
+DATE: 07/11/19                        FINANCIAL TRANSACTIONS POSTED 07/10/19 - 07/11/19                           TIME:   01:51:15
+                                                  HOSPITAL 23 ( BRANCH A )
+
+DEPARTMENT :   9999  HOSPITAL TOTAL
+
+   PROC TP RV SRC BILLING NO PATIENT NAME              BED   SERV DTE POST DTE OPER  IDOC  BTCH ORD#        UNITS       AMOUNT   CL
+   ---- -- -- --- ---------- ----------------------- ------- -------- -------- ----------  ---- ----        -----      --------  --
+
+                  TOTAL FOR HOSPITAL        23       (   775 TRANSACTIONS POSTED,    0 REJECTED)            2026     413258.72 ***
+<ARH4T>TOTALS                                        ACME PARK HOSPITALS                                                PAGE:     55
+DATE: 07/11/19                        FINANCIAL TRANSACTIONS POSTED 07/10/19 - 07/11/19                           TIME:   01:51:15
+                                                  HOSPITAL 23 ( BRANCH A )
+
+                999                             GL REVENUE TOTALS FOR AUG   2014
+
+          D E P A R T M E N T                     HOSPITAL REVENUE                     PROFES. REVENUE              TOTAL REVENUE
+ ************************************     ********************************     ********************************    ***************
+                                                INPATIENT       OUTPATIENT           INPATIENT       OUTPATIENT
+                                                ---------       ----------           ---------       ----------
+
+  600  NURSING SERVICE                         12,734.00         2,721.00                0.00             0.00          15,455.00
+  702  LABORATORY                               4,589.00        16,855.00                0.00             0.00          21,444.00
+  715  CARDIO CATHETERIZATION                       0.00         3,030.00                0.00             0.00           3,030.00
+  720  RADIOLOGY DIAGNOSTIC                       392.00         7,831.00                0.00             0.00           8,223.00
+  723  RADIOLOGY ISOTOPES                       1,744.00             0.00                0.00             0.00           1,744.00
+  725  NUCLEAR PHARMACY                           453.50             0.00                0.00             0.00             453.50
+  729  RADIOLOGY - CT SCAN                      3,640.00        72,122.00                0.00             0.00          75,762.00
+  730  PHARMACY                                 2,351.40         3,357.85                0.00             0.00           5,709.25
+  736  RESPIRATORY THERAPY                      8,139.00         1,051.00                0.00             0.00           9,190.00
+  820  OUTPATIENT RADIOLOGY DIAG                    0.00         2,590.00                0.00             0.00           2,590.00
+
+  *** TOTAL FOR ALL DEPARTMENTS ***            34,042.90       109,557.85                0.00             0.00         143,600.75
+<ARH4T>TOTALS                                        ACME PARK HOSPITALS                                               PAGE:     56
+DATE: 07/11/19                                CONTROL TOTALS - APPLIED TRANSACTIONS                                TIME:    1:51:15
+                                                  HOSPITAL 23 ( BRANCH A )
+
+                999
+      TRANSACTION                              DEBIT               CREDIT                TOTAL          HOSPITAL     PROFESSIONAL
+         TYPE                                                                                           REVENUE      REVENUE
+
+A - ADJUSTMENT                                   0.00                3.89-                 3.89-            0.00             0.00
+B - ROUTINE SERVICE                         12,690.00                0.00             12,690.00        12,690.00             0.00
+BE- ROUTINE SRVC EXT. CHARGES                    0.00                0.00                  0.00             0.00             0.00
+BL-ROUTINE SRVC LATE CHARGES                     0.00                0.00                  0.00             0.00             0.00
+C - CHARGES                                131,465.85              555.10-           130,910.75       130,910.75             0.00
+CE- EXTENDED CHARGES                             0.00                0.00                  0.00             0.00             0.00
+CL - LATE CHARGES                                0.00                0.00                  0.00             0.00             0.00
+D - DISCOUNT AMOUNTS                             0.00                0.00                  0.00
+E - PATIENT HAND CHECK                           0.00                0.00                  0.00
+F - RETURNED CHECK                               0.00                0.00                  0.00
+G - OTHER HAND CHECK                             0.00                0.00                  0.00
+H - RP HAND CHECK                                0.00                0.00                  0.00
+I - INSURANCE PAYMENT                            0.00                0.00                  0.00
+K - COMBINED "TO" ACCOUNT                        0.00                0.00                  0.00
+L - OTHER MACHINE CHECK                          0.00                0.00                  0.00
+M - RP PAYMENT                                   0.00                0.00                  0.00
+M - RP PAYMENT REVERSE                           0.00                0.00                  0.00
+O - BLOOD REPLACEMENT                            0.00                0.00                  0.00
+P - PATIENT PAYMENT                              0.00                0.00                  0.00
+Q - PATIENT MACHINE CHECK                        0.00                0.00                  0.00
+R - RP MACHINE CHECK                             0.00                0.00                  0.00
+T - XFER CR BAL. "FROM" ACCT                     0.00                0.00                  0.00
+TT- INTER HOSPITAL XFER                          0.00                0.00                  0.00
+U - UNMATCHED INSUR. PYMT                        0.00                0.00                  0.00
+V - XFER CR BAL. "TO" ACCT                       0.00                0.00                  0.00
+W - TRANSFER PATIENT TYPE                        0.00                0.00                  0.00
+X - XFER ACCOUNT LOCATION                  196,180.11          196,180.11-                 0.00
+XB- CLOSE+BILL ACCOUNT                      73,481.75                0.00             73,481.75
+Y - XFER HOSPITAL                                0.00                0.00                  0.00
+Z - COMBINE "FROM" ACCOUNT                       0.00                0.00                  0.00
+                                                                                                  ==============   ==============
+                                                                                                      143,600.75             0.00
+                                                                                                  ==============
+                                                                                                  ==============
+                                                                           TOTAL REVENUE              143,600.75
+CMS TOTALS FOR AUDIT PUPOSES
+============================
+ANC. CHARGE TOTALS                         130,910.75
+DAILY CHARGE TOTALS                         12,690.00
+PAYMENTS AND ADJUSTMENTS                         3.89-
+<ARH4T>TOTALS                                        ACME PARK HOSPITALS                                                PAGE:     57
+DATE: 07/11/19                                ACCOUNTS RECEIVABLE CONTROL TOTALS                                  TIME:    1:51:15
+                                                  HOSPITAL 23 ( BRANCH A )
+
+                999
+                  HOSP            PROF        PAYMENTS        TOTAL         TO DATE        TO DATE        TO DATE        TO DATE
+                                                                             HOSP           PROF          PAYMENTS        TOTAL
+
+INHOUSE       127,342.39-          0.00         150.00     127,192.39-  98,921,090.58           0.00   1,092,397.75- 97,828,692.83
+
+A/R           235,998.32           0.00         153.89-    235,844.43  940,086,314.16   2,967,711.54-894,056,982.89- 43,061,619.73
+
+BAD DEBT       34,944.82           0.00           0.00      34,944.82  150,636,305.72   3,007,131.71 119,393,060.77 273,036,498.20
+
+INH ACCR            0.00           0.00           0.00           0.00
+
+A/R ACCR            0.00           0.00           0.00           0.00
+
+BD  ACCR            0.00           0.00           0.00           0.00
+
