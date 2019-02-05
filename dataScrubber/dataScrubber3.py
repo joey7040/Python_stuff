@@ -32,3 +32,4 @@ with open(INFILE) as cin:
                     corp_dict[cno] = nno
                 line = line.replace(cno, nno)
             cout.write(line)
+# scrubbes corp number.

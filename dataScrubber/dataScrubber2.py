@@ -30,3 +30,4 @@ with open(INFILE) as fin:
 
 
 
+# scrubes acct/card numbers
