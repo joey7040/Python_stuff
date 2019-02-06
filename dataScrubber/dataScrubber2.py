@@ -1,9 +1,11 @@
+# scrubes acct/card numbers
+
 import re
 import random
 import time
 
-INFILE = '/home/jrivera/Downloads/chj.txt'
-OUTFILE = '/home/jrivera/Documents/chj.out.txt'
+INFILE = '/home/jrivera/Documents/Python_stuff/BC460-29.txt'
+OUTFILE = '/home/jrivera/Documents/chj.scrubbedAcct.txt'
 acct = re.compile(r'^(?P<cid>\d{16})')
 # corp = re.compile(r'CORP\s+(\d{6})')
 acct_dict = {}
@@ -30,4 +32,3 @@ with open(INFILE) as fin:
 
 
 
-# scrubes acct/card numbers

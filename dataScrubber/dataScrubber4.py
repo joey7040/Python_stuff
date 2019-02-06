@@ -1,9 +1,28 @@
-import re
-pattern = re.compile(r'\d+\,\d+\s(?P<name>(\S+\s)+)')
-txt = '4,999 WADDELL                   819 012715 053118 000000       0.00      0 ZZZZZZZZZ00Z 2101 VB051099 01 F  V'
-a_match = pattern.match(txt)
+# scrubes acct/card numbers with dashes
 
-print(f'parsing the string {txt[6:26]}')
-print(a_match)
-if a_match:
-   print(a_match.group('name'))
+import re
+import random
+import time
+
+INFILE = '/home/jrivera/Documents/Python_stuff/BC460-29.txt'
+OUTFILE = '/home/jrivera/Documents/chj.scrubbedAcct.txt'
+acct = re.compile(r'^(?P<cid>\d{4}\-\d{4}\-\d{4}\-\d{4})')
+acct_dict = {}
+
+
+
+with open(INFILE) as fin:
+    with open(OUTFILE, 'w') as fout:
+        for line in fin:
+            m = acct.match(line)
+            if m:
+                cno = m.group('cid')
+                nno = acct_dict.get(cno)
+                if not nno:
+                    nno = str(random.randint(1000000000000000, 4999999999999999))
+                    acct_dict[cno] = nno
+                line = line.replace(cno, nno)
+            fout.write(line)
+
+
+
