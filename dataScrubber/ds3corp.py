@@ -9,7 +9,7 @@ OUTFILE = '/home/jrivera/Documents/chj.scrubbed-acct-corps.txt'
 corp = re.compile(r'CORP\s(?P<corpnumber>\d{6})')
 
 corp_dict = {}
-card_dict = {}
+
 
 
 

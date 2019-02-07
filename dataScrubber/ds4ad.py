@@ -19,8 +19,8 @@ with open(INFILE) as fin:
                 cno = m.group('cid')
                 nno = acct_dict.get(cno)
                 if not nno:
-                    nno = str(random.randint(1000000000000000, 4999999999999999))
-                    acct_dict[cno] = nno
+                    nno = str(random.randint(4000000000000000, 4999999999999999))
+                    # acct_dict[cno] = nno #this looks to see if a exisiting key value pair 
                 line = line.replace(cno, nno)
             fout.write(line)
 

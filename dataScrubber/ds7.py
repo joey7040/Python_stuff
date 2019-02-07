@@ -5,7 +5,7 @@ import random
 import time
 
 # INFILE = '/home/jrivera/Documents/chj.scrubbed-acct-corps.txt'
-INFILE = '/home/jrivera/Documents/Python_stuff/BC460-29.txt'
+INFILE = '/home/jrivera/Documents/chj.scrubbed-acct-corps.txt'
 OUTFILE = '/home/jrivera/Documents/chj.scrubbed-acct-corps-names.txt'
 NAMEFILE = '/home/jrivera/Documents/celebraties.txt'
 
@@ -32,8 +32,7 @@ with open(INFILE) as fin:
                     new_name = new_name[:23]
                 elif len(new_name) < 23:
                     new_name = new_name.ljust(23)                       
-                line = line[:56] + new_name + line[79:]
+                line = line[:18] + new_name + line[40:]
                 fout.write(line)
             else:
                 fout.write(line)
-
