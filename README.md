@@ -9,3 +9,9 @@ Run python babymaker_2.py in your terminal it will prompt to choose 1 of three o
 
 ## webMapApp
 open the index html file in a browser ;]
+
+## dataScrubber 
+Just a system of data scrubbing/cleansing a type of txt file. scrubbit falls under this catagory as well
+
+## dragonGame
+Game that takes you to the world of dragons!
