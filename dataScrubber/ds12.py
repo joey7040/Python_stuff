@@ -23,7 +23,7 @@ with open(INFILE) as fin:
         for line in fin:
             if acct_rx.match(line):
                 new_number = str(random.randint(17,19))
-                line = line[:76] + new_number + line[79:]
+                line = line[:75] + new_number + line[78:]
                 fout.write(line)
             else:
                 fout.write(line)

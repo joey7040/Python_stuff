@@ -20,7 +20,7 @@ with open(INFILE) as fin:
     with open(OUTFILE, 'w') as fout:
         for line in fin:
             if acct_rx.match(line):
-                new_number = str(random.randint(1,12))
+                new_number = str(random.randint(1,9))
                 line = line[:70] + new_number + line[72:]
                 fout.write(line)
             else:

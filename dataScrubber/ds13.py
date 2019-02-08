@@ -18,8 +18,8 @@ with open(INFILE) as fin:
     with open(OUTFILE, 'w') as fout:
         for line in fin:
             if acct_rx.match(line):
-                new_number = str(random.randint(1,12))
-                line = line[:81] + new_number + line[83:]
+                new_number = str(random.randint(1,9))
+                line = line[:80] + new_number + line[82:]
                 fout.write(line)
             else:
                 fout.write(line)

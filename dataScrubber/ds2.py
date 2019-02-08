@@ -26,7 +26,7 @@ with open(INFILE) as fin:
                 nno = acct_dict.get(cno)
                 if not nno:
                     nno = str(random.randint(4000000000000000, 4999999999999999)+1)
-                    acct_dict[cno] = nno
+                    # acct_dict[cno] = nno
                 line = line.replace(cno, nno)
             fout.write(line)
 
