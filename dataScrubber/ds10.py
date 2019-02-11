@@ -1,4 +1,4 @@
-
+# writes the month
 
 import re
 import random
@@ -21,7 +21,7 @@ with open(INFILE) as fin:
         for line in fin:
             if acct_rx.match(line):
                 new_number = str(random.randint(1,9))
-                line = line[:70] + new_number + line[72:]
+                line = line[:71] + new_number + line[72:]
                 fout.write(line)
             else:
                 fout.write(line)
