@@ -46,4 +46,14 @@ def myfunc(a,b,c=0):
 # *args allows you to take any number of arguments
 
 def newfunc(*args):
-    return sum(args)* 0.5
+    return sum( args)* 0.5
+#similarly python has **kwargs that allows you to use any number of keyword arguments
+def keyworded(**kwargs):
+    if 'fruit' in kwargs:
+        print('my {}'.format(kwargs['fruit'])+ 's bring all the boys to the yard')
+    else:
+        print('No fruits found bro....')
+
+def bigChungus(C):
+    for C in range(0,1000):
+        C = C+1
