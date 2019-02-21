@@ -1,9 +1,11 @@
+# scrubes acct/card numbers
+
 import re
 import random
 import time
 
-INFILE = '/home/jrivera/Downloads/chj.txt'
-OUTFILE = '/home/jrivera/Documents/chj.out.txt'
+INFILE = '/home/jrivera/Documents/Python_stuff/BC460-29.txt'
+OUTFILE = '/home/jrivera/Documents/chj.scrubbedAcct.txt'
 acct = re.compile(r'^(?P<cid>\d{16})')
 # corp = re.compile(r'CORP\s+(\d{6})')
 acct_dict = {}
@@ -24,10 +26,9 @@ with open(INFILE) as fin:
                 nno = acct_dict.get(cno)
                 if not nno:
                     nno = str(random.randint(4000000000000000, 4999999999999999)+1)
-                    acct_dict[cno] = nno
+                    # acct_dict[cno] = nno
                 line = line.replace(cno, nno)
             fout.write(line)
 
 
 
-# scrubes acct/card numbers

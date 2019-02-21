@@ -1,8 +1,8 @@
 import re
 import random
-
-INFILE = '/home/jrivera/Downloads/chj.txt'
-OUTFILE = '/home/jrivera/Documents/chj.out.txt'
+# this will scrub acct nums in chj files
+INFILE = '/home/jrivera/Documents/Python_stuff/BC460-29.txt'
+OUTFILE = '/home/jrivera/Documents/out.txt'
 rx = re.compile(r'^(?P<cid>\d{16})')
 card_dict = {}
 
