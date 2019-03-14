@@ -24,9 +24,13 @@ def forgot_password():
     return render_template('forgot_password.html')
 
 
-@app.route('/tables')
+@app.route('/usertable')
 def tables():
-    return render_template('tables.html')
+    return render_template('usertable.html')
+
+@app.route('/credituniontable')
+def creditunion():
+    return render_template('credituniontable.html')
 
 @app.route('/charts')
 def charts():
