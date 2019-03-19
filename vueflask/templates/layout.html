@@ -304,6 +304,7 @@
 {% endblock %}
 
 <div id='app'>
+  <h1>[[ title ]]</h1>
 </div>
 
 
@@ -337,14 +338,31 @@
      <script src="/static/js/demo/datatables-demo.js"></script>
      <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 
-    <script>
+     <script src="https://cdn.jsdelivr.net/npm/vue-resource@1.5.1"></script>
+     <script>
         var app = new Vue({
             el:'#app',
-            delitmiters: ['[[',']]'],
+            delimiters: ['[[',']]'],
             data:{
-                title:"hello world"
-            }
+                band: {}
+            },
+            mounted: function(){
+              this.fetchData()
+            },
+            methods: {
+              fetchData: function(){
+                this.$http.get('/test').then(response =>{
+                  // get the body
+                  this.band = response.body;
+                  this.somedata = response.body;
+                }, response => {
+                  // callback error
+                  console.log('an error occured.')
+                });
+              }
+            },
+
         })
-    </script>
+     </script>
 
 </html>
