@@ -6,7 +6,7 @@ import random
 import time
 
 INFILE = '/home/jrivera/Documents/chj.scrubbed-acct-corp-names-hp-bp-d1mdy-d2my.txt'
-OUTFILE = '/home/jrivera/Documents/chj.scrubbed-acct-corp-names-hp-bp-d1mdy-d2my-rpt.txt'
+OUTFILE = '/home/jrivera/Documents/chj.scrub.12.txt'
 
 acct_rx = re.compile(r'(\d{16}\s)')
 

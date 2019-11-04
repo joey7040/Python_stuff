@@ -4,17 +4,13 @@ import re
 import random
 import time
 
-INFILE = '/home/jrivera/Documents/Python_stuff/BC460-29.txt'
-OUTFILE = '/home/jrivera/Documents/chj.scrubbedAcct.txt'
+INFILE = '/home/jrivera/Documents/chj.scrubbed-acct-corp-names-hp-bp-d1mdy-d2my-rpt.txt'
+OUTFILE = '/home/jrivera/Documents/chj.scrub.1.txt'
 acct = re.compile(r'^(?P<cid>\d{16})')
 # corp = re.compile(r'CORP\s+(\d{6})')
 acct_dict = {}
 # corp_dict = {}
 
-print('Now getting file to scrub')
-time.sleep(2)
-print('Now Scrubbing some stuff')
-time.sleep(2)
 print('finished scrubbing')
 
 with open(INFILE) as fin:
