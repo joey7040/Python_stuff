@@ -3,7 +3,7 @@ import unittest
 from classes.validator import validator
 
 class TestValidator(unittest.TestCase):
-    
+
     def test_too_long(self):
         #Assume
 
@@ -38,6 +38,7 @@ class TestValidator(unittest.TestCase):
         result = self.assertFalse(result)
 
 validator = validator()
+
     
 if __name__ == '__main__':
     unittest.main()

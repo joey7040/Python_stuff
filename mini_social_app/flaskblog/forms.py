@@ -59,9 +59,6 @@ class UpdateAccountForm(FlaskForm):
 class PostForm(FlaskForm):
     title = StringField('Title', validators=[DataRequired()])
     content = TextAreaField('Content', validators=[DataRequired()])
-<<<<<<< HEAD
-    submit = SubmitField('Post')
-=======
     submit = SubmitField('Post')
 
 
@@ -81,4 +78,3 @@ class ResetPasswordForm(FlaskForm):
     confirm_password = PasswordField('Confirm Password',
                                      validators=[DataRequired(), EqualTo('password')])
     submit = SubmitField('Reset Password')
->>>>>>> b044a6f97e4e899cc6a49b15b1ede4a6d3fa8b02

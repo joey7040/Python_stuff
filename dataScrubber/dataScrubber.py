@@ -15,6 +15,6 @@ with open(INFILE) as fin:
                 nno = card_dict.get(cno)
                 if not nno:
                     nno = str(random.randint(4000000000000000, 4999999999999999))
-                    card_dict[cno] = nno
+                    card_dict[cno] = nnols
                 line = line.replace(cno, nno)
             fout.write(line)
